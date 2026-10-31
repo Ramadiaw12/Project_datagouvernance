@@ -1,0 +1,103 @@
+﻿product_id,product_name,brand,category,gtin,model,specification,color,status,created_at,updated_at
+P0001,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,ACTIVE,2025-02-02,2026-02-02
+P0002,Apple iPhone 15 128 Go,Apple,Smartphone,3700000000002,iPhone 15,128 Go,Noir,ACTIVE,2025-03-03,2026-03-03
+P0003,Apple iPhone 15 Pro 256 Go,Apple,Smartphone,3700000000003,iPhone 15 Pro,256 Go,Titane,ACTIVE,2025-04-04,2026-04-04
+P0004,Xiaomi Redmi Note 13 256 Go,Xiaomi,Smartphone,3700000000004,Redmi Note 13,256 Go,Noir,ACTIVE,2025-05-05,2026-05-05
+P0005,Google Pixel 8 128 Go,Google,Smartphone,3700000000005,Pixel 8,128 Go,Noir,ACTIVE,2025-06-06,2026-06-06
+P0006,Sony WH-1000XM5,Sony,Casque audio,3700000000006,WH-1000XM5,,Noir,ACTIVE,2025-07-07,2026-07-07
+P0007,JBL Tune 760NC,JBL,Casque audio,3700000000007,Tune 760NC,,Noir,ACTIVE,2025-08-08,2026-08-08
+P0008,Apple AirPods Pro 2,Apple,Écouteurs,3700000000008,AirPods Pro 2,,Blanc,ACTIVE,2025-09-09,2026-09-09
+P0009,Dell XPS 13 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000009,XPS 13,16 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-10-10,2026-01-10
+P0010,HP Pavilion 15 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000010,Pavilion 15,8 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-11-11,2026-02-11
+P0011,Lenovo ThinkPad E14 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000011,ThinkPad E14,16 Go RAM / 512 Go SSD,Noir,ACTIVE,2025-12-12,2026-03-12
+P0012,Apple MacBook Air M3 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000012,MacBook Air M3,16 Go RAM / 512 Go SSD,Minuit,ACTIVE,2025-01-13,2026-04-13
+P0013,Logitech MX Master 3S,Logitech,Souris,,MX Master 3S,,Graphite,ACTIVE,2025-02-14,2026-05-14
+P0014,Logitech K380,Logitech,Clavier,3700000000014,K380,,Blanc,ACTIVE,2025-03-15,2026-06-15
+P0015,Samsung T7 Shield 1 To,Samsung,SSD externe,3700000000015,T7 Shield,1 To,Bleu,ACTIVE,2025-04-16,2026-07-16
+P0016,SanDisk Extreme Portable SSD 1 To,SanDisk,SSD externe,3700000000016,Extreme Portable SSD,1 To,Noir,ACTIVE,2025-05-17,2026-08-17
+P0017,,Canon,Appareil photo,3700000000017,EOS R50,,Noir,ACTIVE,2025-06-18,2026-09-18
+P0018,LG OLED C3 55 pouces 55 pouces,LG,Téléviseur,3700000000018,OLED C3 55 pouces,55 pouces,Noir,ACTIVE,2025-07-19,2026-01-19
+P0019,Dyson V15 Detect,Dyson,Aspirateur,3700000000019,V15 Detect,,Jaune,inactive,2025-08-20,2026-02-20
+P0020,"Philips Airfryer XXL 7,3 L",Philips,Friteuse sans huile,3700000000020,Airfryer XXL,"7,3 L",Noir,ACTIVE,2025-09-21,2026-03-21
+P0021,Nespresso Vertuo Pop,Nespresso,Machine à café,3700000000021,Vertuo Pop,,Rouge,ACTIVE,2025-10-22,2026-04-22
+P0022,Nike Air Max 90 42,Nike,Chaussures,3700000000022,Air Max 90,42,Blanc,ACTIVE,2025-11-23,2026-05-23
+P0023,Adidas Ultraboost Light 42,Adidas,Chaussures,3700000000023,Ultraboost Light,42,Noir,ACTIVE,2025-12-24,2026-06-24
+P0024,"Samsonite Guardit 2.0 15,6 pouces",Samsonite,Sac à dos,3700000000024,Guardit 2.0,"15,6 pouces",Noir,ACTIVE,2025-01-25,2026-07-25
+P0025,Samsung Galaxy S24 édition 25 128 Go,Samsung,Smartphone,3700000000025,Galaxy S24 édition 25,128 Go,Noir,ACTIVE,2025-02-26,2026-08-26
+P0026,Apple iPhone 15 édition 26 128 Go,Apple,Smartphone,,iPhone 15 édition 26,128 Go,Noir,ACTIVE,2025-03-27,2026-09-27
+P0027,Apple iPhone 15 Pro édition 27 256 Go,Apple,Smartphone,3700000000027,iPhone 15 Pro édition 27,256 Go,Titane,ACTIVE,2025-04-01,2026-01-01
+P0028,Xiaomi Redmi Note 13 édition 28 256 Go,Xiaomi,Smartphone,3700000000028,Redmi Note 13 édition 28,256 Go,Noir,ACTIVE,2025-05-02,2026-02-02
+P0029,Google Pixel 8 édition 29 128 Go,Google,Smartphone,3700000000029,Pixel 8 édition 29,128 Go,Noir,ACTIVE,2025-06-03,2026-03-03
+P0030,Sony WH-1000XM5 édition 30,Sony,Casque audio,3700000000030,WH-1000XM5 édition 30,,Noir,ACTIVE,2025-07-04,2026-04-04
+P0031,JBL Tune 760NC édition 31,JBL,Casque audio,3700000000031,Tune 760NC édition 31,,Noir,ACTIVE,2025-08-05,2026-05-05
+P0032,Apple AirPods Pro 2 édition 32,Apple,Écouteurs,3700000000032,AirPods Pro 2 édition 32,,Blanc,ACTIVE,2025-09-06,2026-06-06
+P0033,Dell XPS 13 édition 33 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000033,XPS 13 édition 33,16 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-10-07,2026-07-07
+P0034,,HP,Ordinateur portable,3700000000034,Pavilion 15 édition 34,8 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-11-08,2026-08-08
+P0035,Lenovo ThinkPad E14 édition 35 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000035,ThinkPad E14 édition 35,16 Go RAM / 512 Go SSD,Noir,ACTIVE,2025-12-09,2026-09-09
+P0036,Apple MacBook Air M3 édition 36 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000036,MacBook Air M3 édition 36,16 Go RAM / 512 Go SSD,Minuit,ACTIVE,2025-01-10,2026-01-10
+P0037,Logitech MX Master 3S édition 37,Logitech,Souris,3700000000037,MX Master 3S édition 37,,Graphite,ACTIVE,2025-02-11,2026-02-11
+P0038,Logitech K380 édition 38,Logitech,Clavier,3700000000038,K380 édition 38,,Blanc,inactive,2025-03-12,2026-03-12
+P0039,Samsung T7 Shield édition 39 1 To,Samsung,SSD externe,,T7 Shield édition 39,1 To,Bleu,ACTIVE,2025-04-13,2026-04-13
+P0040,SanDisk Extreme Portable SSD édition 40 1 To,SanDisk,SSD externe,3700000000040,Extreme Portable SSD édition 40,1 To,Noir,ACTIVE,2025-05-14,2026-05-14
+P0041,Canon EOS R50 édition 41,Canon,Appareil photo,3700000000041,EOS R50 édition 41,,Noir,ACTIVE,2025-06-15,2026-06-15
+P0042,LG OLED C3 55 pouces édition 42 55 pouces,LG,Téléviseur,3700000000042,OLED C3 55 pouces édition 42,55 pouces,Noir,ACTIVE,2025-07-16,2026-07-16
+P0043,Dyson V15 Detect édition 43,Dyson,Aspirateur,3700000000043,V15 Detect édition 43,,Jaune,ACTIVE,2025-08-17,2026-08-17
+P0044,"Philips Airfryer XXL édition 44 7,3 L",Philips,Friteuse sans huile,3700000000044,Airfryer XXL édition 44,"7,3 L",Noir,ACTIVE,2025-09-18,2026-09-18
+P0045,Nespresso Vertuo Pop édition 45,Nespresso,Machine à café,3700000000045,Vertuo Pop édition 45,,Rouge,ACTIVE,2025-10-19,2026-01-19
+P0046,Nike Air Max 90 édition 46 42,Nike,Chaussures,3700000000046,Air Max 90 édition 46,42,Blanc,ACTIVE,2025-11-20,2026-02-20
+P0047,Adidas Ultraboost Light édition 47 42,Adidas,Chaussures,3700000000047,Ultraboost Light édition 47,42,Noir,ACTIVE,2025-12-21,2026-03-21
+P0048,"Samsonite Guardit 2.0 édition 48 15,6 pouces",Samsonite,Sac à dos,3700000000048,Guardit 2.0 édition 48,"15,6 pouces",Noir,ACTIVE,2025-01-22,2026-04-22
+P0049,Samsung Galaxy S24 édition 49 128 Go,Samsung,Smartphone,3700000000049,Galaxy S24 édition 49,128 Go,Noir,ACTIVE,2025-02-23,2026-05-23
+P0050,Apple iPhone 15 édition 50 128 Go,Apple,Smartphone,3700000000050,iPhone 15 édition 50,128 Go,Noir,ACTIVE,2025-03-24,2026-06-24
+P0051,,Apple,Smartphone,3700000000051,iPhone 15 Pro édition 51,256 Go,Titane,ACTIVE,2025-04-25,2026-07-25
+P0052,Xiaomi Redmi Note 13 édition 52 256 Go,Xiaomi,Smartphone,,Redmi Note 13 édition 52,256 Go,Noir,ACTIVE,2025-05-26,2026-08-26
+P0053,Google Pixel 8 édition 53 128 Go,Google,Smartphone,3700000000053,Pixel 8 édition 53,128 Go,Noir,ACTIVE,2025-06-27,2026-09-27
+P0054,Sony WH-1000XM5 édition 54,Sony,Casque audio,3700000000054,WH-1000XM5 édition 54,,Noir,ACTIVE,2025-07-01,2026-01-01
+P0055,JBL Tune 760NC édition 55,JBL,Casque audio,3700000000055,Tune 760NC édition 55,,Noir,ACTIVE,2025-08-02,2026-02-02
+P0056,Apple AirPods Pro 2 édition 56,Apple,Écouteurs,3700000000056,AirPods Pro 2 édition 56,,Blanc,ACTIVE,2025-09-03,2026-03-03
+P0057,Dell XPS 13 édition 57 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000057,XPS 13 édition 57,16 Go RAM / 512 Go SSD,Argent,inactive,2025-10-04,2026-04-04
+P0058,HP Pavilion 15 édition 58 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000058,Pavilion 15 édition 58,8 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-11-05,2026-05-05
+P0059,Lenovo ThinkPad E14 édition 59 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000059,ThinkPad E14 édition 59,16 Go RAM / 512 Go SSD,Noir,ACTIVE,2025-12-06,2026-06-06
+P0060,Apple MacBook Air M3 édition 60 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000060,MacBook Air M3 édition 60,16 Go RAM / 512 Go SSD,Minuit,ACTIVE,2025-01-07,2026-07-07
+P0061,Logitech MX Master 3S édition 61,Logitech,Souris,3700000000061,MX Master 3S édition 61,,Graphite,ACTIVE,2025-02-08,2026-08-08
+P0062,Logitech K380 édition 62,Logitech,Clavier,3700000000062,K380 édition 62,,Blanc,ACTIVE,2025-03-09,2026-09-09
+P0063,Samsung T7 Shield édition 63 1 To,Samsung,SSD externe,3700000000063,T7 Shield édition 63,1 To,Bleu,ACTIVE,2025-04-10,2026-01-10
+P0064,SanDisk Extreme Portable SSD édition 64 1 To,SanDisk,SSD externe,3700000000064,Extreme Portable SSD édition 64,1 To,Noir,ACTIVE,2025-05-11,2026-02-11
+P0065,Canon EOS R50 édition 65,Canon,Appareil photo,,EOS R50 édition 65,,Noir,ACTIVE,2025-06-12,2026-03-12
+P0066,LG OLED C3 55 pouces édition 66 55 pouces,LG,Téléviseur,3700000000066,OLED C3 55 pouces édition 66,55 pouces,Noir,ACTIVE,2025-07-13,2026-04-13
+P0067,Dyson V15 Detect édition 67,Dyson,Aspirateur,3700000000067,V15 Detect édition 67,,Jaune,ACTIVE,2025-08-14,2026-05-14
+P0068,,Philips,Friteuse sans huile,3700000000068,Airfryer XXL édition 68,"7,3 L",Noir,ACTIVE,2025-09-15,2026-06-15
+P0069,Nespresso Vertuo Pop édition 69,Nespresso,Machine à café,3700000000069,Vertuo Pop édition 69,,Rouge,ACTIVE,2025-10-16,2026-07-16
+P0070,Nike Air Max 90 édition 70 42,Nike,Chaussures,3700000000070,Air Max 90 édition 70,42,Blanc,ACTIVE,2025-11-17,2026-08-17
+P0071,Adidas Ultraboost Light édition 71 42,Adidas,Chaussures,3700000000071,Ultraboost Light édition 71,42,Noir,ACTIVE,2025-12-18,2026-09-18
+P0072,"Samsonite Guardit 2.0 édition 72 15,6 pouces",Samsonite,Sac à dos,3700000000072,Guardit 2.0 édition 72,"15,6 pouces",Noir,ACTIVE,2025-01-19,2026-01-19
+P0073,Samsung Galaxy S24 édition 73 128 Go,Samsung,Smartphone,3700000000073,Galaxy S24 édition 73,128 Go,Noir,ACTIVE,2025-02-20,2026-02-20
+P0074,Apple iPhone 15 édition 74 128 Go,Apple,Smartphone,3700000000074,iPhone 15 édition 74,128 Go,Noir,ACTIVE,2025-03-21,2026-03-21
+P0075,Apple iPhone 15 Pro édition 75 256 Go,Apple,Smartphone,3700000000075,iPhone 15 Pro édition 75,256 Go,Titane,ACTIVE,2025-04-22,2026-04-22
+P0076,Xiaomi Redmi Note 13 édition 76 256 Go,Xiaomi,Smartphone,3700000000076,Redmi Note 13 édition 76,256 Go,Noir,inactive,2025-05-23,2026-05-23
+P0077,Google Pixel 8 édition 77 128 Go,Google,Smartphone,3700000000077,Pixel 8 édition 77,128 Go,Noir,ACTIVE,2025-06-24,2026-06-24
+P0078,Sony WH-1000XM5 édition 78,Sony,Casque audio,,WH-1000XM5 édition 78,,Noir,ACTIVE,2025-07-25,2026-07-25
+P0079,JBL Tune 760NC édition 79,JBL,Casque audio,3700000000079,Tune 760NC édition 79,,Noir,ACTIVE,2025-08-26,2026-08-26
+P0080,Apple AirPods Pro 2 édition 80,Apple,Écouteurs,3700000000080,AirPods Pro 2 édition 80,,Blanc,ACTIVE,2025-09-27,2026-09-27
+P0081,Dell XPS 13 édition 81 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000081,XPS 13 édition 81,16 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-10-01,2026-01-01
+P0082,HP Pavilion 15 édition 82 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000082,Pavilion 15 édition 82,8 Go RAM / 512 Go SSD,Argent,ACTIVE,2025-11-02,2026-02-02
+P0083,Lenovo ThinkPad E14 édition 83 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000083,ThinkPad E14 édition 83,16 Go RAM / 512 Go SSD,Noir,ACTIVE,2025-12-03,2026-03-03
+P0084,Apple MacBook Air M3 édition 84 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000084,MacBook Air M3 édition 84,16 Go RAM / 512 Go SSD,Minuit,ACTIVE,2025-01-04,2026-04-04
+P0085,,Logitech,Souris,3700000000085,MX Master 3S édition 85,,Graphite,ACTIVE,2025-02-05,2026-05-05
+P0086,Logitech K380 édition 86,Logitech,Clavier,3700000000086,K380 édition 86,,Blanc,ACTIVE,2025-03-06,2026-06-06
+P0087,Samsung T7 Shield édition 87 1 To,Samsung,SSD externe,3700000000087,T7 Shield édition 87,1 To,Bleu,ACTIVE,2025-04-07,2026-07-07
+P0088,SanDisk Extreme Portable SSD édition 88 1 To,SanDisk,SSD externe,3700000000088,Extreme Portable SSD édition 88,1 To,Noir,ACTIVE,2025-05-08,2026-08-08
+P0089,Canon EOS R50 édition 89,Canon,Appareil photo,3700000000089,EOS R50 édition 89,,Noir,ACTIVE,2025-06-09,2026-09-09
+P0090,LG OLED C3 55 pouces édition 90 55 pouces,LG,Téléviseur,3700000000090,OLED C3 55 pouces édition 90,55 pouces,Noir,ACTIVE,2025-07-10,2026-01-10
+P0091,Dyson V15 Detect édition 91,Dyson,Aspirateur,,V15 Detect édition 91,,Jaune,ACTIVE,2025-08-11,2026-02-11
+P0092,"Philips Airfryer XXL édition 92 7,3 L",Philips,Friteuse sans huile,3700000000092,Airfryer XXL édition 92,"7,3 L",Noir,ACTIVE,2025-09-12,2026-03-12
+P0093,Nespresso Vertuo Pop édition 93,Nespresso,Machine à café,3700000000093,Vertuo Pop édition 93,,Rouge,ACTIVE,2025-10-13,2026-04-13
+P0094,Nike Air Max 90 édition 94 42,Nike,Chaussures,3700000000094,Air Max 90 édition 94,42,Blanc,ACTIVE,2025-11-14,2026-05-14
+P0095,Adidas Ultraboost Light édition 95 42,Adidas,Chaussures,3700000000095,Ultraboost Light édition 95,42,Noir,inactive,2025-12-15,2026-06-15
+P0096,"Samsonite Guardit 2.0 édition 96 15,6 pouces",Samsonite,Sac à dos,3700000000096,Guardit 2.0 édition 96,"15,6 pouces",Noir,ACTIVE,2025-01-16,2026-07-16
+P0097,Samsung Galaxy S24 édition 97 128 Go,Samsung,Smartphone,3700000000097,Galaxy S24 édition 97,128 Go,Noir,ACTIVE,2025-02-17,2026-08-17
+P0098,Apple iPhone 15 édition 98 128 Go,Apple,Smartphone,3700000000098,iPhone 15 édition 98,128 Go,Noir,ACTIVE,2025-03-18,2026-09-18
+P0099,Apple iPhone 15 Pro édition 99 256 Go,Apple,Smartphone,3700000000099,iPhone 15 Pro édition 99,256 Go,Titane,ACTIVE,2025-04-19,2026-01-19
+P0100,Xiaomi Redmi Note 13 édition 100 256 Go,Xiaomi,Smartphone,3700000000100,Redmi Note 13 édition 100,256 Go,Noir,ACTIVE,2025-05-20,2026-02-20
+P-DUP-01,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,ACTIVE,2026-02-30,
+P-ERR-01,Produit mystère,,Inconnue,ABC123,,,,UNKNOWN,2026-02-30,

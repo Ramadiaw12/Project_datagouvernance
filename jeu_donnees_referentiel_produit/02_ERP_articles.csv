@@ -1,0 +1,102 @@
+﻿article_id,libelle_article,marque,famille_article,code_barres,modele,caracteristique,couleur,prix_achat,statut,date_maj
+ART-1001,SAMSUNG - Galaxy S24 128 Go,SAMSUNG,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,2982.11,ACTIF,2025-02-02
+ART-1002,APPLE - iPhone 15 128 Go,APPLE,Smartphone,3700000000002,iPhone 15,128 Go,Noir,7409.34,ACTIF,2025-03-03
+ART-1003,APPLE - iPhone 15 Pro 256 Go,APPLE,Smartphone,3700000000003,iPhone 15 Pro,256 Go,Titane,433.71,ACTIF,2025-04-04
+ART-1004,XIAOMI - Redmi Note 13 256 Go,XIAOMI,Smartphone,3700000000004,Redmi Note 13,256 Go,Noir,626.08,ACTIF,2025-05-05
+ART-1005,GOOGLE - Pixel 8 128 Go,GOOGLE,Smartphone,3700000000005,Pixel 8,128 Go,Noir,5236.22,ACTIF,2025-06-06
+ART-1006,SONY - WH-1000XM5,SONY,Casque audio,3700000000006,WH-1000XM5,,Noir,5054.32,ACTIF,2025-07-07
+ART-1007,JBL - Tune 760NC,JBL ,Casque audio,3700000000007,Tune 760NC,,Noir,4912.1,ACTIF,2025-08-08
+ART-1008,APPLE - AirPods Pro 2,APPLE,Écouteurs,3700000000008,AirPods Pro 2,,Blanc,3414.34,ACTIF,2025-09-09
+ART-1009,DELL XPS 13 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000009,XPS 13,16 Go RAM / 512 Go SSD,Argent,5609.19,ACTIF,2025-10-10
+ART-1010,HP - Pavilion 15 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000010,Pavilion 15,8 Go RAM / 512 Go SSD,Argent,4243.86,ACTIF,2025-11-11
+ART-1011,LENOVO - ThinkPad E14 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000011,ThinkPad E14,16 Go RAM / 512 Go SSD,Noir,2311.0,ACTIF,2025-12-12
+ART-1012,APPLE - MacBook Air M3 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,3700000000012,MacBook Air M3,16 Go RAM / 512 Go SSD,Minuit,5212.37,ACTIF,2025-01-13
+ART-1013,LOGITECH - MX Master 3S,LOGITECH,Souris,3700000000013,MX Master 3S,,Graphite,1150.79,ACTIF,2025-02-14
+ART-1014,LOGITECH - K380,Logitech ,Clavier,3700000000014,K380,,Blanc,8406.1,ACTIF,2025-03-15
+ART-1015,SAMSUNG - T7 Shield 1 To,SAMSUNG,SSD externe,,T7 Shield,1 To,Bleu,3127.09,ACTIF,2025-04-16
+ART-1016,SANDISK - Extreme Portable SSD 1 To,SANDISK,SSD externe,3700000000016,Extreme Portable SSD,1 To,Noir,711.99,ACTIF,2025-05-17
+ART-1017,CANON - EOS R50,CANON,Appareil photo,3700000000017,EOS R50,,Noir,6303.67,ACTIF,2025-06-18
+ART-1018,LG OLED C3 55 pouces 55 pouces,LG,Téléviseur,3700000000018,OLED C3 55 pouces,55 pouces,Noir,2632.9,ACTIF,2025-07-19
+ART-1019,DYSON - V15 Detect,DYSON,Aspirateur,3700000000019,V15 Detect,,Jaune,8471.77,ACTIF,2025-08-20
+ART-1020,"PHILIPS - Airfryer XXL 7,3 L",PHILIPS,Friteuse sans huile,3700000000020,Airfryer XXL,"7,3 L",Noir,624.69,ACTIF,2025-09-21
+ART-1021,NESPRESSO - Vertuo Pop,Nespresso ,Machine à café,3700000000021,Vertuo Pop,,Rouge,817.17,BLOQUE,2025-10-22
+ART-1022,NIKE - Air Max 90 42,NIKE,Chaussures,3700000000022,Air Max 90,42,Blanc,7391.59,ACTIF,2025-11-23
+ART-1023,adidas - ultraboost light 42,ADIDAS,Chaussures,3700000000023,Ultraboost Light,42,Noir,8879.56,ACTIF,2025-12-24
+ART-1024,"SAMSONITE - Guardit 2.0 15,6 pouces",SAMSONITE,Sac à dos,3700000000024,Guardit 2.0,"15,6 pouces",Noir,1443.2,ACTIF,2025-01-25
+ART-1025,SAMSUNG - Galaxy S24 édition 25 128 Go,SAMSUNG,Smartphone,3700000000025,Galaxy S24 édition 25,128 Go,Noir,207.36,ACTIF,2025-02-26
+ART-1026,APPLE - iPhone 15 édition 26 128 Go,APPLE,Smartphone,3700000000026,iPhone 15 édition 26,128 Go,Noir,2609.18,ACTIF,2025-03-27
+ART-1027,APPLE iPhone 15 Pro édition 27 256 Go,APPLE,Smartphone,3700000000027,iPhone 15 Pro édition 27,256 Go,Titane,8582.57,ACTIF,2025-04-01
+ART-1028,XIAOMI - Redmi Note 13 édition 28 256 Go,Xiaomi ,Smartphone,3700000000028,Redmi Note 13 édition 28,256 Go,Noir,8105.84,ACTIF,2025-05-02
+ART-1029,GOOGLE - Pixel 8 édition 29 128 Go,GOOGLE,Smartphone,3700000000029,Pixel 8 édition 29,128 Go,Noir,3650.91,ACTIF,2025-06-03
+ART-1030,SONY - WH-1000XM5 édition 30,SONY,Casque audio,,WH-1000XM5 édition 30,,Noir,1796.42,ACTIF,2025-07-04
+ART-1031,JBL - Tune 760NC édition 31,JBL,Casque audio,3700000000031,Tune 760NC édition 31,,Noir,1078.36,ACTIF,2025-08-05
+ART-1032,APPLE - AirPods Pro 2 édition 32,APPLE,Écouteurs,3700000000032,AirPods Pro 2 édition 32,,Blanc,5144.37,ACTIF,2025-09-06
+ART-1033,DELL - XPS 13 édition 33 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000033,XPS 13 édition 33,16 Go RAM / 512 Go SSD,Argent,725.81,ACTIF,2025-10-07
+ART-1034,HP - Pavilion 15 édition 34 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000034,Pavilion 15 édition 34,8 Go RAM / 512 Go SSD,Argent,5460.28,ACTIF,2025-11-08
+ART-1035,LENOVO - ThinkPad E14 édition 35 16 Go RAM / 512 Go SSD,Lenovo ,Ordinateur portable,3700000000035,ThinkPad E14 édition 35,16 Go RAM / 512 Go SSD,Noir,8938.61,ACTIF,2025-12-09
+ART-1036,APPLE MacBook Air M3 édition 36 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,3700000000036,MacBook Air M3 édition 36,16 Go RAM / 512 Go SSD,Minuit,864.37,ACTIF,2025-01-10
+ART-1037,LOGITECH - MX Master 3S édition 37,LOGITECH,Souris,3700000000037,MX Master 3S édition 37,,Graphite,4359.74,ACTIF,2025-02-11
+ART-1038,LOGITECH - K380 édition 38,LOGITECH,Clavier,3700000000038,K380 édition 38,,Blanc,8563.77,ACTIF,2025-03-12
+ART-1039,SAMSUNG - T7 Shield édition 39 1 To,SAMSUNG,SSD externe,3700000000039,T7 Shield édition 39,1 To,Bleu,6847.47,ACTIF,2025-04-13
+ART-1040,SANDISK - Extreme Portable SSD édition 40 1 To,SANDISK,SSD externe,3700000000040,Extreme Portable SSD édition 40,1 To,Noir,4713.73,ACTIF,2025-05-14
+ART-1041,CANON - EOS R50 édition 41,CANON,Appareil photo,3700000000041,EOS R50 édition 41,,Noir,4840.07,ACTIF,2025-06-15
+ART-1042,LG - OLED C3 55 pouces édition 42 55 pouces,LG ,Téléviseur,3700000000042,OLED C3 55 pouces édition 42,55 pouces,Noir,5557.73,BLOQUE,2025-07-16
+ART-1043,DYSON - V15 Detect édition 43,DYSON,Aspirateur,3700000000043,V15 Detect édition 43,,Jaune,7383.16,ACTIF,2025-08-17
+ART-1044,"PHILIPS - Airfryer XXL édition 44 7,3 L",PHILIPS,Friteuse sans huile,3700000000044,Airfryer XXL édition 44,"7,3 L",Noir,4706.98,ACTIF,2025-09-18
+ART-1045,NESPRESSO Vertuo Pop édition 45,NESPRESSO,Machine à café,,Vertuo Pop édition 45,,Rouge,7132.02,ACTIF,2025-10-19
+ART-1046,nike - air max 90 édition 46 42,NIKE,Chaussures,3700000000046,Air Max 90 édition 46,42,Blanc,8599.51,ACTIF,2025-11-20
+ART-1047,ADIDAS - Ultraboost Light édition 47 42,ADIDAS,Chaussures,3700000000047,Ultraboost Light édition 47,42,Noir,2118.93,ACTIF,2025-12-21
+ART-1048,"SAMSONITE - Guardit 2.0 édition 48 15,6 pouces",SAMSONITE,Sac à dos,3700000000048,Guardit 2.0 édition 48,"15,6 pouces",Noir,5654.19,ACTIF,2025-01-22
+ART-1049,SAMSUNG - Galaxy S24 édition 49 128 Go,Samsung ,Smartphone,3700000000049,Galaxy S24 édition 49,128 Go,Noir,8191.87,ACTIF,2025-02-23
+ART-1050,APPLE - iPhone 15 édition 50 128 Go,APPLE,Smartphone,3700000000050,iPhone 15 édition 50,128 Go,Noir,8197.02,ACTIF,2025-03-24
+ART-1051,APPLE - iPhone 15 Pro édition 51 256 Go,APPLE,Smartphone,3700000000051,iPhone 15 Pro édition 51,256 Go,Titane,8012.2,ACTIF,2025-04-25
+ART-1052,XIAOMI - Redmi Note 13 édition 52 256 Go,XIAOMI,Smartphone,3700000000052,Redmi Note 13 édition 52,256 Go,Noir,7227.33,ACTIF,2025-05-26
+ART-1053,GOOGLE - Pixel 8 édition 53 128 Go,GOOGLE,Smartphone,3700000000053,Pixel 8 édition 53,128 Go,Noir,3672.34,ACTIF,2025-06-27
+ART-1054,SONY WH-1000XM5 édition 54,SONY,Casque audio,3700000000054,WH-1000XM5 édition 54,,Noir,8938.7,ACTIF,2025-07-01
+ART-1055,JBL - Tune 760NC édition 55,JBL,Casque audio,3700000000055,Tune 760NC édition 55,,Noir,5543.0,ACTIF,2025-08-02
+ART-1056,APPLE - AirPods Pro 2 édition 56,Apple ,Écouteurs,3700000000056,AirPods Pro 2 édition 56,,Blanc,1487.62,ACTIF,2025-09-03
+ART-1057,DELL - XPS 13 édition 57 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000057,XPS 13 édition 57,16 Go RAM / 512 Go SSD,Argent,7214.28,ACTIF,2025-10-04
+ART-1058,HP - Pavilion 15 édition 58 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000058,Pavilion 15 édition 58,8 Go RAM / 512 Go SSD,Argent,3960.9,ACTIF,2025-11-05
+ART-1059,LENOVO - ThinkPad E14 édition 59 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000059,ThinkPad E14 édition 59,16 Go RAM / 512 Go SSD,Noir,2341.33,ACTIF,2025-12-06
+ART-1060,APPLE - MacBook Air M3 édition 60 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,,MacBook Air M3 édition 60,16 Go RAM / 512 Go SSD,Minuit,2408.35,ACTIF,2025-01-07
+ART-1061,LOGITECH - MX Master 3S édition 61,LOGITECH,Souris,3700000000061,MX Master 3S édition 61,,Graphite,8089.57,ACTIF,2025-02-08
+ART-1062,LOGITECH - K380 édition 62,LOGITECH,Clavier,3700000000062,K380 édition 62,,Blanc,4833.24,ACTIF,2025-03-09
+ART-1063,SAMSUNG T7 Shield édition 63 1 To,Samsung ,SSD externe,3700000000063,T7 Shield édition 63,1 To,Bleu,7010.9,BLOQUE,2025-04-10
+ART-1064,SANDISK - Extreme Portable SSD édition 64 1 To,SANDISK,SSD externe,3700000000064,Extreme Portable SSD édition 64,1 To,Noir,1359.87,ACTIF,2025-05-11
+ART-1065,CANON - EOS R50 édition 65,CANON,Appareil photo,3700000000065,EOS R50 édition 65,,Noir,3001.24,ACTIF,2025-06-12
+ART-1066,LG - OLED C3 55 pouces édition 66 55 pouces,LG,Téléviseur,3700000000066,OLED C3 55 pouces édition 66,55 pouces,Noir,7960.73,ACTIF,2025-07-13
+ART-1067,DYSON - V15 Detect édition 67,DYSON,Aspirateur,3700000000067,V15 Detect édition 67,,Jaune,475.57,ACTIF,2025-08-14
+ART-1068,"PHILIPS - Airfryer XXL édition 68 7,3 L",PHILIPS,Friteuse sans huile,3700000000068,Airfryer XXL édition 68,"7,3 L",Noir,6863.94,ACTIF,2025-09-15
+ART-1069,nespresso - vertuo pop édition 69,NESPRESSO,Machine à café,3700000000069,Vertuo Pop édition 69,,Rouge,5551.5,ACTIF,2025-10-16
+ART-1070,NIKE - Air Max 90 édition 70 42,Nike ,Chaussures,3700000000070,Air Max 90 édition 70,42,Blanc,4125.88,ACTIF,2025-11-17
+ART-1071,ADIDAS - Ultraboost Light édition 71 42,ADIDAS,Chaussures,3700000000071,Ultraboost Light édition 71,42,Noir,6323.04,ACTIF,2025-12-18
+ART-1072,"SAMSONITE Guardit 2.0 édition 72 15,6 pouces",SAMSONITE,Sac à dos,3700000000072,Guardit 2.0 édition 72,"15,6 pouces",Noir,7576.0,ACTIF,2025-01-19
+ART-1073,SAMSUNG - Galaxy S24 édition 73 128 Go,SAMSUNG,Smartphone,3700000000073,Galaxy S24 édition 73,128 Go,Noir,4034.85,ACTIF,2025-02-20
+ART-1074,APPLE - iPhone 15 édition 74 128 Go,APPLE,Smartphone,3700000000074,iPhone 15 édition 74,128 Go,Noir,750.77,ACTIF,2025-03-21
+ART-1075,APPLE - iPhone 15 Pro édition 75 256 Go,APPLE,Smartphone,,iPhone 15 Pro édition 75,256 Go,Titane,8461.59,ACTIF,2025-04-22
+ART-1076,XIAOMI - Redmi Note 13 édition 76 256 Go,XIAOMI,Smartphone,3700000000076,Redmi Note 13 édition 76,256 Go,Noir,8711.15,ACTIF,2025-05-23
+ART-1077,GOOGLE - Pixel 8 édition 77 128 Go,Google ,Smartphone,3700000000077,Pixel 8 édition 77,128 Go,Noir,7975.9,ACTIF,2025-06-24
+ART-1078,SONY - WH-1000XM5 édition 78,SONY,Casque audio,3700000000078,WH-1000XM5 édition 78,,Noir,6386.28,ACTIF,2025-07-25
+ART-1079,JBL - Tune 760NC édition 79,JBL,Casque audio,3700000000079,Tune 760NC édition 79,,Noir,3849.36,ACTIF,2025-08-26
+ART-1080,APPLE - AirPods Pro 2 édition 80,APPLE,Écouteurs,3700000000080,AirPods Pro 2 édition 80,,Blanc,273.4,ACTIF,2025-09-27
+ART-1081,DELL XPS 13 édition 81 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000081,XPS 13 édition 81,16 Go RAM / 512 Go SSD,Argent,3520.67,ACTIF,2025-10-01
+ART-1082,HP - Pavilion 15 édition 82 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000082,Pavilion 15 édition 82,8 Go RAM / 512 Go SSD,Argent,1104.36,ACTIF,2025-11-02
+ART-1083,LENOVO - ThinkPad E14 édition 83 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000083,ThinkPad E14 édition 83,16 Go RAM / 512 Go SSD,Noir,848.15,ACTIF,2025-12-03
+ART-1084,APPLE - MacBook Air M3 édition 84 16 Go RAM / 512 Go SSD,Apple ,Ordinateur portable,3700000000084,MacBook Air M3 édition 84,16 Go RAM / 512 Go SSD,Minuit,6826.41,BLOQUE,2025-01-04
+ART-1085,LOGITECH - MX Master 3S édition 85,LOGITECH,Souris,3700000000085,MX Master 3S édition 85,,Graphite,1429.37,ACTIF,2025-02-05
+ART-1086,LOGITECH - K380 édition 86,LOGITECH,Clavier,3700000000086,K380 édition 86,,Blanc,896.21,ACTIF,2025-03-06
+ART-1087,SAMSUNG - T7 Shield édition 87 1 To,SAMSUNG,SSD externe,3700000000087,T7 Shield édition 87,1 To,Bleu,8068.04,ACTIF,2025-04-07
+ART-1088,SANDISK - Extreme Portable SSD édition 88 1 To,SANDISK,SSD externe,3700000000088,Extreme Portable SSD édition 88,1 To,Noir,7234.49,ACTIF,2025-05-08
+ART-1089,CANON - EOS R50 édition 89,CANON,Appareil photo,3700000000089,EOS R50 édition 89,,Noir,2453.61,ACTIF,2025-06-09
+ART-1090,LG OLED C3 55 pouces édition 90 55 pouces,LG,Téléviseur,,OLED C3 55 pouces édition 90,55 pouces,Noir,8949.32,ACTIF,2025-07-10
+ART-1091,DYSON - V15 Detect édition 91,Dyson ,Aspirateur,3700000000091,V15 Detect édition 91,,Jaune,8449.32,ACTIF,2025-08-11
+ART-1092,"philips - airfryer xxl édition 92 7,3 l",PHILIPS,Friteuse sans huile,3700000000092,Airfryer XXL édition 92,"7,3 L",Noir,1712.2,ACTIF,2025-09-12
+ART-1093,NESPRESSO - Vertuo Pop édition 93,NESPRESSO,Machine à café,3700000000093,Vertuo Pop édition 93,,Rouge,2680.65,ACTIF,2025-10-13
+ART-1094,NIKE - Air Max 90 édition 94 42,NIKE,Chaussures,3700000000094,Air Max 90 édition 94,42,Blanc,3188.31,ACTIF,2025-11-14
+ART-1095,ADIDAS - Ultraboost Light édition 95 42,ADIDAS,Chaussures,3700000000095,Ultraboost Light édition 95,42,Noir,236.58,ACTIF,2025-12-15
+ART-1096,"SAMSONITE - Guardit 2.0 édition 96 15,6 pouces",SAMSONITE,Sac à dos,3700000000096,Guardit 2.0 édition 96,"15,6 pouces",Noir,2286.55,ACTIF,2025-01-16
+ART-1097,SAMSUNG - Galaxy S24 édition 97 128 Go,SAMSUNG,Smartphone,3700000000097,Galaxy S24 édition 97,128 Go,Noir,4958.57,ACTIF,2025-02-17
+ART-1098,APPLE - iPhone 15 édition 98 128 Go,Apple ,Smartphone,3700000000098,iPhone 15 édition 98,128 Go,Noir,8843.72,ACTIF,2025-03-18
+ART-1099,APPLE iPhone 15 Pro édition 99 256 Go,APPLE,Smartphone,3700000000099,iPhone 15 Pro édition 99,256 Go,Titane,8906.0,ACTIF,2025-04-19
+ART-1100,XIAOMI - Redmi Note 13 édition 100 256 Go,XIAOMI,Smartphone,3700000000100,Redmi Note 13 édition 100,256 Go,Noir,729.43,ACTIF,2025-05-20
+ART-DUP-01,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,-50.0,ACTIF,2026-13-01
