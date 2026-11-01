@@ -39,6 +39,8 @@ Le projet repose sur trois sources de données fictives :
 
 Les trois sources contiennent des attributs similaires, mais leurs noms de colonnes et leurs formats sont différents.
 
+![Architecture_mdm](images/MDM_img.png.png)
+
 ### Architecture cible
 
 ```text
@@ -207,7 +209,7 @@ Data-Governance-MDM/
 ├── reports/
 │
 ├── README.md
-├── requirements.txt
+├── pyproject.toml
 └── .gitignore
 ```
 
