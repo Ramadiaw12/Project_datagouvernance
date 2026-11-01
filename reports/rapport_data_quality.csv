@@ -1,0 +1,4 @@
+﻿Source,Nombre de lignes,Noms manquants,Marques manquantes,Catégories manquantes,GTIN manquants,GTIN invalides,Identifiants manquants,Identifiants dupliqués,Taux de complétude (%),Taux de validité GTIN (%)
+ERP,101,0,0,0,6,86,0,0,100.0,9.47
+Marketplace,110,1,9,0,6,92,0,0,96.97,11.54
+PIM,102,5,1,0,8,85,0,0,98.04,9.57
