@@ -1,0 +1,314 @@
+product_name,brand,category,gtin,model,color,specification,source_system
+samsung galaxy s24 128 go,samsung,smartphone,3700000000001,galaxy s24,noir,128 go,PIM
+apple iphone 15 128 go,apple,smartphone,3700000000002,iphone 15,noir,128 go,PIM
+apple iphone 15 pro 256 go,apple,smartphone,3700000000003,iphone 15 pro,titane,256 go,PIM
+xiaomi redmi note 13 256 go,xiaomi,smartphone,3700000000004,redmi note 13,noir,256 go,PIM
+google pixel 8 128 go,google,smartphone,3700000000005,pixel 8,noir,128 go,PIM
+sony wh-1000xm5,sony,casque audio,3700000000006,wh-1000xm5,noir,,PIM
+jbl tune 760nc,jbl,casque audio,3700000000007,tune 760nc,noir,,PIM
+apple airpods pro 2,apple,écouteurs,3700000000008,airpods pro 2,blanc,,PIM
+dell xps 13 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000009,xps 13,argent,16 go ram / 512 go ssd,PIM
+hp pavilion 15 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000010,pavilion 15,argent,8 go ram / 512 go ssd,PIM
+lenovo thinkpad e14 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000011,thinkpad e14,noir,16 go ram / 512 go ssd,PIM
+apple macbook air m3 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000012,macbook air m3,minuit,16 go ram / 512 go ssd,PIM
+logitech mx master 3s,logitech,souris,,mx master 3s,graphite,,PIM
+logitech k380,logitech,clavier,3700000000014,k380,blanc,,PIM
+samsung t7 shield 1 to,samsung,ssd externe,3700000000015,t7 shield,bleu,1 to,PIM
+sandisk extreme portable ssd 1 to,sandisk,ssd externe,3700000000016,extreme portable ssd,noir,1 to,PIM
+,canon,appareil photo,3700000000017,eos r50,noir,,PIM
+lg oled c3 55 pouces 55 pouces,lg,téléviseur,3700000000018,oled c3 55 pouces,noir,55 pouces,PIM
+dyson v15 detect,dyson,aspirateur,3700000000019,v15 detect,jaune,,PIM
+"philips airfryer xxl 7,3 l",philips,friteuse sans huile,3700000000020,airfryer xxl,noir,"7,3 l",PIM
+nespresso vertuo pop,nespresso,machine à café,3700000000021,vertuo pop,rouge,,PIM
+nike air max 90 42,nike,chaussures,3700000000022,air max 90,blanc,42,PIM
+adidas ultraboost light 42,adidas,chaussures,3700000000023,ultraboost light,noir,42,PIM
+"samsonite guardit 2.0 15,6 pouces",samsonite,sac à dos,3700000000024,guardit 2.0,noir,"15,6 pouces",PIM
+samsung galaxy s24 édition 25 128 go,samsung,smartphone,3700000000025,galaxy s24 édition 25,noir,128 go,PIM
+apple iphone 15 édition 26 128 go,apple,smartphone,,iphone 15 édition 26,noir,128 go,PIM
+apple iphone 15 pro édition 27 256 go,apple,smartphone,3700000000027,iphone 15 pro édition 27,titane,256 go,PIM
+xiaomi redmi note 13 édition 28 256 go,xiaomi,smartphone,3700000000028,redmi note 13 édition 28,noir,256 go,PIM
+google pixel 8 édition 29 128 go,google,smartphone,3700000000029,pixel 8 édition 29,noir,128 go,PIM
+sony wh-1000xm5 édition 30,sony,casque audio,3700000000030,wh-1000xm5 édition 30,noir,,PIM
+jbl tune 760nc édition 31,jbl,casque audio,3700000000031,tune 760nc édition 31,noir,,PIM
+apple airpods pro 2 édition 32,apple,écouteurs,3700000000032,airpods pro 2 édition 32,blanc,,PIM
+dell xps 13 édition 33 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000033,xps 13 édition 33,argent,16 go ram / 512 go ssd,PIM
+,hp,ordinateur portable,3700000000034,pavilion 15 édition 34,argent,8 go ram / 512 go ssd,PIM
+lenovo thinkpad e14 édition 35 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000035,thinkpad e14 édition 35,noir,16 go ram / 512 go ssd,PIM
+apple macbook air m3 édition 36 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000036,macbook air m3 édition 36,minuit,16 go ram / 512 go ssd,PIM
+logitech mx master 3s édition 37,logitech,souris,3700000000037,mx master 3s édition 37,graphite,,PIM
+logitech k380 édition 38,logitech,clavier,3700000000038,k380 édition 38,blanc,,PIM
+samsung t7 shield édition 39 1 to,samsung,ssd externe,,t7 shield édition 39,bleu,1 to,PIM
+sandisk extreme portable ssd édition 40 1 to,sandisk,ssd externe,3700000000040,extreme portable ssd édition 40,noir,1 to,PIM
+canon eos r50 édition 41,canon,appareil photo,3700000000041,eos r50 édition 41,noir,,PIM
+lg oled c3 55 pouces édition 42 55 pouces,lg,téléviseur,3700000000042,oled c3 55 pouces édition 42,noir,55 pouces,PIM
+dyson v15 detect édition 43,dyson,aspirateur,3700000000043,v15 detect édition 43,jaune,,PIM
+"philips airfryer xxl édition 44 7,3 l",philips,friteuse sans huile,3700000000044,airfryer xxl édition 44,noir,"7,3 l",PIM
+nespresso vertuo pop édition 45,nespresso,machine à café,3700000000045,vertuo pop édition 45,rouge,,PIM
+nike air max 90 édition 46 42,nike,chaussures,3700000000046,air max 90 édition 46,blanc,42,PIM
+adidas ultraboost light édition 47 42,adidas,chaussures,3700000000047,ultraboost light édition 47,noir,42,PIM
+"samsonite guardit 2.0 édition 48 15,6 pouces",samsonite,sac à dos,3700000000048,guardit 2.0 édition 48,noir,"15,6 pouces",PIM
+samsung galaxy s24 édition 49 128 go,samsung,smartphone,3700000000049,galaxy s24 édition 49,noir,128 go,PIM
+apple iphone 15 édition 50 128 go,apple,smartphone,3700000000050,iphone 15 édition 50,noir,128 go,PIM
+,apple,smartphone,3700000000051,iphone 15 pro édition 51,titane,256 go,PIM
+xiaomi redmi note 13 édition 52 256 go,xiaomi,smartphone,,redmi note 13 édition 52,noir,256 go,PIM
+google pixel 8 édition 53 128 go,google,smartphone,3700000000053,pixel 8 édition 53,noir,128 go,PIM
+sony wh-1000xm5 édition 54,sony,casque audio,3700000000054,wh-1000xm5 édition 54,noir,,PIM
+jbl tune 760nc édition 55,jbl,casque audio,3700000000055,tune 760nc édition 55,noir,,PIM
+apple airpods pro 2 édition 56,apple,écouteurs,3700000000056,airpods pro 2 édition 56,blanc,,PIM
+dell xps 13 édition 57 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000057,xps 13 édition 57,argent,16 go ram / 512 go ssd,PIM
+hp pavilion 15 édition 58 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000058,pavilion 15 édition 58,argent,8 go ram / 512 go ssd,PIM
+lenovo thinkpad e14 édition 59 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000059,thinkpad e14 édition 59,noir,16 go ram / 512 go ssd,PIM
+apple macbook air m3 édition 60 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000060,macbook air m3 édition 60,minuit,16 go ram / 512 go ssd,PIM
+logitech mx master 3s édition 61,logitech,souris,3700000000061,mx master 3s édition 61,graphite,,PIM
+logitech k380 édition 62,logitech,clavier,3700000000062,k380 édition 62,blanc,,PIM
+samsung t7 shield édition 63 1 to,samsung,ssd externe,3700000000063,t7 shield édition 63,bleu,1 to,PIM
+sandisk extreme portable ssd édition 64 1 to,sandisk,ssd externe,3700000000064,extreme portable ssd édition 64,noir,1 to,PIM
+canon eos r50 édition 65,canon,appareil photo,,eos r50 édition 65,noir,,PIM
+lg oled c3 55 pouces édition 66 55 pouces,lg,téléviseur,3700000000066,oled c3 55 pouces édition 66,noir,55 pouces,PIM
+dyson v15 detect édition 67,dyson,aspirateur,3700000000067,v15 detect édition 67,jaune,,PIM
+,philips,friteuse sans huile,3700000000068,airfryer xxl édition 68,noir,"7,3 l",PIM
+nespresso vertuo pop édition 69,nespresso,machine à café,3700000000069,vertuo pop édition 69,rouge,,PIM
+nike air max 90 édition 70 42,nike,chaussures,3700000000070,air max 90 édition 70,blanc,42,PIM
+adidas ultraboost light édition 71 42,adidas,chaussures,3700000000071,ultraboost light édition 71,noir,42,PIM
+"samsonite guardit 2.0 édition 72 15,6 pouces",samsonite,sac à dos,3700000000072,guardit 2.0 édition 72,noir,"15,6 pouces",PIM
+samsung galaxy s24 édition 73 128 go,samsung,smartphone,3700000000073,galaxy s24 édition 73,noir,128 go,PIM
+apple iphone 15 édition 74 128 go,apple,smartphone,3700000000074,iphone 15 édition 74,noir,128 go,PIM
+apple iphone 15 pro édition 75 256 go,apple,smartphone,3700000000075,iphone 15 pro édition 75,titane,256 go,PIM
+xiaomi redmi note 13 édition 76 256 go,xiaomi,smartphone,3700000000076,redmi note 13 édition 76,noir,256 go,PIM
+google pixel 8 édition 77 128 go,google,smartphone,3700000000077,pixel 8 édition 77,noir,128 go,PIM
+sony wh-1000xm5 édition 78,sony,casque audio,,wh-1000xm5 édition 78,noir,,PIM
+jbl tune 760nc édition 79,jbl,casque audio,3700000000079,tune 760nc édition 79,noir,,PIM
+apple airpods pro 2 édition 80,apple,écouteurs,3700000000080,airpods pro 2 édition 80,blanc,,PIM
+dell xps 13 édition 81 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000081,xps 13 édition 81,argent,16 go ram / 512 go ssd,PIM
+hp pavilion 15 édition 82 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000082,pavilion 15 édition 82,argent,8 go ram / 512 go ssd,PIM
+lenovo thinkpad e14 édition 83 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000083,thinkpad e14 édition 83,noir,16 go ram / 512 go ssd,PIM
+apple macbook air m3 édition 84 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000084,macbook air m3 édition 84,minuit,16 go ram / 512 go ssd,PIM
+,logitech,souris,3700000000085,mx master 3s édition 85,graphite,,PIM
+logitech k380 édition 86,logitech,clavier,3700000000086,k380 édition 86,blanc,,PIM
+samsung t7 shield édition 87 1 to,samsung,ssd externe,3700000000087,t7 shield édition 87,bleu,1 to,PIM
+sandisk extreme portable ssd édition 88 1 to,sandisk,ssd externe,3700000000088,extreme portable ssd édition 88,noir,1 to,PIM
+canon eos r50 édition 89,canon,appareil photo,3700000000089,eos r50 édition 89,noir,,PIM
+lg oled c3 55 pouces édition 90 55 pouces,lg,téléviseur,3700000000090,oled c3 55 pouces édition 90,noir,55 pouces,PIM
+dyson v15 detect édition 91,dyson,aspirateur,,v15 detect édition 91,jaune,,PIM
+"philips airfryer xxl édition 92 7,3 l",philips,friteuse sans huile,3700000000092,airfryer xxl édition 92,noir,"7,3 l",PIM
+nespresso vertuo pop édition 93,nespresso,machine à café,3700000000093,vertuo pop édition 93,rouge,,PIM
+nike air max 90 édition 94 42,nike,chaussures,3700000000094,air max 90 édition 94,blanc,42,PIM
+adidas ultraboost light édition 95 42,adidas,chaussures,3700000000095,ultraboost light édition 95,noir,42,PIM
+"samsonite guardit 2.0 édition 96 15,6 pouces",samsonite,sac à dos,3700000000096,guardit 2.0 édition 96,noir,"15,6 pouces",PIM
+samsung galaxy s24 édition 97 128 go,samsung,smartphone,3700000000097,galaxy s24 édition 97,noir,128 go,PIM
+apple iphone 15 édition 98 128 go,apple,smartphone,3700000000098,iphone 15 édition 98,noir,128 go,PIM
+apple iphone 15 pro édition 99 256 go,apple,smartphone,3700000000099,iphone 15 pro édition 99,titane,256 go,PIM
+xiaomi redmi note 13 édition 100 256 go,xiaomi,smartphone,3700000000100,redmi note 13 édition 100,noir,256 go,PIM
+samsung galaxy s24 128 go,samsung,smartphone,3700000000001,galaxy s24,noir,128 go,PIM
+produit mystère,,inconnue,ABC123,,,,PIM
+samsung - galaxy s24 128 go,samsung,smartphone,3700000000001.0,galaxy s24,noir,128 go,ERP
+apple - iphone 15 128 go,apple,smartphone,3700000000002.0,iphone 15,noir,128 go,ERP
+apple - iphone 15 pro 256 go,apple,smartphone,3700000000003.0,iphone 15 pro,titane,256 go,ERP
+xiaomi - redmi note 13 256 go,xiaomi,smartphone,3700000000004.0,redmi note 13,noir,256 go,ERP
+google - pixel 8 128 go,google,smartphone,3700000000005.0,pixel 8,noir,128 go,ERP
+sony - wh-1000xm5,sony,casque audio,3700000000006.0,wh-1000xm5,noir,,ERP
+jbl - tune 760nc,jbl,casque audio,3700000000007.0,tune 760nc,noir,,ERP
+apple - airpods pro 2,apple,écouteurs,3700000000008.0,airpods pro 2,blanc,,ERP
+dell xps 13 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000009.0,xps 13,argent,16 go ram / 512 go ssd,ERP
+hp - pavilion 15 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000010.0,pavilion 15,argent,8 go ram / 512 go ssd,ERP
+lenovo - thinkpad e14 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000011.0,thinkpad e14,noir,16 go ram / 512 go ssd,ERP
+apple - macbook air m3 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000012.0,macbook air m3,minuit,16 go ram / 512 go ssd,ERP
+logitech - mx master 3s,logitech,souris,3700000000013.0,mx master 3s,graphite,,ERP
+logitech - k380,logitech,clavier,3700000000014.0,k380,blanc,,ERP
+samsung - t7 shield 1 to,samsung,ssd externe,,t7 shield,bleu,1 to,ERP
+sandisk - extreme portable ssd 1 to,sandisk,ssd externe,3700000000016.0,extreme portable ssd,noir,1 to,ERP
+canon - eos r50,canon,appareil photo,3700000000017.0,eos r50,noir,,ERP
+lg oled c3 55 pouces 55 pouces,lg,téléviseur,3700000000018.0,oled c3 55 pouces,noir,55 pouces,ERP
+dyson - v15 detect,dyson,aspirateur,3700000000019.0,v15 detect,jaune,,ERP
+"philips - airfryer xxl 7,3 l",philips,friteuse sans huile,3700000000020.0,airfryer xxl,noir,"7,3 l",ERP
+nespresso - vertuo pop,nespresso,machine à café,3700000000021.0,vertuo pop,rouge,,ERP
+nike - air max 90 42,nike,chaussures,3700000000022.0,air max 90,blanc,42,ERP
+adidas - ultraboost light 42,adidas,chaussures,3700000000023.0,ultraboost light,noir,42,ERP
+"samsonite - guardit 2.0 15,6 pouces",samsonite,sac à dos,3700000000024.0,guardit 2.0,noir,"15,6 pouces",ERP
+samsung - galaxy s24 édition 25 128 go,samsung,smartphone,3700000000025.0,galaxy s24 édition 25,noir,128 go,ERP
+apple - iphone 15 édition 26 128 go,apple,smartphone,3700000000026.0,iphone 15 édition 26,noir,128 go,ERP
+apple iphone 15 pro édition 27 256 go,apple,smartphone,3700000000027.0,iphone 15 pro édition 27,titane,256 go,ERP
+xiaomi - redmi note 13 édition 28 256 go,xiaomi,smartphone,3700000000028.0,redmi note 13 édition 28,noir,256 go,ERP
+google - pixel 8 édition 29 128 go,google,smartphone,3700000000029.0,pixel 8 édition 29,noir,128 go,ERP
+sony - wh-1000xm5 édition 30,sony,casque audio,,wh-1000xm5 édition 30,noir,,ERP
+jbl - tune 760nc édition 31,jbl,casque audio,3700000000031.0,tune 760nc édition 31,noir,,ERP
+apple - airpods pro 2 édition 32,apple,écouteurs,3700000000032.0,airpods pro 2 édition 32,blanc,,ERP
+dell - xps 13 édition 33 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000033.0,xps 13 édition 33,argent,16 go ram / 512 go ssd,ERP
+hp - pavilion 15 édition 34 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000034.0,pavilion 15 édition 34,argent,8 go ram / 512 go ssd,ERP
+lenovo - thinkpad e14 édition 35 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000035.0,thinkpad e14 édition 35,noir,16 go ram / 512 go ssd,ERP
+apple macbook air m3 édition 36 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000036.0,macbook air m3 édition 36,minuit,16 go ram / 512 go ssd,ERP
+logitech - mx master 3s édition 37,logitech,souris,3700000000037.0,mx master 3s édition 37,graphite,,ERP
+logitech - k380 édition 38,logitech,clavier,3700000000038.0,k380 édition 38,blanc,,ERP
+samsung - t7 shield édition 39 1 to,samsung,ssd externe,3700000000039.0,t7 shield édition 39,bleu,1 to,ERP
+sandisk - extreme portable ssd édition 40 1 to,sandisk,ssd externe,3700000000040.0,extreme portable ssd édition 40,noir,1 to,ERP
+canon - eos r50 édition 41,canon,appareil photo,3700000000041.0,eos r50 édition 41,noir,,ERP
+lg - oled c3 55 pouces édition 42 55 pouces,lg,téléviseur,3700000000042.0,oled c3 55 pouces édition 42,noir,55 pouces,ERP
+dyson - v15 detect édition 43,dyson,aspirateur,3700000000043.0,v15 detect édition 43,jaune,,ERP
+"philips - airfryer xxl édition 44 7,3 l",philips,friteuse sans huile,3700000000044.0,airfryer xxl édition 44,noir,"7,3 l",ERP
+nespresso vertuo pop édition 45,nespresso,machine à café,,vertuo pop édition 45,rouge,,ERP
+nike - air max 90 édition 46 42,nike,chaussures,3700000000046.0,air max 90 édition 46,blanc,42,ERP
+adidas - ultraboost light édition 47 42,adidas,chaussures,3700000000047.0,ultraboost light édition 47,noir,42,ERP
+"samsonite - guardit 2.0 édition 48 15,6 pouces",samsonite,sac à dos,3700000000048.0,guardit 2.0 édition 48,noir,"15,6 pouces",ERP
+samsung - galaxy s24 édition 49 128 go,samsung,smartphone,3700000000049.0,galaxy s24 édition 49,noir,128 go,ERP
+apple - iphone 15 édition 50 128 go,apple,smartphone,3700000000050.0,iphone 15 édition 50,noir,128 go,ERP
+apple - iphone 15 pro édition 51 256 go,apple,smartphone,3700000000051.0,iphone 15 pro édition 51,titane,256 go,ERP
+xiaomi - redmi note 13 édition 52 256 go,xiaomi,smartphone,3700000000052.0,redmi note 13 édition 52,noir,256 go,ERP
+google - pixel 8 édition 53 128 go,google,smartphone,3700000000053.0,pixel 8 édition 53,noir,128 go,ERP
+sony wh-1000xm5 édition 54,sony,casque audio,3700000000054.0,wh-1000xm5 édition 54,noir,,ERP
+jbl - tune 760nc édition 55,jbl,casque audio,3700000000055.0,tune 760nc édition 55,noir,,ERP
+apple - airpods pro 2 édition 56,apple,écouteurs,3700000000056.0,airpods pro 2 édition 56,blanc,,ERP
+dell - xps 13 édition 57 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000057.0,xps 13 édition 57,argent,16 go ram / 512 go ssd,ERP
+hp - pavilion 15 édition 58 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000058.0,pavilion 15 édition 58,argent,8 go ram / 512 go ssd,ERP
+lenovo - thinkpad e14 édition 59 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000059.0,thinkpad e14 édition 59,noir,16 go ram / 512 go ssd,ERP
+apple - macbook air m3 édition 60 16 go ram / 512 go ssd,apple,ordinateur portable,,macbook air m3 édition 60,minuit,16 go ram / 512 go ssd,ERP
+logitech - mx master 3s édition 61,logitech,souris,3700000000061.0,mx master 3s édition 61,graphite,,ERP
+logitech - k380 édition 62,logitech,clavier,3700000000062.0,k380 édition 62,blanc,,ERP
+samsung t7 shield édition 63 1 to,samsung,ssd externe,3700000000063.0,t7 shield édition 63,bleu,1 to,ERP
+sandisk - extreme portable ssd édition 64 1 to,sandisk,ssd externe,3700000000064.0,extreme portable ssd édition 64,noir,1 to,ERP
+canon - eos r50 édition 65,canon,appareil photo,3700000000065.0,eos r50 édition 65,noir,,ERP
+lg - oled c3 55 pouces édition 66 55 pouces,lg,téléviseur,3700000000066.0,oled c3 55 pouces édition 66,noir,55 pouces,ERP
+dyson - v15 detect édition 67,dyson,aspirateur,3700000000067.0,v15 detect édition 67,jaune,,ERP
+"philips - airfryer xxl édition 68 7,3 l",philips,friteuse sans huile,3700000000068.0,airfryer xxl édition 68,noir,"7,3 l",ERP
+nespresso - vertuo pop édition 69,nespresso,machine à café,3700000000069.0,vertuo pop édition 69,rouge,,ERP
+nike - air max 90 édition 70 42,nike,chaussures,3700000000070.0,air max 90 édition 70,blanc,42,ERP
+adidas - ultraboost light édition 71 42,adidas,chaussures,3700000000071.0,ultraboost light édition 71,noir,42,ERP
+"samsonite guardit 2.0 édition 72 15,6 pouces",samsonite,sac à dos,3700000000072.0,guardit 2.0 édition 72,noir,"15,6 pouces",ERP
+samsung - galaxy s24 édition 73 128 go,samsung,smartphone,3700000000073.0,galaxy s24 édition 73,noir,128 go,ERP
+apple - iphone 15 édition 74 128 go,apple,smartphone,3700000000074.0,iphone 15 édition 74,noir,128 go,ERP
+apple - iphone 15 pro édition 75 256 go,apple,smartphone,,iphone 15 pro édition 75,titane,256 go,ERP
+xiaomi - redmi note 13 édition 76 256 go,xiaomi,smartphone,3700000000076.0,redmi note 13 édition 76,noir,256 go,ERP
+google - pixel 8 édition 77 128 go,google,smartphone,3700000000077.0,pixel 8 édition 77,noir,128 go,ERP
+sony - wh-1000xm5 édition 78,sony,casque audio,3700000000078.0,wh-1000xm5 édition 78,noir,,ERP
+jbl - tune 760nc édition 79,jbl,casque audio,3700000000079.0,tune 760nc édition 79,noir,,ERP
+apple - airpods pro 2 édition 80,apple,écouteurs,3700000000080.0,airpods pro 2 édition 80,blanc,,ERP
+dell xps 13 édition 81 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000081.0,xps 13 édition 81,argent,16 go ram / 512 go ssd,ERP
+hp - pavilion 15 édition 82 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000082.0,pavilion 15 édition 82,argent,8 go ram / 512 go ssd,ERP
+lenovo - thinkpad e14 édition 83 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000083.0,thinkpad e14 édition 83,noir,16 go ram / 512 go ssd,ERP
+apple - macbook air m3 édition 84 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000084.0,macbook air m3 édition 84,minuit,16 go ram / 512 go ssd,ERP
+logitech - mx master 3s édition 85,logitech,souris,3700000000085.0,mx master 3s édition 85,graphite,,ERP
+logitech - k380 édition 86,logitech,clavier,3700000000086.0,k380 édition 86,blanc,,ERP
+samsung - t7 shield édition 87 1 to,samsung,ssd externe,3700000000087.0,t7 shield édition 87,bleu,1 to,ERP
+sandisk - extreme portable ssd édition 88 1 to,sandisk,ssd externe,3700000000088.0,extreme portable ssd édition 88,noir,1 to,ERP
+canon - eos r50 édition 89,canon,appareil photo,3700000000089.0,eos r50 édition 89,noir,,ERP
+lg oled c3 55 pouces édition 90 55 pouces,lg,téléviseur,,oled c3 55 pouces édition 90,noir,55 pouces,ERP
+dyson - v15 detect édition 91,dyson,aspirateur,3700000000091.0,v15 detect édition 91,jaune,,ERP
+"philips - airfryer xxl édition 92 7,3 l",philips,friteuse sans huile,3700000000092.0,airfryer xxl édition 92,noir,"7,3 l",ERP
+nespresso - vertuo pop édition 93,nespresso,machine à café,3700000000093.0,vertuo pop édition 93,rouge,,ERP
+nike - air max 90 édition 94 42,nike,chaussures,3700000000094.0,air max 90 édition 94,blanc,42,ERP
+adidas - ultraboost light édition 95 42,adidas,chaussures,3700000000095.0,ultraboost light édition 95,noir,42,ERP
+"samsonite - guardit 2.0 édition 96 15,6 pouces",samsonite,sac à dos,3700000000096.0,guardit 2.0 édition 96,noir,"15,6 pouces",ERP
+samsung - galaxy s24 édition 97 128 go,samsung,smartphone,3700000000097.0,galaxy s24 édition 97,noir,128 go,ERP
+apple - iphone 15 édition 98 128 go,apple,smartphone,3700000000098.0,iphone 15 édition 98,noir,128 go,ERP
+apple iphone 15 pro édition 99 256 go,apple,smartphone,3700000000099.0,iphone 15 pro édition 99,titane,256 go,ERP
+xiaomi - redmi note 13 édition 100 256 go,xiaomi,smartphone,3700000000100.0,redmi note 13 édition 100,noir,256 go,ERP
+samsung galaxy s24 128 go,samsung,smartphone,3700000000001.0,galaxy s24,noir,128 go,ERP
+samsung galaxy s24 128 go,samsung,smartphone,3700000000001,,noir,128 go,Marketplace
+apple iphone 15 128 go,apple,smartphone,3700000000002,,noir,128 go,Marketplace
+apple iphone 15 pro 256 go,apple,smartphone,3700000000003,,titane,256 go,Marketplace
+apple iphone 15 pro 256 go - livraison rapide,apple,smartphone,3700000000003,,titane,256 go,Marketplace
+xiaomi redmi note 13 256 go,xiaomi,smartphone,3700000000004,,noir,256 go,Marketplace
+google pixel 8 128 go,google,smartphone,3700000000005,,noir,128 go,Marketplace
+sony wh-1000xm5,sony,casque audio,3700000000006,,noir,,Marketplace
+jbl tune 760nc,jbl,casque audio,3700000000007,,noir,,Marketplace
+jbl tune 760nc - livraison rapide,jbl,casque audio,3700000000007,,noir,,Marketplace
+apple airpods pro 2,apple,écouteurs,3700000000008,,blanc,,Marketplace
+dell xps 13 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000009,,argent,16 go ram / 512 go ssd,Marketplace
+hp pavilion 15 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000010,,argent,8 go ram / 512 go ssd,Marketplace
+lenovo thinkpad e14 16 go ram / 512 go ssd,,ordinateur portable,3700000000011,,noir,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000012,,minuit,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 16 go ram / 512 go ssd - livraison rapide,apple,ordinateur portable,3700000000012,,minuit,16 go ram / 512 go ssd,Marketplace
+logitech mx master 3s,logitech,souris,3700000000013,,graphite,,Marketplace
+logitech k380,logitech,divers,3700000000014,,blanc,,Marketplace
+samsung t7 shield 1 to,samsung,ssd externe,3700000000015,,bleu,1 to,Marketplace
+sandisk extreme portable ssd 1 to,sandisk,ssd externe,3700000000016,,noir,1 to,Marketplace
+canon eos r50,canon,appareil photo,3700000000017,,noir,,Marketplace
+lg oled c3 55 pouces 55 pouces,lg,téléviseur,,,noir,55 pouces,Marketplace
+dyson v15 detect,dyson,aspirateur,3700000000019,,jaune,,Marketplace
+"philips airfryer xxl 7,3 l",philips,friteuse sans huile,3700000000020,,noir,"7,3 l",Marketplace
+"philips airfryer xxl 7,3 l - livraison rapide",philips,friteuse sans huile,3700000000020,,noir,"7,3 l",Marketplace
+nespresso vertuo pop,nespresso,machine à café,3700000000021,,rouge,,Marketplace
+nike air max 90 42,,chaussures,3700000000022,,blanc,42,Marketplace
+adidas ultraboost light 42,adidas,chaussures,3700000000023,,noir,42,Marketplace
+"samsonite guardit 2.0 15,6 pouces",samsonite,sac à dos,3700000000024,,noir,"15,6 pouces",Marketplace
+samsung galaxy s24 édition 25 128 go,samsung,smartphone,3700000000025,,noir,128 go,Marketplace
+apple iphone 15 édition 26 128 go,apple,smartphone,3700000000026,,noir,128 go,Marketplace
+apple iphone 15 pro édition 27 256 go,apple,smartphone,3700000000027,,titane,256 go,Marketplace
+xiaomi redmi note 13 édition 28 256 go,xiaomi,divers,3700000000028,,noir,256 go,Marketplace
+google pixel 8 édition 29 128 go,google,smartphone,3700000000029,,noir,128 go,Marketplace
+sony wh-1000xm5 édition 30,sony,casque audio,3700000000030,,noir,,Marketplace
+jbl tune 760nc édition 31,jbl,casque audio,3700000000031,,noir,,Marketplace
+apple airpods pro 2 édition 32,apple,écouteurs,3700000000032,,blanc,,Marketplace
+dell xps 13 édition 33 16 go ram / 512 go ssd,,ordinateur portable,3700000000033,,argent,16 go ram / 512 go ssd,Marketplace
+dell xps 13 édition 33 16 go ram / 512 go ssd - livraison rapide,dell,ordinateur portable,3700000000033,,argent,16 go ram / 512 go ssd,Marketplace
+hp pavilion 15 édition 34 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000034,,argent,8 go ram / 512 go ssd,Marketplace
+lenovo thinkpad e14 édition 35 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000035,,noir,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 édition 36 16 go ram / 512 go ssd,apple,ordinateur portable,,,minuit,16 go ram / 512 go ssd,Marketplace
+logitech mx master 3s édition 37,logitech,souris,3700000000037,,graphite,,Marketplace
+logitech k380 édition 38,logitech,clavier,3700000000038,,blanc,,Marketplace
+samsung t7 shield édition 39 1 to,samsung,ssd externe,3700000000039,,bleu,1 to,Marketplace
+sandisk extreme portable ssd édition 40 1 to,sandisk,ssd externe,3700000000040,,noir,1 to,Marketplace
+canon eos r50 édition 41,canon,appareil photo,3700000000041,,noir,,Marketplace
+lg oled c3 55 pouces édition 42 55 pouces,lg,divers,3700000000042,,noir,55 pouces,Marketplace
+dyson v15 detect édition 43,dyson,aspirateur,3700000000043,,jaune,,Marketplace
+"philips airfryer xxl édition 44 7,3 l",,friteuse sans huile,3700000000044,,noir,"7,3 l",Marketplace
+nespresso vertuo pop édition 45,nespresso,machine à café,3700000000045,,rouge,,Marketplace
+nespresso vertuo pop édition 45 - livraison rapide,nespresso,machine à café,3700000000045,,rouge,,Marketplace
+nike air max 90 édition 46 42,nike,chaussures,3700000000046,,blanc,42,Marketplace
+adidas ultraboost light édition 47 42,adidas,chaussures,3700000000047,,noir,42,Marketplace
+"samsonite guardit 2.0 édition 48 15,6 pouces",samsonite,sac à dos,3700000000048,,noir,"15,6 pouces",Marketplace
+samsung galaxy s24 édition 49 128 go,samsung,smartphone,3700000000049,,noir,128 go,Marketplace
+apple iphone 15 édition 50 128 go,apple,smartphone,3700000000050,,noir,128 go,Marketplace
+apple iphone 15 pro édition 51 256 go,apple,smartphone,3700000000051,,titane,256 go,Marketplace
+xiaomi redmi note 13 édition 52 256 go,xiaomi,smartphone,3700000000052,,noir,256 go,Marketplace
+google pixel 8 édition 53 128 go,google,smartphone,3700000000053,,noir,128 go,Marketplace
+sony wh-1000xm5 édition 54,sony,casque audio,,,noir,,Marketplace
+jbl tune 760nc édition 55,,casque audio,3700000000055,,noir,,Marketplace
+apple airpods pro 2 édition 56,apple,divers,3700000000056,,blanc,,Marketplace
+dell xps 13 édition 57 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000057,,argent,16 go ram / 512 go ssd,Marketplace
+hp pavilion 15 édition 58 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000058,,argent,8 go ram / 512 go ssd,Marketplace
+lenovo thinkpad e14 édition 59 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000059,,noir,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 édition 60 16 go ram / 512 go ssd,apple,ordinateur portable,3700000000060,,minuit,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 édition 60 16 go ram / 512 go ssd - livraison rapide,apple,ordinateur portable,3700000000060,,minuit,16 go ram / 512 go ssd,Marketplace
+logitech mx master 3s édition 61,logitech,souris,3700000000061,,graphite,,Marketplace
+logitech k380 édition 62,logitech,clavier,3700000000062,,blanc,,Marketplace
+samsung t7 shield édition 63 1 to,samsung,ssd externe,3700000000063,,bleu,1 to,Marketplace
+sandisk extreme portable ssd édition 64 1 to,sandisk,ssd externe,3700000000064,,noir,1 to,Marketplace
+canon eos r50 édition 65,canon,appareil photo,3700000000065,,noir,,Marketplace
+lg oled c3 55 pouces édition 66 55 pouces,,téléviseur,3700000000066,,noir,55 pouces,Marketplace
+dyson v15 detect édition 67,dyson,aspirateur,3700000000067,,jaune,,Marketplace
+"philips airfryer xxl édition 68 7,3 l",philips,friteuse sans huile,3700000000068,,noir,"7,3 l",Marketplace
+nespresso vertuo pop édition 69,nespresso,machine à café,3700000000069,,rouge,,Marketplace
+nike air max 90 édition 70 42,nike,divers,3700000000070,,blanc,42,Marketplace
+adidas ultraboost light édition 71 42,adidas,chaussures,3700000000071,,noir,42,Marketplace
+"samsonite guardit 2.0 édition 72 15,6 pouces",samsonite,sac à dos,,,noir,"15,6 pouces",Marketplace
+samsung galaxy s24 édition 73 128 go,samsung,smartphone,3700000000073,,noir,128 go,Marketplace
+apple iphone 15 édition 74 128 go,apple,smartphone,3700000000074,,noir,128 go,Marketplace
+apple iphone 15 pro édition 75 256 go,apple,smartphone,3700000000075,,titane,256 go,Marketplace
+apple iphone 15 pro édition 75 256 go - livraison rapide,apple,smartphone,3700000000075,,titane,256 go,Marketplace
+xiaomi redmi note 13 édition 76 256 go,xiaomi,smartphone,3700000000076,,noir,256 go,Marketplace
+google pixel 8 édition 77 128 go,,smartphone,3700000000077,,noir,128 go,Marketplace
+sony wh-1000xm5 édition 78,sony,casque audio,3700000000078,,noir,,Marketplace
+jbl tune 760nc édition 79,jbl,casque audio,3700000000079,,noir,,Marketplace
+apple airpods pro 2 édition 80,apple,écouteurs,3700000000080,,blanc,,Marketplace
+dell xps 13 édition 81 16 go ram / 512 go ssd,dell,ordinateur portable,3700000000081,,argent,16 go ram / 512 go ssd,Marketplace
+hp pavilion 15 édition 82 8 go ram / 512 go ssd,hp,ordinateur portable,3700000000082,,argent,8 go ram / 512 go ssd,Marketplace
+lenovo thinkpad e14 édition 83 16 go ram / 512 go ssd,lenovo,ordinateur portable,3700000000083,,noir,16 go ram / 512 go ssd,Marketplace
+apple macbook air m3 édition 84 16 go ram / 512 go ssd,apple,divers,3700000000084,,minuit,16 go ram / 512 go ssd,Marketplace
+logitech mx master 3s édition 85,logitech,souris,3700000000085,,graphite,,Marketplace
+logitech k380 édition 86,logitech,clavier,3700000000086,,blanc,,Marketplace
+samsung t7 shield édition 87 1 to,samsung,ssd externe,3700000000087,,bleu,1 to,Marketplace
+sandisk extreme portable ssd édition 88 1 to,,ssd externe,3700000000088,,noir,1 to,Marketplace
+canon eos r50 édition 89,canon,appareil photo,3700000000089,,noir,,Marketplace
+lg oled c3 55 pouces édition 90 55 pouces,lg,téléviseur,,,noir,55 pouces,Marketplace
+lg oled c3 55 pouces édition 90 55 pouces - livraison rapide,lg,téléviseur,3700000000090,,noir,55 pouces,Marketplace
+dyson v15 detect édition 91,dyson,aspirateur,3700000000091,,jaune,,Marketplace
+"philips airfryer xxl édition 92 7,3 l",philips,friteuse sans huile,3700000000092,,noir,"7,3 l",Marketplace
+nespresso vertuo pop édition 93,nespresso,machine à café,3700000000093,,rouge,,Marketplace
+nike air max 90 édition 94 42,nike,chaussures,3700000000094,,blanc,42,Marketplace
+adidas ultraboost light édition 95 42,adidas,chaussures,3700000000095,,noir,42,Marketplace
+"samsonite guardit 2.0 édition 96 15,6 pouces",samsonite,sac à dos,3700000000096,,noir,"15,6 pouces",Marketplace
+samsung galaxy s24 édition 97 128 go,samsung,smartphone,3700000000097,,noir,128 go,Marketplace
+apple iphone 15 édition 98 128 go,apple,divers,3700000000098,,noir,128 go,Marketplace
+apple iphone 15 pro édition 99 256 go,,smartphone,3700000000099,,titane,256 go,Marketplace
+xiaomi redmi note 13 édition 100 256 go,xiaomi,smartphone,3700000000100,,noir,256 go,Marketplace
+???,marque inconnue,divers,ABC123,,,,Marketplace
