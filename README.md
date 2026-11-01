@@ -216,7 +216,7 @@ Data-Governance-MDM/
 ### 1. Cloner le projet
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/Ramadiaw12/Project_datagouvernance.git
 cd Data-Governance-MDM
 ```
 
