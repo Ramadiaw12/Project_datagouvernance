@@ -130,6 +130,10 @@ Le GTIN peut servir de clé de rapprochement lorsqu'il est valide. Les autres at
 
 Le fichier de correspondances fourni avec le jeu de données est réservé à l'évaluation des résultats du rapprochement.
 
+## Dashboard de gouvernance
+
+![Dashboard](images/dashboardreal.png)
+
 ### 5. Construction du référentiel maître
 
 La consolidation permet de construire un référentiel produit centralisé, appelé **Golden Record**.
