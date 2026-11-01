@@ -1,0 +1,19 @@
+﻿Attribut,Type_Python,Description,Obligatoire,Regle_qualite,Priorite_source
+master_product_id,object,Identifiant unique du produit maître,Oui,Unique et non nul,Généré par le MDM
+product_name,object,Désignation commerciale du produit,Oui,"Non vide, clair et compréhensible",PIM > ERP > Marketplace
+product_name_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+brand,object,Marque commerciale du produit,Oui,Valeur normalisée et non vide,PIM > ERP > Marketplace
+brand_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+category,object,Catégorie à laquelle appartient le produit,Oui,Appartenance à une nomenclature contrôlée,PIM > ERP > Marketplace
+category_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+gtin,object,Identifiant commercial international du produit,Conditionnel,"8, 12, 13 ou 14 chiffres et contrôle de validité",PIM > ERP > Marketplace
+gtin_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+model,object,Référence ou modèle du produit,Non,Format cohérent et absence de valeurs vides,ERP > PIM > Marketplace
+model_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+specification,object,Caractéristiques techniques du produit,Non,Information descriptive cohérente,PIM > ERP > Marketplace
+specification_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+color,object,Couleur du produit,Non,Valeur normalisée,PIM > ERP > Marketplace
+color_source,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+nombre_sources,int64,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+sources,object,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir
+nombre_enregistrements,int64,Attribut technique ou complémentaire du référentiel,À définir,À définir,À définir

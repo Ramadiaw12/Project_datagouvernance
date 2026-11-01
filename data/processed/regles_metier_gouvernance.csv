@@ -1,0 +1,9 @@
+﻿ID_Regle,Attribut,Description,Dimension_qualite,Responsable
+RM01,Identifiant produit maître,Chaque produit doit posséder un identifiant unique.,Unicité,MDM
+RM02,Nom du produit,Le nom du produit doit être renseigné.,Complétude,PIM / ERP / Marketplace
+RM03,Marque,La marque doit être renseignée.,Complétude,PIM / ERP / Marketplace
+RM04,GTIN,Le GTIN doit respecter les formats et règles de validité.,Validité,PIM / ERP / Marketplace
+RM05,Déduplication,Les enregistrements représentant le même produit doivent être identifiés.,Unicité,MDM
+RM06,Gestion des conflits,Les contradictions entre attributs sources doivent être détectées et arbitrées.,Cohérence,Data Steward
+RM07,Traçabilité,Chaque produit maître doit être relié à ses enregistrements sources.,Traçabilité,MDM
+RM08,Prix et stocks,Les prix et stocks restent dans les systèmes opérationnels.,Architecture des données,ERP / Marketplace
