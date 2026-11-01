@@ -38,8 +38,9 @@ Le projet repose sur trois sources de données fictives :
 | Marketplace | Gestion des offres des vendeurs | `offer_id` |
 
 Les trois sources contiennent des attributs similaires, mais leurs noms de colonnes et leurs formats sont différents.
+## Architecture MDM
 
-![Architecture_mdm](images/MDM_img.png.png)
+![Architecture_mdm](images/MDM_img.png)
 
 ### Architecture cible
 
@@ -86,6 +87,10 @@ Contrôles réalisés :
 - Vérification du format des GTIN.
 - Contrôle des valeurs numériques.
 - Identification des incohérences potentielles.
+
+## Diagnostic des données
+
+![Diagnostic de qualité](images/diagn.png)
 
 ### 2. Harmonisation des données
 
@@ -155,6 +160,10 @@ Le modèle cible s'organise autour de trois tables :
 | model | Modèle |
 | specification | Caractéristiques |
 | color | Couleur |
+
+## Référentiel produit maître
+
+![Golden Record](images/goldenrecord.png)
 
 ## Gouvernance et qualité des données
 
