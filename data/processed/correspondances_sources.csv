@@ -1,314 +1,314 @@
-﻿master_key,source_id,source_system,product_name,brand,category,gtin,model,specification,color,product_name_norm,brand_norm,category_norm,model_norm,specification_norm,color_norm,gtin_norm,gtin_valide,seller_sku,seller_id,price_mad,stock_quantity,gtin_matching,master_product_id
-PIM_P0001,P0001,PIM,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,samsung galaxy s24 128 go,samsung,smartphone,galaxy s24,128 go,noir,03700000000001,False,,,,,,SRC_PIM_P0001
-PIM_P0002,P0002,PIM,Apple iPhone 15 128 Go,Apple,Smartphone,3700000000002,iPhone 15,128 Go,Noir,apple iphone 15 128 go,apple,smartphone,iphone 15,128 go,noir,03700000000002,False,,,,,,SRC_PIM_P0002
-PIM_P0003,P0003,PIM,Apple iPhone 15 Pro 256 Go,Apple,Smartphone,3700000000003,iPhone 15 Pro,256 Go,Titane,apple iphone 15 pro 256 go,apple,smartphone,iphone 15 pro,256 go,titane,03700000000003,False,,,,,,SRC_PIM_P0003
-PIM_P0004,P0004,PIM,Xiaomi Redmi Note 13 256 Go,Xiaomi,Smartphone,3700000000004,Redmi Note 13,256 Go,Noir,xiaomi redmi note 13 256 go,xiaomi,smartphone,redmi note 13,256 go,noir,03700000000004,False,,,,,,SRC_PIM_P0004
-PIM_P0005,P0005,PIM,Google Pixel 8 128 Go,Google,Smartphone,3700000000005,Pixel 8,128 Go,Noir,google pixel 8 128 go,google,smartphone,pixel 8,128 go,noir,03700000000005,False,,,,,,SRC_PIM_P0005
-PIM_P0006,P0006,PIM,Sony WH-1000XM5,Sony,Casque audio,3700000000006,WH-1000XM5,,Noir,sony wh 1000xm5,sony,casque audio,wh 1000xm5,,noir,03700000000006,True,,,,,03700000000006,GTIN_03700000000006
-PIM_P0007,P0007,PIM,JBL Tune 760NC,JBL,Casque audio,3700000000007,Tune 760NC,,Noir,jbl tune 760nc,jbl,casque audio,tune 760nc,,noir,03700000000007,False,,,,,,SRC_PIM_P0007
-PIM_P0008,P0008,PIM,Apple AirPods Pro 2,Apple,Écouteurs,3700000000008,AirPods Pro 2,,Blanc,apple airpods pro 2,apple,ecouteurs,airpods pro 2,,blanc,03700000000008,False,,,,,,SRC_PIM_P0008
-PIM_P0009,P0009,PIM,Dell XPS 13 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000009,XPS 13,16 Go RAM / 512 Go SSD,Argent,dell xps 13 16 go ram 512 go ssd,dell,ordinateur portable,xps 13,16 go ram 512 go ssd,argent,03700000000009,False,,,,,,SRC_PIM_P0009
-PIM_P0010,P0010,PIM,HP Pavilion 15 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000010,Pavilion 15,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15,8 go ram 512 go ssd,argent,03700000000010,False,,,,,,SRC_PIM_P0010
-PIM_P0011,P0011,PIM,Lenovo ThinkPad E14 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000011,ThinkPad E14,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14,16 go ram 512 go ssd,noir,03700000000011,False,,,,,,SRC_PIM_P0011
-PIM_P0012,P0012,PIM,Apple MacBook Air M3 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000012,MacBook Air M3,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3,16 go ram 512 go ssd,minuit,03700000000012,False,,,,,,SRC_PIM_P0012
-PIM_P0013,P0013,PIM,Logitech MX Master 3S,Logitech,Souris,,MX Master 3S,,Graphite,logitech mx master 3s,logitech,souris,mx master 3s,,graphite,,False,,,,,,SRC_PIM_P0013
-PIM_P0014,P0014,PIM,Logitech K380,Logitech,Clavier,3700000000014,K380,,Blanc,logitech k380,logitech,clavier,k380,,blanc,03700000000014,False,,,,,,SRC_PIM_P0014
-PIM_P0015,P0015,PIM,Samsung T7 Shield 1 To,Samsung,SSD externe,3700000000015,T7 Shield,1 To,Bleu,samsung t7 shield 1 to,samsung,ssd externe,t7 shield,1 to,bleu,03700000000015,False,,,,,,SRC_PIM_P0015
-PIM_P0016,P0016,PIM,SanDisk Extreme Portable SSD 1 To,SanDisk,SSD externe,3700000000016,Extreme Portable SSD,1 To,Noir,sandisk extreme portable ssd 1 to,sandisk,ssd externe,extreme portable ssd,1 to,noir,03700000000016,False,,,,,,SRC_PIM_P0016
-PIM_P0017,P0017,PIM,,Canon,Appareil photo,3700000000017,EOS R50,,Noir,,canon,appareil photo,eos r50,,noir,03700000000017,False,,,,,,SRC_PIM_P0017
-PIM_P0018,P0018,PIM,LG OLED C3 55 pouces 55 pouces,LG,Téléviseur,3700000000018,OLED C3 55 pouces,55 pouces,Noir,lg oled c3 55 pouces 55 pouces,lg,televiseur,oled c3 55 pouces,55 pouces,noir,03700000000018,False,,,,,,SRC_PIM_P0018
-PIM_P0019,P0019,PIM,Dyson V15 Detect,Dyson,Aspirateur,3700000000019,V15 Detect,,Jaune,dyson v15 detect,dyson,aspirateur,v15 detect,,jaune,03700000000019,False,,,,,,SRC_PIM_P0019
-PIM_P0020,P0020,PIM,"Philips Airfryer XXL 7,3 L",Philips,Friteuse sans huile,3700000000020,Airfryer XXL,"7,3 L",Noir,philips airfryer xxl 7 3 l,philips,friteuse sans huile,airfryer xxl,7 3 l,noir,03700000000020,True,,,,,03700000000020,GTIN_03700000000020
-PIM_P0021,P0021,PIM,Nespresso Vertuo Pop,Nespresso,Machine à café,3700000000021,Vertuo Pop,,Rouge,nespresso vertuo pop,nespresso,machine a cafe,vertuo pop,,rouge,03700000000021,False,,,,,,SRC_PIM_P0021
-PIM_P0022,P0022,PIM,Nike Air Max 90 42,Nike,Chaussures,3700000000022,Air Max 90,42,Blanc,nike air max 90 42,nike,chaussures,air max 90,42,blanc,03700000000022,False,,,,,,SRC_PIM_P0022
-PIM_P0023,P0023,PIM,Adidas Ultraboost Light 42,Adidas,Chaussures,3700000000023,Ultraboost Light,42,Noir,adidas ultraboost light 42,adidas,chaussures,ultraboost light,42,noir,03700000000023,False,,,,,,SRC_PIM_P0023
-PIM_P0024,P0024,PIM,"Samsonite Guardit 2.0 15,6 pouces",Samsonite,Sac à dos,3700000000024,Guardit 2.0,"15,6 pouces",Noir,samsonite guardit 2 0 15 6 pouces,samsonite,sac a dos,guardit 2 0,15 6 pouces,noir,03700000000024,False,,,,,,SRC_PIM_P0024
-PIM_P0025,P0025,PIM,Samsung Galaxy S24 édition 25 128 Go,Samsung,Smartphone,3700000000025,Galaxy S24 édition 25,128 Go,Noir,samsung galaxy s24 edition 25 128 go,samsung,smartphone,galaxy s24 edition 25,128 go,noir,03700000000025,False,,,,,,SRC_PIM_P0025
-PIM_P0026,P0026,PIM,Apple iPhone 15 édition 26 128 Go,Apple,Smartphone,,iPhone 15 édition 26,128 Go,Noir,apple iphone 15 edition 26 128 go,apple,smartphone,iphone 15 edition 26,128 go,noir,,False,,,,,,SRC_PIM_P0026
-PIM_P0027,P0027,PIM,Apple iPhone 15 Pro édition 27 256 Go,Apple,Smartphone,3700000000027,iPhone 15 Pro édition 27,256 Go,Titane,apple iphone 15 pro edition 27 256 go,apple,smartphone,iphone 15 pro edition 27,256 go,titane,03700000000027,False,,,,,,SRC_PIM_P0027
-PIM_P0028,P0028,PIM,Xiaomi Redmi Note 13 édition 28 256 Go,Xiaomi,Smartphone,3700000000028,Redmi Note 13 édition 28,256 Go,Noir,xiaomi redmi note 13 edition 28 256 go,xiaomi,smartphone,redmi note 13 edition 28,256 go,noir,03700000000028,False,,,,,,SRC_PIM_P0028
-PIM_P0029,P0029,PIM,Google Pixel 8 édition 29 128 Go,Google,Smartphone,3700000000029,Pixel 8 édition 29,128 Go,Noir,google pixel 8 edition 29 128 go,google,smartphone,pixel 8 edition 29,128 go,noir,03700000000029,False,,,,,,SRC_PIM_P0029
-PIM_P0030,P0030,PIM,Sony WH-1000XM5 édition 30,Sony,Casque audio,3700000000030,WH-1000XM5 édition 30,,Noir,sony wh 1000xm5 edition 30,sony,casque audio,wh 1000xm5 edition 30,,noir,03700000000030,False,,,,,,SRC_PIM_P0030
-PIM_P0031,P0031,PIM,JBL Tune 760NC édition 31,JBL,Casque audio,3700000000031,Tune 760NC édition 31,,Noir,jbl tune 760nc edition 31,jbl,casque audio,tune 760nc edition 31,,noir,03700000000031,False,,,,,,SRC_PIM_P0031
-PIM_P0032,P0032,PIM,Apple AirPods Pro 2 édition 32,Apple,Écouteurs,3700000000032,AirPods Pro 2 édition 32,,Blanc,apple airpods pro 2 edition 32,apple,ecouteurs,airpods pro 2 edition 32,,blanc,03700000000032,False,,,,,,SRC_PIM_P0032
-PIM_P0033,P0033,PIM,Dell XPS 13 édition 33 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000033,XPS 13 édition 33,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 33 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 33,16 go ram 512 go ssd,argent,03700000000033,False,,,,,,SRC_PIM_P0033
-PIM_P0034,P0034,PIM,,HP,Ordinateur portable,3700000000034,Pavilion 15 édition 34,8 Go RAM / 512 Go SSD,Argent,,hp,ordinateur portable,pavilion 15 edition 34,8 go ram 512 go ssd,argent,03700000000034,False,,,,,,SRC_PIM_P0034
-PIM_P0035,P0035,PIM,Lenovo ThinkPad E14 édition 35 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000035,ThinkPad E14 édition 35,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 35 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 35,16 go ram 512 go ssd,noir,03700000000035,False,,,,,,SRC_PIM_P0035
-PIM_P0036,P0036,PIM,Apple MacBook Air M3 édition 36 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000036,MacBook Air M3 édition 36,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 36 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 36,16 go ram 512 go ssd,minuit,03700000000036,False,,,,,,SRC_PIM_P0036
-PIM_P0037,P0037,PIM,Logitech MX Master 3S édition 37,Logitech,Souris,3700000000037,MX Master 3S édition 37,,Graphite,logitech mx master 3s edition 37,logitech,souris,mx master 3s edition 37,,graphite,03700000000037,True,,,,,03700000000037,GTIN_03700000000037
-PIM_P0038,P0038,PIM,Logitech K380 édition 38,Logitech,Clavier,3700000000038,K380 édition 38,,Blanc,logitech k380 edition 38,logitech,clavier,k380 edition 38,,blanc,03700000000038,False,,,,,,SRC_PIM_P0038
-PIM_P0039,P0039,PIM,Samsung T7 Shield édition 39 1 To,Samsung,SSD externe,,T7 Shield édition 39,1 To,Bleu,samsung t7 shield edition 39 1 to,samsung,ssd externe,t7 shield edition 39,1 to,bleu,,False,,,,,,SRC_PIM_P0039
-PIM_P0040,P0040,PIM,SanDisk Extreme Portable SSD édition 40 1 To,SanDisk,SSD externe,3700000000040,Extreme Portable SSD édition 40,1 To,Noir,sandisk extreme portable ssd edition 40 1 to,sandisk,ssd externe,extreme portable ssd edition 40,1 to,noir,03700000000040,False,,,,,,SRC_PIM_P0040
-PIM_P0041,P0041,PIM,Canon EOS R50 édition 41,Canon,Appareil photo,3700000000041,EOS R50 édition 41,,Noir,canon eos r50 edition 41,canon,appareil photo,eos r50 edition 41,,noir,03700000000041,False,,,,,,SRC_PIM_P0041
-PIM_P0042,P0042,PIM,LG OLED C3 55 pouces édition 42 55 pouces,LG,Téléviseur,3700000000042,OLED C3 55 pouces édition 42,55 pouces,Noir,lg oled c3 55 pouces edition 42 55 pouces,lg,televiseur,oled c3 55 pouces edition 42,55 pouces,noir,03700000000042,False,,,,,,SRC_PIM_P0042
-PIM_P0043,P0043,PIM,Dyson V15 Detect édition 43,Dyson,Aspirateur,3700000000043,V15 Detect édition 43,,Jaune,dyson v15 detect edition 43,dyson,aspirateur,v15 detect edition 43,,jaune,03700000000043,False,,,,,,SRC_PIM_P0043
-PIM_P0044,P0044,PIM,"Philips Airfryer XXL édition 44 7,3 L",Philips,Friteuse sans huile,3700000000044,Airfryer XXL édition 44,"7,3 L",Noir,philips airfryer xxl edition 44 7 3 l,philips,friteuse sans huile,airfryer xxl edition 44,7 3 l,noir,03700000000044,True,,,,,03700000000044,GTIN_03700000000044
-PIM_P0045,P0045,PIM,Nespresso Vertuo Pop édition 45,Nespresso,Machine à café,3700000000045,Vertuo Pop édition 45,,Rouge,nespresso vertuo pop edition 45,nespresso,machine a cafe,vertuo pop edition 45,,rouge,03700000000045,False,,,,,,SRC_PIM_P0045
-PIM_P0046,P0046,PIM,Nike Air Max 90 édition 46 42,Nike,Chaussures,3700000000046,Air Max 90 édition 46,42,Blanc,nike air max 90 edition 46 42,nike,chaussures,air max 90 edition 46,42,blanc,03700000000046,False,,,,,,SRC_PIM_P0046
-PIM_P0047,P0047,PIM,Adidas Ultraboost Light édition 47 42,Adidas,Chaussures,3700000000047,Ultraboost Light édition 47,42,Noir,adidas ultraboost light edition 47 42,adidas,chaussures,ultraboost light edition 47,42,noir,03700000000047,False,,,,,,SRC_PIM_P0047
-PIM_P0048,P0048,PIM,"Samsonite Guardit 2.0 édition 48 15,6 pouces",Samsonite,Sac à dos,3700000000048,Guardit 2.0 édition 48,"15,6 pouces",Noir,samsonite guardit 2 0 edition 48 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 48,15 6 pouces,noir,03700000000048,False,,,,,,SRC_PIM_P0048
-PIM_P0049,P0049,PIM,Samsung Galaxy S24 édition 49 128 Go,Samsung,Smartphone,3700000000049,Galaxy S24 édition 49,128 Go,Noir,samsung galaxy s24 edition 49 128 go,samsung,smartphone,galaxy s24 edition 49,128 go,noir,03700000000049,False,,,,,,SRC_PIM_P0049
-PIM_P0050,P0050,PIM,Apple iPhone 15 édition 50 128 Go,Apple,Smartphone,3700000000050,iPhone 15 édition 50,128 Go,Noir,apple iphone 15 edition 50 128 go,apple,smartphone,iphone 15 edition 50,128 go,noir,03700000000050,False,,,,,,SRC_PIM_P0050
-PIM_P0051,P0051,PIM,,Apple,Smartphone,3700000000051,iPhone 15 Pro édition 51,256 Go,Titane,,apple,smartphone,iphone 15 pro edition 51,256 go,titane,03700000000051,True,,,,,03700000000051,GTIN_03700000000051
-PIM_P0052,P0052,PIM,Xiaomi Redmi Note 13 édition 52 256 Go,Xiaomi,Smartphone,,Redmi Note 13 édition 52,256 Go,Noir,xiaomi redmi note 13 edition 52 256 go,xiaomi,smartphone,redmi note 13 edition 52,256 go,noir,,False,,,,,,SRC_PIM_P0052
-PIM_P0053,P0053,PIM,Google Pixel 8 édition 53 128 Go,Google,Smartphone,3700000000053,Pixel 8 édition 53,128 Go,Noir,google pixel 8 edition 53 128 go,google,smartphone,pixel 8 edition 53,128 go,noir,03700000000053,False,,,,,,SRC_PIM_P0053
-PIM_P0054,P0054,PIM,Sony WH-1000XM5 édition 54,Sony,Casque audio,3700000000054,WH-1000XM5 édition 54,,Noir,sony wh 1000xm5 edition 54,sony,casque audio,wh 1000xm5 edition 54,,noir,03700000000054,False,,,,,,SRC_PIM_P0054
-PIM_P0055,P0055,PIM,JBL Tune 760NC édition 55,JBL,Casque audio,3700000000055,Tune 760NC édition 55,,Noir,jbl tune 760nc edition 55,jbl,casque audio,tune 760nc edition 55,,noir,03700000000055,False,,,,,,SRC_PIM_P0055
-PIM_P0056,P0056,PIM,Apple AirPods Pro 2 édition 56,Apple,Écouteurs,3700000000056,AirPods Pro 2 édition 56,,Blanc,apple airpods pro 2 edition 56,apple,ecouteurs,airpods pro 2 edition 56,,blanc,03700000000056,False,,,,,,SRC_PIM_P0056
-PIM_P0057,P0057,PIM,Dell XPS 13 édition 57 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000057,XPS 13 édition 57,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 57 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 57,16 go ram 512 go ssd,argent,03700000000057,False,,,,,,SRC_PIM_P0057
-PIM_P0058,P0058,PIM,HP Pavilion 15 édition 58 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000058,Pavilion 15 édition 58,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 58 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15 edition 58,8 go ram 512 go ssd,argent,03700000000058,False,,,,,,SRC_PIM_P0058
-PIM_P0059,P0059,PIM,Lenovo ThinkPad E14 édition 59 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000059,ThinkPad E14 édition 59,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 59 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 59,16 go ram 512 go ssd,noir,03700000000059,False,,,,,,SRC_PIM_P0059
-PIM_P0060,P0060,PIM,Apple MacBook Air M3 édition 60 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000060,MacBook Air M3 édition 60,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 60 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 60,16 go ram 512 go ssd,minuit,03700000000060,False,,,,,,SRC_PIM_P0060
-PIM_P0061,P0061,PIM,Logitech MX Master 3S édition 61,Logitech,Souris,3700000000061,MX Master 3S édition 61,,Graphite,logitech mx master 3s edition 61,logitech,souris,mx master 3s edition 61,,graphite,03700000000061,False,,,,,,SRC_PIM_P0061
-PIM_P0062,P0062,PIM,Logitech K380 édition 62,Logitech,Clavier,3700000000062,K380 édition 62,,Blanc,logitech k380 edition 62,logitech,clavier,k380 edition 62,,blanc,03700000000062,False,,,,,,SRC_PIM_P0062
-PIM_P0063,P0063,PIM,Samsung T7 Shield édition 63 1 To,Samsung,SSD externe,3700000000063,T7 Shield édition 63,1 To,Bleu,samsung t7 shield edition 63 1 to,samsung,ssd externe,t7 shield edition 63,1 to,bleu,03700000000063,False,,,,,,SRC_PIM_P0063
-PIM_P0064,P0064,PIM,SanDisk Extreme Portable SSD édition 64 1 To,SanDisk,SSD externe,3700000000064,Extreme Portable SSD édition 64,1 To,Noir,sandisk extreme portable ssd edition 64 1 to,sandisk,ssd externe,extreme portable ssd edition 64,1 to,noir,03700000000064,False,,,,,,SRC_PIM_P0064
-PIM_P0065,P0065,PIM,Canon EOS R50 édition 65,Canon,Appareil photo,,EOS R50 édition 65,,Noir,canon eos r50 edition 65,canon,appareil photo,eos r50 edition 65,,noir,,False,,,,,,SRC_PIM_P0065
-PIM_P0066,P0066,PIM,LG OLED C3 55 pouces édition 66 55 pouces,LG,Téléviseur,3700000000066,OLED C3 55 pouces édition 66,55 pouces,Noir,lg oled c3 55 pouces edition 66 55 pouces,lg,televiseur,oled c3 55 pouces edition 66,55 pouces,noir,03700000000066,False,,,,,,SRC_PIM_P0066
-PIM_P0067,P0067,PIM,Dyson V15 Detect édition 67,Dyson,Aspirateur,3700000000067,V15 Detect édition 67,,Jaune,dyson v15 detect edition 67,dyson,aspirateur,v15 detect edition 67,,jaune,03700000000067,False,,,,,,SRC_PIM_P0067
-PIM_P0068,P0068,PIM,,Philips,Friteuse sans huile,3700000000068,Airfryer XXL édition 68,"7,3 L",Noir,,philips,friteuse sans huile,airfryer xxl edition 68,7 3 l,noir,03700000000068,True,,,,,03700000000068,GTIN_03700000000068
-PIM_P0069,P0069,PIM,Nespresso Vertuo Pop édition 69,Nespresso,Machine à café,3700000000069,Vertuo Pop édition 69,,Rouge,nespresso vertuo pop edition 69,nespresso,machine a cafe,vertuo pop edition 69,,rouge,03700000000069,False,,,,,,SRC_PIM_P0069
-PIM_P0070,P0070,PIM,Nike Air Max 90 édition 70 42,Nike,Chaussures,3700000000070,Air Max 90 édition 70,42,Blanc,nike air max 90 edition 70 42,nike,chaussures,air max 90 edition 70,42,blanc,03700000000070,False,,,,,,SRC_PIM_P0070
-PIM_P0071,P0071,PIM,Adidas Ultraboost Light édition 71 42,Adidas,Chaussures,3700000000071,Ultraboost Light édition 71,42,Noir,adidas ultraboost light edition 71 42,adidas,chaussures,ultraboost light edition 71,42,noir,03700000000071,False,,,,,,SRC_PIM_P0071
-PIM_P0072,P0072,PIM,"Samsonite Guardit 2.0 édition 72 15,6 pouces",Samsonite,Sac à dos,3700000000072,Guardit 2.0 édition 72,"15,6 pouces",Noir,samsonite guardit 2 0 edition 72 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 72,15 6 pouces,noir,03700000000072,False,,,,,,SRC_PIM_P0072
-PIM_P0073,P0073,PIM,Samsung Galaxy S24 édition 73 128 Go,Samsung,Smartphone,3700000000073,Galaxy S24 édition 73,128 Go,Noir,samsung galaxy s24 edition 73 128 go,samsung,smartphone,galaxy s24 edition 73,128 go,noir,03700000000073,False,,,,,,SRC_PIM_P0073
-PIM_P0074,P0074,PIM,Apple iPhone 15 édition 74 128 Go,Apple,Smartphone,3700000000074,iPhone 15 édition 74,128 Go,Noir,apple iphone 15 edition 74 128 go,apple,smartphone,iphone 15 edition 74,128 go,noir,03700000000074,False,,,,,,SRC_PIM_P0074
-PIM_P0075,P0075,PIM,Apple iPhone 15 Pro édition 75 256 Go,Apple,Smartphone,3700000000075,iPhone 15 Pro édition 75,256 Go,Titane,apple iphone 15 pro edition 75 256 go,apple,smartphone,iphone 15 pro edition 75,256 go,titane,03700000000075,True,,,,,03700000000075,GTIN_03700000000075
-PIM_P0076,P0076,PIM,Xiaomi Redmi Note 13 édition 76 256 Go,Xiaomi,Smartphone,3700000000076,Redmi Note 13 édition 76,256 Go,Noir,xiaomi redmi note 13 edition 76 256 go,xiaomi,smartphone,redmi note 13 edition 76,256 go,noir,03700000000076,False,,,,,,SRC_PIM_P0076
-PIM_P0077,P0077,PIM,Google Pixel 8 édition 77 128 Go,Google,Smartphone,3700000000077,Pixel 8 édition 77,128 Go,Noir,google pixel 8 edition 77 128 go,google,smartphone,pixel 8 edition 77,128 go,noir,03700000000077,False,,,,,,SRC_PIM_P0077
-PIM_P0078,P0078,PIM,Sony WH-1000XM5 édition 78,Sony,Casque audio,,WH-1000XM5 édition 78,,Noir,sony wh 1000xm5 edition 78,sony,casque audio,wh 1000xm5 edition 78,,noir,,False,,,,,,SRC_PIM_P0078
-PIM_P0079,P0079,PIM,JBL Tune 760NC édition 79,JBL,Casque audio,3700000000079,Tune 760NC édition 79,,Noir,jbl tune 760nc edition 79,jbl,casque audio,tune 760nc edition 79,,noir,03700000000079,False,,,,,,SRC_PIM_P0079
-PIM_P0080,P0080,PIM,Apple AirPods Pro 2 édition 80,Apple,Écouteurs,3700000000080,AirPods Pro 2 édition 80,,Blanc,apple airpods pro 2 edition 80,apple,ecouteurs,airpods pro 2 edition 80,,blanc,03700000000080,False,,,,,,SRC_PIM_P0080
-PIM_P0081,P0081,PIM,Dell XPS 13 édition 81 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000081,XPS 13 édition 81,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 81 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 81,16 go ram 512 go ssd,argent,03700000000081,False,,,,,,SRC_PIM_P0081
-PIM_P0082,P0082,PIM,HP Pavilion 15 édition 82 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000082,Pavilion 15 édition 82,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 82 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15 edition 82,8 go ram 512 go ssd,argent,03700000000082,True,,,,,03700000000082,GTIN_03700000000082
-PIM_P0083,P0083,PIM,Lenovo ThinkPad E14 édition 83 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000083,ThinkPad E14 édition 83,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 83 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 83,16 go ram 512 go ssd,noir,03700000000083,False,,,,,,SRC_PIM_P0083
-PIM_P0084,P0084,PIM,Apple MacBook Air M3 édition 84 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000084,MacBook Air M3 édition 84,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 84 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 84,16 go ram 512 go ssd,minuit,03700000000084,False,,,,,,SRC_PIM_P0084
-PIM_P0085,P0085,PIM,,Logitech,Souris,3700000000085,MX Master 3S édition 85,,Graphite,,logitech,souris,mx master 3s edition 85,,graphite,03700000000085,False,,,,,,SRC_PIM_P0085
-PIM_P0086,P0086,PIM,Logitech K380 édition 86,Logitech,Clavier,3700000000086,K380 édition 86,,Blanc,logitech k380 edition 86,logitech,clavier,k380 edition 86,,blanc,03700000000086,False,,,,,,SRC_PIM_P0086
-PIM_P0087,P0087,PIM,Samsung T7 Shield édition 87 1 To,Samsung,SSD externe,3700000000087,T7 Shield édition 87,1 To,Bleu,samsung t7 shield edition 87 1 to,samsung,ssd externe,t7 shield edition 87,1 to,bleu,03700000000087,False,,,,,,SRC_PIM_P0087
-PIM_P0088,P0088,PIM,SanDisk Extreme Portable SSD édition 88 1 To,SanDisk,SSD externe,3700000000088,Extreme Portable SSD édition 88,1 To,Noir,sandisk extreme portable ssd edition 88 1 to,sandisk,ssd externe,extreme portable ssd edition 88,1 to,noir,03700000000088,False,,,,,,SRC_PIM_P0088
-PIM_P0089,P0089,PIM,Canon EOS R50 édition 89,Canon,Appareil photo,3700000000089,EOS R50 édition 89,,Noir,canon eos r50 edition 89,canon,appareil photo,eos r50 edition 89,,noir,03700000000089,False,,,,,,SRC_PIM_P0089
-PIM_P0090,P0090,PIM,LG OLED C3 55 pouces édition 90 55 pouces,LG,Téléviseur,3700000000090,OLED C3 55 pouces édition 90,55 pouces,Noir,lg oled c3 55 pouces edition 90 55 pouces,lg,televiseur,oled c3 55 pouces edition 90,55 pouces,noir,03700000000090,False,,,,,,SRC_PIM_P0090
-PIM_P0091,P0091,PIM,Dyson V15 Detect édition 91,Dyson,Aspirateur,,V15 Detect édition 91,,Jaune,dyson v15 detect edition 91,dyson,aspirateur,v15 detect edition 91,,jaune,,False,,,,,,SRC_PIM_P0091
-PIM_P0092,P0092,PIM,"Philips Airfryer XXL édition 92 7,3 L",Philips,Friteuse sans huile,3700000000092,Airfryer XXL édition 92,"7,3 L",Noir,philips airfryer xxl edition 92 7 3 l,philips,friteuse sans huile,airfryer xxl edition 92,7 3 l,noir,03700000000092,False,,,,,,SRC_PIM_P0092
-PIM_P0093,P0093,PIM,Nespresso Vertuo Pop édition 93,Nespresso,Machine à café,3700000000093,Vertuo Pop édition 93,,Rouge,nespresso vertuo pop edition 93,nespresso,machine a cafe,vertuo pop edition 93,,rouge,03700000000093,False,,,,,,SRC_PIM_P0093
-PIM_P0094,P0094,PIM,Nike Air Max 90 édition 94 42,Nike,Chaussures,3700000000094,Air Max 90 édition 94,42,Blanc,nike air max 90 edition 94 42,nike,chaussures,air max 90 edition 94,42,blanc,03700000000094,False,,,,,,SRC_PIM_P0094
-PIM_P0095,P0095,PIM,Adidas Ultraboost Light édition 95 42,Adidas,Chaussures,3700000000095,Ultraboost Light édition 95,42,Noir,adidas ultraboost light edition 95 42,adidas,chaussures,ultraboost light edition 95,42,noir,03700000000095,False,,,,,,SRC_PIM_P0095
-PIM_P0096,P0096,PIM,"Samsonite Guardit 2.0 édition 96 15,6 pouces",Samsonite,Sac à dos,3700000000096,Guardit 2.0 édition 96,"15,6 pouces",Noir,samsonite guardit 2 0 edition 96 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 96,15 6 pouces,noir,03700000000096,False,,,,,,SRC_PIM_P0096
-PIM_P0097,P0097,PIM,Samsung Galaxy S24 édition 97 128 Go,Samsung,Smartphone,3700000000097,Galaxy S24 édition 97,128 Go,Noir,samsung galaxy s24 edition 97 128 go,samsung,smartphone,galaxy s24 edition 97,128 go,noir,03700000000097,False,,,,,,SRC_PIM_P0097
-PIM_P0098,P0098,PIM,Apple iPhone 15 édition 98 128 Go,Apple,Smartphone,3700000000098,iPhone 15 édition 98,128 Go,Noir,apple iphone 15 edition 98 128 go,apple,smartphone,iphone 15 edition 98,128 go,noir,03700000000098,False,,,,,,SRC_PIM_P0098
-PIM_P0099,P0099,PIM,Apple iPhone 15 Pro édition 99 256 Go,Apple,Smartphone,3700000000099,iPhone 15 Pro édition 99,256 Go,Titane,apple iphone 15 pro edition 99 256 go,apple,smartphone,iphone 15 pro edition 99,256 go,titane,03700000000099,True,,,,,03700000000099,GTIN_03700000000099
-PIM_P0100,P0100,PIM,Xiaomi Redmi Note 13 édition 100 256 Go,Xiaomi,Smartphone,3700000000100,Redmi Note 13 édition 100,256 Go,Noir,xiaomi redmi note 13 edition 100 256 go,xiaomi,smartphone,redmi note 13 edition 100,256 go,noir,03700000000100,False,,,,,,SRC_PIM_P0100
-PIM_P-DUP-01,P-DUP-01,PIM,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,Galaxy S24,128 Go,Noir,samsung galaxy s24 128 go,samsung,smartphone,galaxy s24,128 go,noir,03700000000001,False,,,,,,SRC_PIM_P-DUP-01
-PIM_P-ERR-01,P-ERR-01,PIM,Produit mystère,,Inconnue,ABC123,,,,produit mystere,,inconnue,,,,,False,,,,,,SRC_PIM_P-ERR-01
-ERP_ART-1001,ART-1001,ERP,SAMSUNG - Galaxy S24 128 Go,SAMSUNG,Smartphone,3700000000001.0,Galaxy S24,128 Go,Noir,samsung galaxy s24 128 go,samsung,smartphone,galaxy s24,128 go,noir,03700000000001,False,,,,,,SRC_ERP_ART-1001
-ERP_ART-1002,ART-1002,ERP,APPLE - iPhone 15 128 Go,APPLE,Smartphone,3700000000002.0,iPhone 15,128 Go,Noir,apple iphone 15 128 go,apple,smartphone,iphone 15,128 go,noir,03700000000002,False,,,,,,SRC_ERP_ART-1002
-ERP_ART-1003,ART-1003,ERP,APPLE - iPhone 15 Pro 256 Go,APPLE,Smartphone,3700000000003.0,iPhone 15 Pro,256 Go,Titane,apple iphone 15 pro 256 go,apple,smartphone,iphone 15 pro,256 go,titane,03700000000003,False,,,,,,SRC_ERP_ART-1003
-ERP_ART-1004,ART-1004,ERP,XIAOMI - Redmi Note 13 256 Go,XIAOMI,Smartphone,3700000000004.0,Redmi Note 13,256 Go,Noir,xiaomi redmi note 13 256 go,xiaomi,smartphone,redmi note 13,256 go,noir,03700000000004,False,,,,,,SRC_ERP_ART-1004
-ERP_ART-1005,ART-1005,ERP,GOOGLE - Pixel 8 128 Go,GOOGLE,Smartphone,3700000000005.0,Pixel 8,128 Go,Noir,google pixel 8 128 go,google,smartphone,pixel 8,128 go,noir,03700000000005,False,,,,,,SRC_ERP_ART-1005
-ERP_ART-1006,ART-1006,ERP,SONY - WH-1000XM5,SONY,Casque audio,3700000000006.0,WH-1000XM5,,Noir,sony wh 1000xm5,sony,casque audio,wh 1000xm5,,noir,03700000000006,True,,,,,03700000000006,GTIN_03700000000006
-ERP_ART-1007,ART-1007,ERP,JBL - Tune 760NC,JBL ,Casque audio,3700000000007.0,Tune 760NC,,Noir,jbl tune 760nc,jbl,casque audio,tune 760nc,,noir,03700000000007,False,,,,,,SRC_ERP_ART-1007
-ERP_ART-1008,ART-1008,ERP,APPLE - AirPods Pro 2,APPLE,Écouteurs,3700000000008.0,AirPods Pro 2,,Blanc,apple airpods pro 2,apple,ecouteurs,airpods pro 2,,blanc,03700000000008,False,,,,,,SRC_ERP_ART-1008
-ERP_ART-1009,ART-1009,ERP,DELL XPS 13 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000009.0,XPS 13,16 Go RAM / 512 Go SSD,Argent,dell xps 13 16 go ram 512 go ssd,dell,ordinateur portable,xps 13,16 go ram 512 go ssd,argent,03700000000009,False,,,,,,SRC_ERP_ART-1009
-ERP_ART-1010,ART-1010,ERP,HP - Pavilion 15 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000010.0,Pavilion 15,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15,8 go ram 512 go ssd,argent,03700000000010,False,,,,,,SRC_ERP_ART-1010
-ERP_ART-1011,ART-1011,ERP,LENOVO - ThinkPad E14 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000011.0,ThinkPad E14,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14,16 go ram 512 go ssd,noir,03700000000011,False,,,,,,SRC_ERP_ART-1011
-ERP_ART-1012,ART-1012,ERP,APPLE - MacBook Air M3 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,3700000000012.0,MacBook Air M3,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3,16 go ram 512 go ssd,minuit,03700000000012,False,,,,,,SRC_ERP_ART-1012
-ERP_ART-1013,ART-1013,ERP,LOGITECH - MX Master 3S,LOGITECH,Souris,3700000000013.0,MX Master 3S,,Graphite,logitech mx master 3s,logitech,souris,mx master 3s,,graphite,03700000000013,True,,,,,03700000000013,GTIN_03700000000013
-ERP_ART-1014,ART-1014,ERP,LOGITECH - K380,Logitech ,Clavier,3700000000014.0,K380,,Blanc,logitech k380,logitech,clavier,k380,,blanc,03700000000014,False,,,,,,SRC_ERP_ART-1014
-ERP_ART-1015,ART-1015,ERP,SAMSUNG - T7 Shield 1 To,SAMSUNG,SSD externe,,T7 Shield,1 To,Bleu,samsung t7 shield 1 to,samsung,ssd externe,t7 shield,1 to,bleu,,False,,,,,,SRC_ERP_ART-1015
-ERP_ART-1016,ART-1016,ERP,SANDISK - Extreme Portable SSD 1 To,SANDISK,SSD externe,3700000000016.0,Extreme Portable SSD,1 To,Noir,sandisk extreme portable ssd 1 to,sandisk,ssd externe,extreme portable ssd,1 to,noir,03700000000016,False,,,,,,SRC_ERP_ART-1016
-ERP_ART-1017,ART-1017,ERP,CANON - EOS R50,CANON,Appareil photo,3700000000017.0,EOS R50,,Noir,canon eos r50,canon,appareil photo,eos r50,,noir,03700000000017,False,,,,,,SRC_ERP_ART-1017
-ERP_ART-1018,ART-1018,ERP,LG OLED C3 55 pouces 55 pouces,LG,Téléviseur,3700000000018.0,OLED C3 55 pouces,55 pouces,Noir,lg oled c3 55 pouces 55 pouces,lg,televiseur,oled c3 55 pouces,55 pouces,noir,03700000000018,False,,,,,,SRC_ERP_ART-1018
-ERP_ART-1019,ART-1019,ERP,DYSON - V15 Detect,DYSON,Aspirateur,3700000000019.0,V15 Detect,,Jaune,dyson v15 detect,dyson,aspirateur,v15 detect,,jaune,03700000000019,False,,,,,,SRC_ERP_ART-1019
-ERP_ART-1020,ART-1020,ERP,"PHILIPS - Airfryer XXL 7,3 L",PHILIPS,Friteuse sans huile,3700000000020.0,Airfryer XXL,"7,3 L",Noir,philips airfryer xxl 7 3 l,philips,friteuse sans huile,airfryer xxl,7 3 l,noir,03700000000020,True,,,,,03700000000020,GTIN_03700000000020
-ERP_ART-1021,ART-1021,ERP,NESPRESSO - Vertuo Pop,Nespresso ,Machine à café,3700000000021.0,Vertuo Pop,,Rouge,nespresso vertuo pop,nespresso,machine a cafe,vertuo pop,,rouge,03700000000021,False,,,,,,SRC_ERP_ART-1021
-ERP_ART-1022,ART-1022,ERP,NIKE - Air Max 90 42,NIKE,Chaussures,3700000000022.0,Air Max 90,42,Blanc,nike air max 90 42,nike,chaussures,air max 90,42,blanc,03700000000022,False,,,,,,SRC_ERP_ART-1022
-ERP_ART-1023,ART-1023,ERP,adidas - ultraboost light 42,ADIDAS,Chaussures,3700000000023.0,Ultraboost Light,42,Noir,adidas ultraboost light 42,adidas,chaussures,ultraboost light,42,noir,03700000000023,False,,,,,,SRC_ERP_ART-1023
-ERP_ART-1024,ART-1024,ERP,"SAMSONITE - Guardit 2.0 15,6 pouces",SAMSONITE,Sac à dos,3700000000024.0,Guardit 2.0,"15,6 pouces",Noir,samsonite guardit 2 0 15 6 pouces,samsonite,sac a dos,guardit 2 0,15 6 pouces,noir,03700000000024,False,,,,,,SRC_ERP_ART-1024
-ERP_ART-1025,ART-1025,ERP,SAMSUNG - Galaxy S24 édition 25 128 Go,SAMSUNG,Smartphone,3700000000025.0,Galaxy S24 édition 25,128 Go,Noir,samsung galaxy s24 edition 25 128 go,samsung,smartphone,galaxy s24 edition 25,128 go,noir,03700000000025,False,,,,,,SRC_ERP_ART-1025
-ERP_ART-1026,ART-1026,ERP,APPLE - iPhone 15 édition 26 128 Go,APPLE,Smartphone,3700000000026.0,iPhone 15 édition 26,128 Go,Noir,apple iphone 15 edition 26 128 go,apple,smartphone,iphone 15 edition 26,128 go,noir,03700000000026,False,,,,,,SRC_ERP_ART-1026
-ERP_ART-1027,ART-1027,ERP,APPLE iPhone 15 Pro édition 27 256 Go,APPLE,Smartphone,3700000000027.0,iPhone 15 Pro édition 27,256 Go,Titane,apple iphone 15 pro edition 27 256 go,apple,smartphone,iphone 15 pro edition 27,256 go,titane,03700000000027,False,,,,,,SRC_ERP_ART-1027
-ERP_ART-1028,ART-1028,ERP,XIAOMI - Redmi Note 13 édition 28 256 Go,Xiaomi ,Smartphone,3700000000028.0,Redmi Note 13 édition 28,256 Go,Noir,xiaomi redmi note 13 edition 28 256 go,xiaomi,smartphone,redmi note 13 edition 28,256 go,noir,03700000000028,False,,,,,,SRC_ERP_ART-1028
-ERP_ART-1029,ART-1029,ERP,GOOGLE - Pixel 8 édition 29 128 Go,GOOGLE,Smartphone,3700000000029.0,Pixel 8 édition 29,128 Go,Noir,google pixel 8 edition 29 128 go,google,smartphone,pixel 8 edition 29,128 go,noir,03700000000029,False,,,,,,SRC_ERP_ART-1029
-ERP_ART-1030,ART-1030,ERP,SONY - WH-1000XM5 édition 30,SONY,Casque audio,,WH-1000XM5 édition 30,,Noir,sony wh 1000xm5 edition 30,sony,casque audio,wh 1000xm5 edition 30,,noir,,False,,,,,,SRC_ERP_ART-1030
-ERP_ART-1031,ART-1031,ERP,JBL - Tune 760NC édition 31,JBL,Casque audio,3700000000031.0,Tune 760NC édition 31,,Noir,jbl tune 760nc edition 31,jbl,casque audio,tune 760nc edition 31,,noir,03700000000031,False,,,,,,SRC_ERP_ART-1031
-ERP_ART-1032,ART-1032,ERP,APPLE - AirPods Pro 2 édition 32,APPLE,Écouteurs,3700000000032.0,AirPods Pro 2 édition 32,,Blanc,apple airpods pro 2 edition 32,apple,ecouteurs,airpods pro 2 edition 32,,blanc,03700000000032,False,,,,,,SRC_ERP_ART-1032
-ERP_ART-1033,ART-1033,ERP,DELL - XPS 13 édition 33 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000033.0,XPS 13 édition 33,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 33 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 33,16 go ram 512 go ssd,argent,03700000000033,False,,,,,,SRC_ERP_ART-1033
-ERP_ART-1034,ART-1034,ERP,HP - Pavilion 15 édition 34 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000034.0,Pavilion 15 édition 34,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 34 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15 edition 34,8 go ram 512 go ssd,argent,03700000000034,False,,,,,,SRC_ERP_ART-1034
-ERP_ART-1035,ART-1035,ERP,LENOVO - ThinkPad E14 édition 35 16 Go RAM / 512 Go SSD,Lenovo ,Ordinateur portable,3700000000035.0,ThinkPad E14 édition 35,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 35 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 35,16 go ram 512 go ssd,noir,03700000000035,False,,,,,,SRC_ERP_ART-1035
-ERP_ART-1036,ART-1036,ERP,APPLE MacBook Air M3 édition 36 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,3700000000036.0,MacBook Air M3 édition 36,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 36 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 36,16 go ram 512 go ssd,minuit,03700000000036,False,,,,,,SRC_ERP_ART-1036
-ERP_ART-1037,ART-1037,ERP,LOGITECH - MX Master 3S édition 37,LOGITECH,Souris,3700000000037.0,MX Master 3S édition 37,,Graphite,logitech mx master 3s edition 37,logitech,souris,mx master 3s edition 37,,graphite,03700000000037,True,,,,,03700000000037,GTIN_03700000000037
-ERP_ART-1038,ART-1038,ERP,LOGITECH - K380 édition 38,LOGITECH,Clavier,3700000000038.0,K380 édition 38,,Blanc,logitech k380 edition 38,logitech,clavier,k380 edition 38,,blanc,03700000000038,False,,,,,,SRC_ERP_ART-1038
-ERP_ART-1039,ART-1039,ERP,SAMSUNG - T7 Shield édition 39 1 To,SAMSUNG,SSD externe,3700000000039.0,T7 Shield édition 39,1 To,Bleu,samsung t7 shield edition 39 1 to,samsung,ssd externe,t7 shield edition 39,1 to,bleu,03700000000039,False,,,,,,SRC_ERP_ART-1039
-ERP_ART-1040,ART-1040,ERP,SANDISK - Extreme Portable SSD édition 40 1 To,SANDISK,SSD externe,3700000000040.0,Extreme Portable SSD édition 40,1 To,Noir,sandisk extreme portable ssd edition 40 1 to,sandisk,ssd externe,extreme portable ssd edition 40,1 to,noir,03700000000040,False,,,,,,SRC_ERP_ART-1040
-ERP_ART-1041,ART-1041,ERP,CANON - EOS R50 édition 41,CANON,Appareil photo,3700000000041.0,EOS R50 édition 41,,Noir,canon eos r50 edition 41,canon,appareil photo,eos r50 edition 41,,noir,03700000000041,False,,,,,,SRC_ERP_ART-1041
-ERP_ART-1042,ART-1042,ERP,LG - OLED C3 55 pouces édition 42 55 pouces,LG ,Téléviseur,3700000000042.0,OLED C3 55 pouces édition 42,55 pouces,Noir,lg oled c3 55 pouces edition 42 55 pouces,lg,televiseur,oled c3 55 pouces edition 42,55 pouces,noir,03700000000042,False,,,,,,SRC_ERP_ART-1042
-ERP_ART-1043,ART-1043,ERP,DYSON - V15 Detect édition 43,DYSON,Aspirateur,3700000000043.0,V15 Detect édition 43,,Jaune,dyson v15 detect edition 43,dyson,aspirateur,v15 detect edition 43,,jaune,03700000000043,False,,,,,,SRC_ERP_ART-1043
-ERP_ART-1044,ART-1044,ERP,"PHILIPS - Airfryer XXL édition 44 7,3 L",PHILIPS,Friteuse sans huile,3700000000044.0,Airfryer XXL édition 44,"7,3 L",Noir,philips airfryer xxl edition 44 7 3 l,philips,friteuse sans huile,airfryer xxl edition 44,7 3 l,noir,03700000000044,True,,,,,03700000000044,GTIN_03700000000044
-ERP_ART-1045,ART-1045,ERP,NESPRESSO Vertuo Pop édition 45,NESPRESSO,Machine à café,,Vertuo Pop édition 45,,Rouge,nespresso vertuo pop edition 45,nespresso,machine a cafe,vertuo pop edition 45,,rouge,,False,,,,,,SRC_ERP_ART-1045
-ERP_ART-1046,ART-1046,ERP,nike - air max 90 édition 46 42,NIKE,Chaussures,3700000000046.0,Air Max 90 édition 46,42,Blanc,nike air max 90 edition 46 42,nike,chaussures,air max 90 edition 46,42,blanc,03700000000046,False,,,,,,SRC_ERP_ART-1046
-ERP_ART-1047,ART-1047,ERP,ADIDAS - Ultraboost Light édition 47 42,ADIDAS,Chaussures,3700000000047.0,Ultraboost Light édition 47,42,Noir,adidas ultraboost light edition 47 42,adidas,chaussures,ultraboost light edition 47,42,noir,03700000000047,False,,,,,,SRC_ERP_ART-1047
-ERP_ART-1048,ART-1048,ERP,"SAMSONITE - Guardit 2.0 édition 48 15,6 pouces",SAMSONITE,Sac à dos,3700000000048.0,Guardit 2.0 édition 48,"15,6 pouces",Noir,samsonite guardit 2 0 edition 48 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 48,15 6 pouces,noir,03700000000048,False,,,,,,SRC_ERP_ART-1048
-ERP_ART-1049,ART-1049,ERP,SAMSUNG - Galaxy S24 édition 49 128 Go,Samsung ,Smartphone,3700000000049.0,Galaxy S24 édition 49,128 Go,Noir,samsung galaxy s24 edition 49 128 go,samsung,smartphone,galaxy s24 edition 49,128 go,noir,03700000000049,False,,,,,,SRC_ERP_ART-1049
-ERP_ART-1050,ART-1050,ERP,APPLE - iPhone 15 édition 50 128 Go,APPLE,Smartphone,3700000000050.0,iPhone 15 édition 50,128 Go,Noir,apple iphone 15 edition 50 128 go,apple,smartphone,iphone 15 edition 50,128 go,noir,03700000000050,False,,,,,,SRC_ERP_ART-1050
-ERP_ART-1051,ART-1051,ERP,APPLE - iPhone 15 Pro édition 51 256 Go,APPLE,Smartphone,3700000000051.0,iPhone 15 Pro édition 51,256 Go,Titane,apple iphone 15 pro edition 51 256 go,apple,smartphone,iphone 15 pro edition 51,256 go,titane,03700000000051,True,,,,,03700000000051,GTIN_03700000000051
-ERP_ART-1052,ART-1052,ERP,XIAOMI - Redmi Note 13 édition 52 256 Go,XIAOMI,Smartphone,3700000000052.0,Redmi Note 13 édition 52,256 Go,Noir,xiaomi redmi note 13 edition 52 256 go,xiaomi,smartphone,redmi note 13 edition 52,256 go,noir,03700000000052,False,,,,,,SRC_ERP_ART-1052
-ERP_ART-1053,ART-1053,ERP,GOOGLE - Pixel 8 édition 53 128 Go,GOOGLE,Smartphone,3700000000053.0,Pixel 8 édition 53,128 Go,Noir,google pixel 8 edition 53 128 go,google,smartphone,pixel 8 edition 53,128 go,noir,03700000000053,False,,,,,,SRC_ERP_ART-1053
-ERP_ART-1054,ART-1054,ERP,SONY WH-1000XM5 édition 54,SONY,Casque audio,3700000000054.0,WH-1000XM5 édition 54,,Noir,sony wh 1000xm5 edition 54,sony,casque audio,wh 1000xm5 edition 54,,noir,03700000000054,False,,,,,,SRC_ERP_ART-1054
-ERP_ART-1055,ART-1055,ERP,JBL - Tune 760NC édition 55,JBL,Casque audio,3700000000055.0,Tune 760NC édition 55,,Noir,jbl tune 760nc edition 55,jbl,casque audio,tune 760nc edition 55,,noir,03700000000055,False,,,,,,SRC_ERP_ART-1055
-ERP_ART-1056,ART-1056,ERP,APPLE - AirPods Pro 2 édition 56,Apple ,Écouteurs,3700000000056.0,AirPods Pro 2 édition 56,,Blanc,apple airpods pro 2 edition 56,apple,ecouteurs,airpods pro 2 edition 56,,blanc,03700000000056,False,,,,,,SRC_ERP_ART-1056
-ERP_ART-1057,ART-1057,ERP,DELL - XPS 13 édition 57 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000057.0,XPS 13 édition 57,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 57 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 57,16 go ram 512 go ssd,argent,03700000000057,False,,,,,,SRC_ERP_ART-1057
-ERP_ART-1058,ART-1058,ERP,HP - Pavilion 15 édition 58 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000058.0,Pavilion 15 édition 58,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 58 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15 edition 58,8 go ram 512 go ssd,argent,03700000000058,False,,,,,,SRC_ERP_ART-1058
-ERP_ART-1059,ART-1059,ERP,LENOVO - ThinkPad E14 édition 59 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000059.0,ThinkPad E14 édition 59,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 59 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 59,16 go ram 512 go ssd,noir,03700000000059,False,,,,,,SRC_ERP_ART-1059
-ERP_ART-1060,ART-1060,ERP,APPLE - MacBook Air M3 édition 60 16 Go RAM / 512 Go SSD,APPLE,Ordinateur portable,,MacBook Air M3 édition 60,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 60 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 60,16 go ram 512 go ssd,minuit,,False,,,,,,SRC_ERP_ART-1060
-ERP_ART-1061,ART-1061,ERP,LOGITECH - MX Master 3S édition 61,LOGITECH,Souris,3700000000061.0,MX Master 3S édition 61,,Graphite,logitech mx master 3s edition 61,logitech,souris,mx master 3s edition 61,,graphite,03700000000061,False,,,,,,SRC_ERP_ART-1061
-ERP_ART-1062,ART-1062,ERP,LOGITECH - K380 édition 62,LOGITECH,Clavier,3700000000062.0,K380 édition 62,,Blanc,logitech k380 edition 62,logitech,clavier,k380 edition 62,,blanc,03700000000062,False,,,,,,SRC_ERP_ART-1062
-ERP_ART-1063,ART-1063,ERP,SAMSUNG T7 Shield édition 63 1 To,Samsung ,SSD externe,3700000000063.0,T7 Shield édition 63,1 To,Bleu,samsung t7 shield edition 63 1 to,samsung,ssd externe,t7 shield edition 63,1 to,bleu,03700000000063,False,,,,,,SRC_ERP_ART-1063
-ERP_ART-1064,ART-1064,ERP,SANDISK - Extreme Portable SSD édition 64 1 To,SANDISK,SSD externe,3700000000064.0,Extreme Portable SSD édition 64,1 To,Noir,sandisk extreme portable ssd edition 64 1 to,sandisk,ssd externe,extreme portable ssd edition 64,1 to,noir,03700000000064,False,,,,,,SRC_ERP_ART-1064
-ERP_ART-1065,ART-1065,ERP,CANON - EOS R50 édition 65,CANON,Appareil photo,3700000000065.0,EOS R50 édition 65,,Noir,canon eos r50 edition 65,canon,appareil photo,eos r50 edition 65,,noir,03700000000065,False,,,,,,SRC_ERP_ART-1065
-ERP_ART-1066,ART-1066,ERP,LG - OLED C3 55 pouces édition 66 55 pouces,LG,Téléviseur,3700000000066.0,OLED C3 55 pouces édition 66,55 pouces,Noir,lg oled c3 55 pouces edition 66 55 pouces,lg,televiseur,oled c3 55 pouces edition 66,55 pouces,noir,03700000000066,False,,,,,,SRC_ERP_ART-1066
-ERP_ART-1067,ART-1067,ERP,DYSON - V15 Detect édition 67,DYSON,Aspirateur,3700000000067.0,V15 Detect édition 67,,Jaune,dyson v15 detect edition 67,dyson,aspirateur,v15 detect edition 67,,jaune,03700000000067,False,,,,,,SRC_ERP_ART-1067
-ERP_ART-1068,ART-1068,ERP,"PHILIPS - Airfryer XXL édition 68 7,3 L",PHILIPS,Friteuse sans huile,3700000000068.0,Airfryer XXL édition 68,"7,3 L",Noir,philips airfryer xxl edition 68 7 3 l,philips,friteuse sans huile,airfryer xxl edition 68,7 3 l,noir,03700000000068,True,,,,,03700000000068,GTIN_03700000000068
-ERP_ART-1069,ART-1069,ERP,nespresso - vertuo pop édition 69,NESPRESSO,Machine à café,3700000000069.0,Vertuo Pop édition 69,,Rouge,nespresso vertuo pop edition 69,nespresso,machine a cafe,vertuo pop edition 69,,rouge,03700000000069,False,,,,,,SRC_ERP_ART-1069
-ERP_ART-1070,ART-1070,ERP,NIKE - Air Max 90 édition 70 42,Nike ,Chaussures,3700000000070.0,Air Max 90 édition 70,42,Blanc,nike air max 90 edition 70 42,nike,chaussures,air max 90 edition 70,42,blanc,03700000000070,False,,,,,,SRC_ERP_ART-1070
-ERP_ART-1071,ART-1071,ERP,ADIDAS - Ultraboost Light édition 71 42,ADIDAS,Chaussures,3700000000071.0,Ultraboost Light édition 71,42,Noir,adidas ultraboost light edition 71 42,adidas,chaussures,ultraboost light edition 71,42,noir,03700000000071,False,,,,,,SRC_ERP_ART-1071
-ERP_ART-1072,ART-1072,ERP,"SAMSONITE Guardit 2.0 édition 72 15,6 pouces",SAMSONITE,Sac à dos,3700000000072.0,Guardit 2.0 édition 72,"15,6 pouces",Noir,samsonite guardit 2 0 edition 72 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 72,15 6 pouces,noir,03700000000072,False,,,,,,SRC_ERP_ART-1072
-ERP_ART-1073,ART-1073,ERP,SAMSUNG - Galaxy S24 édition 73 128 Go,SAMSUNG,Smartphone,3700000000073.0,Galaxy S24 édition 73,128 Go,Noir,samsung galaxy s24 edition 73 128 go,samsung,smartphone,galaxy s24 edition 73,128 go,noir,03700000000073,False,,,,,,SRC_ERP_ART-1073
-ERP_ART-1074,ART-1074,ERP,APPLE - iPhone 15 édition 74 128 Go,APPLE,Smartphone,3700000000074.0,iPhone 15 édition 74,128 Go,Noir,apple iphone 15 edition 74 128 go,apple,smartphone,iphone 15 edition 74,128 go,noir,03700000000074,False,,,,,,SRC_ERP_ART-1074
-ERP_ART-1075,ART-1075,ERP,APPLE - iPhone 15 Pro édition 75 256 Go,APPLE,Smartphone,,iPhone 15 Pro édition 75,256 Go,Titane,apple iphone 15 pro edition 75 256 go,apple,smartphone,iphone 15 pro edition 75,256 go,titane,,False,,,,,,SRC_ERP_ART-1075
-ERP_ART-1076,ART-1076,ERP,XIAOMI - Redmi Note 13 édition 76 256 Go,XIAOMI,Smartphone,3700000000076.0,Redmi Note 13 édition 76,256 Go,Noir,xiaomi redmi note 13 edition 76 256 go,xiaomi,smartphone,redmi note 13 edition 76,256 go,noir,03700000000076,False,,,,,,SRC_ERP_ART-1076
-ERP_ART-1077,ART-1077,ERP,GOOGLE - Pixel 8 édition 77 128 Go,Google ,Smartphone,3700000000077.0,Pixel 8 édition 77,128 Go,Noir,google pixel 8 edition 77 128 go,google,smartphone,pixel 8 edition 77,128 go,noir,03700000000077,False,,,,,,SRC_ERP_ART-1077
-ERP_ART-1078,ART-1078,ERP,SONY - WH-1000XM5 édition 78,SONY,Casque audio,3700000000078.0,WH-1000XM5 édition 78,,Noir,sony wh 1000xm5 edition 78,sony,casque audio,wh 1000xm5 edition 78,,noir,03700000000078,False,,,,,,SRC_ERP_ART-1078
-ERP_ART-1079,ART-1079,ERP,JBL - Tune 760NC édition 79,JBL,Casque audio,3700000000079.0,Tune 760NC édition 79,,Noir,jbl tune 760nc edition 79,jbl,casque audio,tune 760nc edition 79,,noir,03700000000079,False,,,,,,SRC_ERP_ART-1079
-ERP_ART-1080,ART-1080,ERP,APPLE - AirPods Pro 2 édition 80,APPLE,Écouteurs,3700000000080.0,AirPods Pro 2 édition 80,,Blanc,apple airpods pro 2 edition 80,apple,ecouteurs,airpods pro 2 edition 80,,blanc,03700000000080,False,,,,,,SRC_ERP_ART-1080
-ERP_ART-1081,ART-1081,ERP,DELL XPS 13 édition 81 16 Go RAM / 512 Go SSD,DELL,Ordinateur portable,3700000000081.0,XPS 13 édition 81,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 81 16 go ram 512 go ssd,dell,ordinateur portable,xps 13 edition 81,16 go ram 512 go ssd,argent,03700000000081,False,,,,,,SRC_ERP_ART-1081
-ERP_ART-1082,ART-1082,ERP,HP - Pavilion 15 édition 82 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000082.0,Pavilion 15 édition 82,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 82 8 go ram 512 go ssd,hp,ordinateur portable,pavilion 15 edition 82,8 go ram 512 go ssd,argent,03700000000082,True,,,,,03700000000082,GTIN_03700000000082
-ERP_ART-1083,ART-1083,ERP,LENOVO - ThinkPad E14 édition 83 16 Go RAM / 512 Go SSD,LENOVO,Ordinateur portable,3700000000083.0,ThinkPad E14 édition 83,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 83 16 go ram 512 go ssd,lenovo,ordinateur portable,thinkpad e14 edition 83,16 go ram 512 go ssd,noir,03700000000083,False,,,,,,SRC_ERP_ART-1083
-ERP_ART-1084,ART-1084,ERP,APPLE - MacBook Air M3 édition 84 16 Go RAM / 512 Go SSD,Apple ,Ordinateur portable,3700000000084.0,MacBook Air M3 édition 84,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 84 16 go ram 512 go ssd,apple,ordinateur portable,macbook air m3 edition 84,16 go ram 512 go ssd,minuit,03700000000084,False,,,,,,SRC_ERP_ART-1084
-ERP_ART-1085,ART-1085,ERP,LOGITECH - MX Master 3S édition 85,LOGITECH,Souris,3700000000085.0,MX Master 3S édition 85,,Graphite,logitech mx master 3s edition 85,logitech,souris,mx master 3s edition 85,,graphite,03700000000085,False,,,,,,SRC_ERP_ART-1085
-ERP_ART-1086,ART-1086,ERP,LOGITECH - K380 édition 86,LOGITECH,Clavier,3700000000086.0,K380 édition 86,,Blanc,logitech k380 edition 86,logitech,clavier,k380 edition 86,,blanc,03700000000086,False,,,,,,SRC_ERP_ART-1086
-ERP_ART-1087,ART-1087,ERP,SAMSUNG - T7 Shield édition 87 1 To,SAMSUNG,SSD externe,3700000000087.0,T7 Shield édition 87,1 To,Bleu,samsung t7 shield edition 87 1 to,samsung,ssd externe,t7 shield edition 87,1 to,bleu,03700000000087,False,,,,,,SRC_ERP_ART-1087
-ERP_ART-1088,ART-1088,ERP,SANDISK - Extreme Portable SSD édition 88 1 To,SANDISK,SSD externe,3700000000088.0,Extreme Portable SSD édition 88,1 To,Noir,sandisk extreme portable ssd edition 88 1 to,sandisk,ssd externe,extreme portable ssd edition 88,1 to,noir,03700000000088,False,,,,,,SRC_ERP_ART-1088
-ERP_ART-1089,ART-1089,ERP,CANON - EOS R50 édition 89,CANON,Appareil photo,3700000000089.0,EOS R50 édition 89,,Noir,canon eos r50 edition 89,canon,appareil photo,eos r50 edition 89,,noir,03700000000089,False,,,,,,SRC_ERP_ART-1089
-ERP_ART-1090,ART-1090,ERP,LG OLED C3 55 pouces édition 90 55 pouces,LG,Téléviseur,,OLED C3 55 pouces édition 90,55 pouces,Noir,lg oled c3 55 pouces edition 90 55 pouces,lg,televiseur,oled c3 55 pouces edition 90,55 pouces,noir,,False,,,,,,SRC_ERP_ART-1090
-ERP_ART-1091,ART-1091,ERP,DYSON - V15 Detect édition 91,Dyson ,Aspirateur,3700000000091.0,V15 Detect édition 91,,Jaune,dyson v15 detect edition 91,dyson,aspirateur,v15 detect edition 91,,jaune,03700000000091,False,,,,,,SRC_ERP_ART-1091
-ERP_ART-1092,ART-1092,ERP,"philips - airfryer xxl édition 92 7,3 l",PHILIPS,Friteuse sans huile,3700000000092.0,Airfryer XXL édition 92,"7,3 L",Noir,philips airfryer xxl edition 92 7 3 l,philips,friteuse sans huile,airfryer xxl edition 92,7 3 l,noir,03700000000092,False,,,,,,SRC_ERP_ART-1092
-ERP_ART-1093,ART-1093,ERP,NESPRESSO - Vertuo Pop édition 93,NESPRESSO,Machine à café,3700000000093.0,Vertuo Pop édition 93,,Rouge,nespresso vertuo pop edition 93,nespresso,machine a cafe,vertuo pop edition 93,,rouge,03700000000093,False,,,,,,SRC_ERP_ART-1093
-ERP_ART-1094,ART-1094,ERP,NIKE - Air Max 90 édition 94 42,NIKE,Chaussures,3700000000094.0,Air Max 90 édition 94,42,Blanc,nike air max 90 edition 94 42,nike,chaussures,air max 90 edition 94,42,blanc,03700000000094,False,,,,,,SRC_ERP_ART-1094
-ERP_ART-1095,ART-1095,ERP,ADIDAS - Ultraboost Light édition 95 42,ADIDAS,Chaussures,3700000000095.0,Ultraboost Light édition 95,42,Noir,adidas ultraboost light edition 95 42,adidas,chaussures,ultraboost light edition 95,42,noir,03700000000095,False,,,,,,SRC_ERP_ART-1095
-ERP_ART-1096,ART-1096,ERP,"SAMSONITE - Guardit 2.0 édition 96 15,6 pouces",SAMSONITE,Sac à dos,3700000000096.0,Guardit 2.0 édition 96,"15,6 pouces",Noir,samsonite guardit 2 0 edition 96 15 6 pouces,samsonite,sac a dos,guardit 2 0 edition 96,15 6 pouces,noir,03700000000096,False,,,,,,SRC_ERP_ART-1096
-ERP_ART-1097,ART-1097,ERP,SAMSUNG - Galaxy S24 édition 97 128 Go,SAMSUNG,Smartphone,3700000000097.0,Galaxy S24 édition 97,128 Go,Noir,samsung galaxy s24 edition 97 128 go,samsung,smartphone,galaxy s24 edition 97,128 go,noir,03700000000097,False,,,,,,SRC_ERP_ART-1097
-ERP_ART-1098,ART-1098,ERP,APPLE - iPhone 15 édition 98 128 Go,Apple ,Smartphone,3700000000098.0,iPhone 15 édition 98,128 Go,Noir,apple iphone 15 edition 98 128 go,apple,smartphone,iphone 15 edition 98,128 go,noir,03700000000098,False,,,,,,SRC_ERP_ART-1098
-ERP_ART-1099,ART-1099,ERP,APPLE iPhone 15 Pro édition 99 256 Go,APPLE,Smartphone,3700000000099.0,iPhone 15 Pro édition 99,256 Go,Titane,apple iphone 15 pro edition 99 256 go,apple,smartphone,iphone 15 pro edition 99,256 go,titane,03700000000099,True,,,,,03700000000099,GTIN_03700000000099
-ERP_ART-1100,ART-1100,ERP,XIAOMI - Redmi Note 13 édition 100 256 Go,XIAOMI,Smartphone,3700000000100.0,Redmi Note 13 édition 100,256 Go,Noir,xiaomi redmi note 13 edition 100 256 go,xiaomi,smartphone,redmi note 13 edition 100,256 go,noir,03700000000100,False,,,,,,SRC_ERP_ART-1100
-ERP_ART-DUP-01,ART-DUP-01,ERP,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001.0,Galaxy S24,128 Go,Noir,samsung galaxy s24 128 go,samsung,smartphone,galaxy s24,128 go,noir,03700000000001,False,,,,,,SRC_ERP_ART-DUP-01
-Marketplace_OFF-5001,OFF-5001,Marketplace,Samsung Galaxy S24 128 Go,Samsung,Smartphone,3700000000001,,128 Go,Noir,samsung galaxy s24 128 go,samsung,smartphone,,128 go,noir,03700000000001,False,SKU-0001,SELLER-02,1937.56,0.0,,SRC_Marketplace_OFF-5001
-Marketplace_OFF-5002,OFF-5002,Marketplace,Apple iPhone 15 128 Go,Apple,Smartphone,3700000000002,,128 Go,Noir,apple iphone 15 128 go,apple,smartphone,,128 go,noir,03700000000002,False,SKU-0002,SELLER-03,1265.44,0.0,,SRC_Marketplace_OFF-5002
-Marketplace_OFF-5003,OFF-5003,Marketplace,Apple iPhone 15 Pro 256 Go,Apple,Smartphone,3700000000003,,256 Go,Titane,apple iphone 15 pro 256 go,apple,smartphone,,256 go,titane,03700000000003,False,SKU-0003,SELLER-04,5288.7,1.0,,SRC_Marketplace_OFF-5003
-Marketplace_OFF-7003,OFF-7003,Marketplace,Apple iPhone 15 Pro 256 Go - livraison rapide,Apple,Smartphone,3700000000003,,256 Go,Titane,apple iphone 15 pro 256 go livraison rapide,apple,smartphone,,256 go,titane,03700000000003,False,ALT-003,SELLER-09,1224.95,30.0,,SRC_Marketplace_OFF-7003
-Marketplace_OFF-5004,OFF-5004,Marketplace,Xiaomi Redmi Note 13 256 Go,Xiaomi,Smartphone,3700000000004,,256 Go,Noir,xiaomi redmi note 13 256 go,xiaomi,smartphone,,256 go,noir,03700000000004,False,SKU-0004,SELLER-05,6850.63,10.0,,SRC_Marketplace_OFF-5004
-Marketplace_OFF-5005,OFF-5005,Marketplace,Google Pixel 8 128 Go,Google,Smartphone,3700000000005,,128 Go,Noir,google pixel 8 128 go,google,smartphone,,128 go,noir,03700000000005,False,SKU-0005,SELLER-06,4850.66,10.0,,SRC_Marketplace_OFF-5005
-Marketplace_OFF-5006,OFF-5006,Marketplace,Sony  WH-1000XM5,Sony,Casque audio,3700000000006,,,Noir,sony wh 1000xm5,sony,casque audio,,,noir,03700000000006,True,SKU-0006,SELLER-07,1728.12,-2.0,03700000000006,GTIN_03700000000006
-Marketplace_OFF-5007,OFF-5007,Marketplace,JBL Tune 760NC,JBL,Casque audio,3700000000007,,,Noir,jbl tune 760nc,jbl,casque audio,,,noir,03700000000007,False,SKU-0007,SELLER-08,6915.33,5.0,,SRC_Marketplace_OFF-5007
-Marketplace_OFF-7007,OFF-7007,Marketplace,JBL Tune 760NC - livraison rapide,JBL,Casque audio,3700000000007,,,Noir,jbl tune 760nc livraison rapide,jbl,casque audio,,,noir,03700000000007,False,ALT-007,SELLER-01,7041.96,8.0,,SRC_Marketplace_OFF-7007
-Marketplace_OFF-5008,OFF-5008,Marketplace,Apple AirPods Pro 2,Apple,Écouteurs,3700000000008,,,Blanc,apple airpods pro 2,apple,ecouteurs,,,blanc,03700000000008,False,SKU-0008,SELLER-09,6640.77,1.0,,SRC_Marketplace_OFF-5008
-Marketplace_OFF-5009,OFF-5009,Marketplace,Dell XPS 13 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000009,,16 Go RAM / 512 Go SSD,Argent,dell xps 13 16 go ram 512 go ssd,dell,ordinateur portable,,16 go ram 512 go ssd,argent,03700000000009,False,SKU-0009,SELLER-10,6032.51,-2.0,,SRC_Marketplace_OFF-5009
-Marketplace_OFF-5010,OFF-5010,Marketplace,HP PAVILION 15 8 GO RAM / 512 GO SSD,HP,Ordinateur portable,3700000000010,,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 8 go ram 512 go ssd,hp,ordinateur portable,,8 go ram 512 go ssd,argent,03700000000010,False,SKU-0010,SELLER-11,11092.78,50.0,,SRC_Marketplace_OFF-5010
-Marketplace_OFF-5011,OFF-5011,Marketplace,Lenovo ThinkPad E14 16 Go RAM / 512 Go SSD,,Ordinateur portable,3700000000011,,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 16 go ram 512 go ssd,,ordinateur portable,,16 go ram 512 go ssd,noir,03700000000011,False,SKU-0011,SELLER-12,2280.24,10.0,,SRC_Marketplace_OFF-5011
-Marketplace_OFF-5012,OFF-5012,Marketplace,Apple  MacBook Air M3 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,3700000000012,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 16 go ram 512 go ssd,apple,ordinateur portable,,16 go ram 512 go ssd,minuit,03700000000012,False,SKU-0012,SELLER-01,6373.58,50.0,,SRC_Marketplace_OFF-5012
-Marketplace_OFF-7012,OFF-7012,Marketplace,Apple MacBook Air M3 16 Go RAM / 512 Go SSD - livraison rapide,Apple,Ordinateur portable,3700000000012,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 16 go ram 512 go ssd livraison rapide,apple,ordinateur portable,,16 go ram 512 go ssd,minuit,03700000000012,False,ALT-012,SELLER-06,3562.06,2.0,,SRC_Marketplace_OFF-7012
-Marketplace_OFF-5013,OFF-5013,Marketplace,Logitech MX Master 3S,Logitech,Souris,3700000000013,,,Graphite,logitech mx master 3s,logitech,souris,,,graphite,03700000000013,True,SKU-0013,SELLER-02,5104.76,50.0,03700000000013,GTIN_03700000000013
-Marketplace_OFF-5014,OFF-5014,Marketplace,Logitech K380,Logitech,Divers,3700000000014,,,Blanc,logitech k380,logitech,divers,,,blanc,03700000000014,False,SKU-0014,SELLER-03,5147.13,1.0,,SRC_Marketplace_OFF-5014
-Marketplace_OFF-5015,OFF-5015,Marketplace,Samsung T7 Shield 1 To,Samsung,SSD externe,3700000000015,,1 To,Bleu,samsung t7 shield 1 to,samsung,ssd externe,,1 to,bleu,03700000000015,False,SKU-0015,SELLER-04,4299.61,,,SRC_Marketplace_OFF-5015
-Marketplace_OFF-5016,OFF-5016,Marketplace,SanDisk Extreme Portable SSD 1 To,SanDisk,SSD externe,3700000000016,,1 To,Noir,sandisk extreme portable ssd 1 to,sandisk,ssd externe,,1 to,noir,03700000000016,False,SKU-0016,SELLER-05,1259.11,25.0,,SRC_Marketplace_OFF-5016
-Marketplace_OFF-5017,OFF-5017,Marketplace,Canon EOS R50,Canon,Appareil photo,3700000000017,,,Noir,canon eos r50,canon,appareil photo,,,noir,03700000000017,False,SKU-0017,SELLER-06,920.25,25.0,,SRC_Marketplace_OFF-5017
-Marketplace_OFF-5018,OFF-5018,Marketplace,LG  OLED C3 55 pouces 55 pouces,LG,Téléviseur,,,55 pouces,Noir,lg oled c3 55 pouces 55 pouces,lg,televiseur,,55 pouces,noir,,False,SKU-0018,SELLER-07,4721.63,50.0,,SRC_Marketplace_OFF-5018
-Marketplace_OFF-5019,OFF-5019,Marketplace,Dyson V15 Detect,Dyson,Aspirateur,3700000000019,,,Jaune,dyson v15 detect,dyson,aspirateur,,,jaune,03700000000019,False,SKU-0019,SELLER-08,4362.25,1.0,,SRC_Marketplace_OFF-5019
-Marketplace_OFF-5020,OFF-5020,Marketplace,"PHILIPS AIRFRYER XXL 7,3 L",Philips,Friteuse sans huile,3700000000020,,"7,3 L",Noir,philips airfryer xxl 7 3 l,philips,friteuse sans huile,,7 3 l,noir,03700000000020,True,SKU-0020,SELLER-09,9253.56,5.0,03700000000020,GTIN_03700000000020
-Marketplace_OFF-7020,OFF-7020,Marketplace,"Philips Airfryer XXL 7,3 L - livraison rapide",Philips,Friteuse sans huile,3700000000020,,"7,3 L",Noir,philips airfryer xxl 7 3 l livraison rapide,philips,friteuse sans huile,,7 3 l,noir,03700000000020,True,ALT-020,SELLER-02,4865.09,30.0,03700000000020,GTIN_03700000000020
-Marketplace_OFF-5021,OFF-5021,Marketplace,Nespresso Vertuo Pop,Nespresso,Machine à café,3700000000021,,,Rouge,nespresso vertuo pop,nespresso,machine a cafe,,,rouge,03700000000021,False,SKU-0021,SELLER-10,5472.87,25.0,,SRC_Marketplace_OFF-5021
-Marketplace_OFF-5022,OFF-5022,Marketplace,Nike Air Max 90 42,,Chaussures,3700000000022,,42,Blanc,nike air max 90 42,,chaussures,,42,blanc,03700000000022,False,SKU-0022,SELLER-11,10388.22,25.0,,SRC_Marketplace_OFF-5022
-Marketplace_OFF-5023,OFF-5023,Marketplace,Adidas Ultraboost Light 42,Adidas,Chaussures,3700000000023,,42,Noir,adidas ultraboost light 42,adidas,chaussures,,42,noir,03700000000023,False,SKU-0023,SELLER-12,8240.27,-2.0,,SRC_Marketplace_OFF-5023
-Marketplace_OFF-5024,OFF-5024,Marketplace,"Samsonite  Guardit 2.0 15,6 pouces",Samsonite,Sac à dos,3700000000024,,"15,6 pouces",Noir,samsonite guardit 2 0 15 6 pouces,samsonite,sac a dos,,15 6 pouces,noir,03700000000024,False,SKU-0024,SELLER-01,2238.18,10.0,,SRC_Marketplace_OFF-5024
-Marketplace_OFF-5025,OFF-5025,Marketplace,Samsung Galaxy S24 édition 25 128 Go,Samsung,Smartphone,3700000000025,,128 Go,Noir,samsung galaxy s24 edition 25 128 go,samsung,smartphone,,128 go,noir,03700000000025,False,SKU-0025,SELLER-02,9998.46,5.0,,SRC_Marketplace_OFF-5025
-Marketplace_OFF-5026,OFF-5026,Marketplace,Apple iPhone 15 édition 26 128 Go,Apple,Smartphone,3700000000026,,128 Go,Noir,apple iphone 15 edition 26 128 go,apple,smartphone,,128 go,noir,03700000000026,False,SKU-0026,SELLER-03,1876.27,50.0,,SRC_Marketplace_OFF-5026
-Marketplace_OFF-5027,OFF-5027,Marketplace,Apple iPhone 15 Pro édition 27 256 Go,Apple,Smartphone,3700000000027,,256 Go,Titane,apple iphone 15 pro edition 27 256 go,apple,smartphone,,256 go,titane,03700000000027,False,SKU-0027,SELLER-04,8332.35,0.0,,SRC_Marketplace_OFF-5027
-Marketplace_OFF-5028,OFF-5028,Marketplace,Xiaomi Redmi Note 13 édition 28 256 Go,Xiaomi,Divers,3700000000028,,256 Go,Noir,xiaomi redmi note 13 edition 28 256 go,xiaomi,divers,,256 go,noir,03700000000028,False,SKU-0028,SELLER-05,9392.64,-2.0,,SRC_Marketplace_OFF-5028
-Marketplace_OFF-5029,OFF-5029,Marketplace,Google Pixel 8 édition 29 128 Go,Google,Smartphone,3700000000029,,128 Go,Noir,google pixel 8 edition 29 128 go,google,smartphone,,128 go,noir,03700000000029,False,SKU-0029,SELLER-06,1376.91,-2.0,,SRC_Marketplace_OFF-5029
-Marketplace_OFF-5030,OFF-5030,Marketplace,SONY  WH-1000XM5 ÉDITION 30,Sony,Casque audio,3700000000030,,,Noir,sony wh 1000xm5 edition 30,sony,casque audio,,,noir,03700000000030,False,SKU-0030,SELLER-07,11818.31,,,SRC_Marketplace_OFF-5030
-Marketplace_OFF-5031,OFF-5031,Marketplace,JBL Tune 760NC édition 31,JBL,Casque audio,3700000000031,,,Noir,jbl tune 760nc edition 31,jbl,casque audio,,,noir,03700000000031,False,SKU-0031,SELLER-08,7268.62,1.0,,SRC_Marketplace_OFF-5031
-Marketplace_OFF-5032,OFF-5032,Marketplace,Apple AirPods Pro 2 édition 32,Apple,Écouteurs,3700000000032,,,Blanc,apple airpods pro 2 edition 32,apple,ecouteurs,,,blanc,03700000000032,False,SKU-0032,SELLER-09,6508.93,50.0,,SRC_Marketplace_OFF-5032
-Marketplace_OFF-5033,OFF-5033,Marketplace,Dell XPS 13 édition 33 16 Go RAM / 512 Go SSD,,Ordinateur portable,3700000000033,,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 33 16 go ram 512 go ssd,,ordinateur portable,,16 go ram 512 go ssd,argent,03700000000033,False,SKU-0033,SELLER-10,2614.24,-2.0,,SRC_Marketplace_OFF-5033
-Marketplace_OFF-7033,OFF-7033,Marketplace,Dell XPS 13 édition 33 16 Go RAM / 512 Go SSD - livraison rapide,Dell,Ordinateur portable,3700000000033,,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 33 16 go ram 512 go ssd livraison rapide,dell,ordinateur portable,,16 go ram 512 go ssd,argent,03700000000033,False,ALT-033,SELLER-03,7667.75,15.0,,SRC_Marketplace_OFF-7033
-Marketplace_OFF-5034,OFF-5034,Marketplace,HP Pavilion 15 édition 34 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000034,,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 34 8 go ram 512 go ssd,hp,ordinateur portable,,8 go ram 512 go ssd,argent,03700000000034,False,SKU-0034,SELLER-11,5768.69,1.0,,SRC_Marketplace_OFF-5034
-Marketplace_OFF-5035,OFF-5035,Marketplace,Lenovo ThinkPad E14 édition 35 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000035,,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 35 16 go ram 512 go ssd,lenovo,ordinateur portable,,16 go ram 512 go ssd,noir,03700000000035,False,SKU-0035,SELLER-12,5671.98,,,SRC_Marketplace_OFF-5035
-Marketplace_OFF-5036,OFF-5036,Marketplace,Apple  MacBook Air M3 édition 36 16 Go RAM / 512 Go SSD,Apple,Ordinateur portable,,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 36 16 go ram 512 go ssd,apple,ordinateur portable,,16 go ram 512 go ssd,minuit,,False,SKU-0036,SELLER-01,1360.92,50.0,,SRC_Marketplace_OFF-5036
-Marketplace_OFF-5037,OFF-5037,Marketplace,Logitech MX Master 3S édition 37,Logitech,Souris,3700000000037,,,Graphite,logitech mx master 3s edition 37,logitech,souris,,,graphite,03700000000037,True,SKU-0037,SELLER-02,8350.87,0.0,03700000000037,GTIN_03700000000037
-Marketplace_OFF-5038,OFF-5038,Marketplace,Logitech K380 édition 38,Logitech,Clavier,3700000000038,,,Blanc,logitech k380 edition 38,logitech,clavier,,,blanc,03700000000038,False,SKU-0038,SELLER-03,6409.85,5.0,,SRC_Marketplace_OFF-5038
-Marketplace_OFF-5039,OFF-5039,Marketplace,Samsung T7 Shield édition 39 1 To,Samsung,SSD externe,3700000000039,,1 To,Bleu,samsung t7 shield edition 39 1 to,samsung,ssd externe,,1 to,bleu,03700000000039,False,SKU-0039,SELLER-04,3682.36,1.0,,SRC_Marketplace_OFF-5039
-Marketplace_OFF-5040,OFF-5040,Marketplace,SANDISK EXTREME PORTABLE SSD ÉDITION 40 1 TO,SanDisk,SSD externe,3700000000040,,1 To,Noir,sandisk extreme portable ssd edition 40 1 to,sandisk,ssd externe,,1 to,noir,03700000000040,False,SKU-0040,SELLER-05,10912.86,50.0,,SRC_Marketplace_OFF-5040
-Marketplace_OFF-5041,OFF-5041,Marketplace,Canon EOS R50 édition 41,Canon,Appareil photo,3700000000041,,,Noir,canon eos r50 edition 41,canon,appareil photo,,,noir,03700000000041,False,SKU-0041,SELLER-06,9381.8,50.0,,SRC_Marketplace_OFF-5041
-Marketplace_OFF-5042,OFF-5042,Marketplace,LG  OLED C3 55 pouces édition 42 55 pouces,LG,Divers,3700000000042,,55 pouces,Noir,lg oled c3 55 pouces edition 42 55 pouces,lg,divers,,55 pouces,noir,03700000000042,False,SKU-0042,SELLER-07,9492.53,10.0,,SRC_Marketplace_OFF-5042
-Marketplace_OFF-5043,OFF-5043,Marketplace,Dyson V15 Detect édition 43,Dyson,Aspirateur,3700000000043,,,Jaune,dyson v15 detect edition 43,dyson,aspirateur,,,jaune,03700000000043,False,SKU-0043,SELLER-08,8917.5,10.0,,SRC_Marketplace_OFF-5043
-Marketplace_OFF-5044,OFF-5044,Marketplace,"Philips Airfryer XXL édition 44 7,3 L",,Friteuse sans huile,3700000000044,,"7,3 L",Noir,philips airfryer xxl edition 44 7 3 l,,friteuse sans huile,,7 3 l,noir,03700000000044,True,SKU-0044,SELLER-09,4363.42,0.0,03700000000044,GTIN_03700000000044
-Marketplace_OFF-5045,OFF-5045,Marketplace,Nespresso Vertuo Pop édition 45,Nespresso,Machine à café,3700000000045,,,Rouge,nespresso vertuo pop edition 45,nespresso,machine a cafe,,,rouge,03700000000045,False,SKU-0045,SELLER-10,5746.04,10.0,,SRC_Marketplace_OFF-5045
-Marketplace_OFF-7045,OFF-7045,Marketplace,Nespresso Vertuo Pop édition 45 - livraison rapide,Nespresso,Machine à café,3700000000045,,,Rouge,nespresso vertuo pop edition 45 livraison rapide,nespresso,machine a cafe,,,rouge,03700000000045,False,ALT-045,SELLER-03,5449.65,15.0,,SRC_Marketplace_OFF-7045
-Marketplace_OFF-5046,OFF-5046,Marketplace,Nike Air Max 90 édition 46 42,Nike,Chaussures,3700000000046,,42,Blanc,nike air max 90 edition 46 42,nike,chaussures,,42,blanc,03700000000046,False,SKU-0046,SELLER-11,4470.94,10.0,,SRC_Marketplace_OFF-5046
-Marketplace_OFF-5047,OFF-5047,Marketplace,Adidas Ultraboost Light édition 47 42,Adidas,Chaussures,3700000000047,,42,Noir,adidas ultraboost light edition 47 42,adidas,chaussures,,42,noir,03700000000047,False,SKU-0047,SELLER-12,2480.97,10.0,,SRC_Marketplace_OFF-5047
-Marketplace_OFF-5048,OFF-5048,Marketplace,"Samsonite  Guardit 2.0 édition 48 15,6 pouces",Samsonite,Sac à dos,3700000000048,,"15,6 pouces",Noir,samsonite guardit 2 0 edition 48 15 6 pouces,samsonite,sac a dos,,15 6 pouces,noir,03700000000048,False,SKU-0048,SELLER-01,10818.65,0.0,,SRC_Marketplace_OFF-5048
-Marketplace_OFF-5049,OFF-5049,Marketplace,Samsung Galaxy S24 édition 49 128 Go,Samsung,Smartphone,3700000000049,,128 Go,Noir,samsung galaxy s24 edition 49 128 go,samsung,smartphone,,128 go,noir,03700000000049,False,SKU-0049,SELLER-02,4226.48,1.0,,SRC_Marketplace_OFF-5049
-Marketplace_OFF-5050,OFF-5050,Marketplace,APPLE IPHONE 15 ÉDITION 50 128 GO,Apple,Smartphone,3700000000050,,128 Go,Noir,apple iphone 15 edition 50 128 go,apple,smartphone,,128 go,noir,03700000000050,False,SKU-0050,SELLER-03,9420.29,10.0,,SRC_Marketplace_OFF-5050
-Marketplace_OFF-5051,OFF-5051,Marketplace,Apple iPhone 15 Pro édition 51 256 Go,Apple,Smartphone,3700000000051,,256 Go,Titane,apple iphone 15 pro edition 51 256 go,apple,smartphone,,256 go,titane,03700000000051,True,SKU-0051,SELLER-04,5292.01,50.0,03700000000051,GTIN_03700000000051
-Marketplace_OFF-5052,OFF-5052,Marketplace,Xiaomi Redmi Note 13 édition 52 256 Go,Xiaomi,Smartphone,3700000000052,,256 Go,Noir,xiaomi redmi note 13 edition 52 256 go,xiaomi,smartphone,,256 go,noir,03700000000052,False,SKU-0052,SELLER-05,11664.14,-2.0,,SRC_Marketplace_OFF-5052
-Marketplace_OFF-5053,OFF-5053,Marketplace,Google Pixel 8 édition 53 128 Go,Google,Smartphone,3700000000053,,128 Go,Noir,google pixel 8 edition 53 128 go,google,smartphone,,128 go,noir,03700000000053,False,SKU-0053,SELLER-06,11369.54,5.0,,SRC_Marketplace_OFF-5053
-Marketplace_OFF-5054,OFF-5054,Marketplace,Sony  WH-1000XM5 édition 54,Sony,Casque audio,,,,Noir,sony wh 1000xm5 edition 54,sony,casque audio,,,noir,,False,SKU-0054,SELLER-07,476.45,,,SRC_Marketplace_OFF-5054
-Marketplace_OFF-5055,OFF-5055,Marketplace,JBL Tune 760NC édition 55,,Casque audio,3700000000055,,,Noir,jbl tune 760nc edition 55,,casque audio,,,noir,03700000000055,False,SKU-0055,SELLER-08,7211.06,,,SRC_Marketplace_OFF-5055
-Marketplace_OFF-5056,OFF-5056,Marketplace,Apple AirPods Pro 2 édition 56,Apple,Divers,3700000000056,,,Blanc,apple airpods pro 2 edition 56,apple,divers,,,blanc,03700000000056,False,SKU-0056,SELLER-09,6647.18,0.0,,SRC_Marketplace_OFF-5056
-Marketplace_OFF-5057,OFF-5057,Marketplace,Dell XPS 13 édition 57 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000057,,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 57 16 go ram 512 go ssd,dell,ordinateur portable,,16 go ram 512 go ssd,argent,03700000000057,False,SKU-0057,SELLER-10,8757.49,1.0,,SRC_Marketplace_OFF-5057
-Marketplace_OFF-5058,OFF-5058,Marketplace,HP Pavilion 15 édition 58 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000058,,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 58 8 go ram 512 go ssd,hp,ordinateur portable,,8 go ram 512 go ssd,argent,03700000000058,False,SKU-0058,SELLER-11,10480.15,10.0,,SRC_Marketplace_OFF-5058
-Marketplace_OFF-5059,OFF-5059,Marketplace,Lenovo ThinkPad E14 édition 59 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000059,,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 59 16 go ram 512 go ssd,lenovo,ordinateur portable,,16 go ram 512 go ssd,noir,03700000000059,False,SKU-0059,SELLER-12,3621.65,10.0,,SRC_Marketplace_OFF-5059
-Marketplace_OFF-5060,OFF-5060,Marketplace,APPLE  MACBOOK AIR M3 ÉDITION 60 16 GO RAM / 512 GO SSD,Apple,Ordinateur portable,3700000000060,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 60 16 go ram 512 go ssd,apple,ordinateur portable,,16 go ram 512 go ssd,minuit,03700000000060,False,SKU-0060,SELLER-01,5115.3,5.0,,SRC_Marketplace_OFF-5060
-Marketplace_OFF-7060,OFF-7060,Marketplace,Apple MacBook Air M3 édition 60 16 Go RAM / 512 Go SSD - livraison rapide,Apple,Ordinateur portable,3700000000060,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 60 16 go ram 512 go ssd livraison rapide,apple,ordinateur portable,,16 go ram 512 go ssd,minuit,03700000000060,False,ALT-060,SELLER-06,10933.7,15.0,,SRC_Marketplace_OFF-7060
-Marketplace_OFF-5061,OFF-5061,Marketplace,Logitech MX Master 3S édition 61,Logitech,Souris,3700000000061,,,Graphite,logitech mx master 3s edition 61,logitech,souris,,,graphite,03700000000061,False,SKU-0061,SELLER-02,8000.33,-2.0,,SRC_Marketplace_OFF-5061
-Marketplace_OFF-5062,OFF-5062,Marketplace,Logitech K380 édition 62,Logitech,Clavier,3700000000062,,,Blanc,logitech k380 edition 62,logitech,clavier,,,blanc,03700000000062,False,SKU-0062,SELLER-03,6353.55,0.0,,SRC_Marketplace_OFF-5062
-Marketplace_OFF-5063,OFF-5063,Marketplace,Samsung T7 Shield édition 63 1 To,Samsung,SSD externe,3700000000063,,1 To,Bleu,samsung t7 shield edition 63 1 to,samsung,ssd externe,,1 to,bleu,03700000000063,False,SKU-0063,SELLER-04,7361.37,5.0,,SRC_Marketplace_OFF-5063
-Marketplace_OFF-5064,OFF-5064,Marketplace,SanDisk Extreme Portable SSD édition 64 1 To,SanDisk,SSD externe,3700000000064,,1 To,Noir,sandisk extreme portable ssd edition 64 1 to,sandisk,ssd externe,,1 to,noir,03700000000064,False,SKU-0064,SELLER-05,7486.35,1.0,,SRC_Marketplace_OFF-5064
-Marketplace_OFF-5065,OFF-5065,Marketplace,Canon EOS R50 édition 65,Canon,Appareil photo,3700000000065,,,Noir,canon eos r50 edition 65,canon,appareil photo,,,noir,03700000000065,False,SKU-0065,SELLER-06,6292.43,,,SRC_Marketplace_OFF-5065
-Marketplace_OFF-5066,OFF-5066,Marketplace,LG  OLED C3 55 pouces édition 66 55 pouces,,Téléviseur,3700000000066,,55 pouces,Noir,lg oled c3 55 pouces edition 66 55 pouces,,televiseur,,55 pouces,noir,03700000000066,False,SKU-0066,SELLER-07,823.35,10.0,,SRC_Marketplace_OFF-5066
-Marketplace_OFF-5067,OFF-5067,Marketplace,Dyson V15 Detect édition 67,Dyson,Aspirateur,3700000000067,,,Jaune,dyson v15 detect edition 67,dyson,aspirateur,,,jaune,03700000000067,False,SKU-0067,SELLER-08,1308.28,,,SRC_Marketplace_OFF-5067
-Marketplace_OFF-5068,OFF-5068,Marketplace,"Philips Airfryer XXL édition 68 7,3 L",Philips,Friteuse sans huile,3700000000068,,"7,3 L",Noir,philips airfryer xxl edition 68 7 3 l,philips,friteuse sans huile,,7 3 l,noir,03700000000068,True,SKU-0068,SELLER-09,10962.98,,03700000000068,GTIN_03700000000068
-Marketplace_OFF-5069,OFF-5069,Marketplace,Nespresso Vertuo Pop édition 69,Nespresso,Machine à café,3700000000069,,,Rouge,nespresso vertuo pop edition 69,nespresso,machine a cafe,,,rouge,03700000000069,False,SKU-0069,SELLER-10,6140.8,10.0,,SRC_Marketplace_OFF-5069
-Marketplace_OFF-5070,OFF-5070,Marketplace,NIKE AIR MAX 90 ÉDITION 70 42,Nike,Divers,3700000000070,,42,Blanc,nike air max 90 edition 70 42,nike,divers,,42,blanc,03700000000070,False,SKU-0070,SELLER-11,6469.43,,,SRC_Marketplace_OFF-5070
-Marketplace_OFF-5071,OFF-5071,Marketplace,Adidas Ultraboost Light édition 71 42,Adidas,Chaussures,3700000000071,,42,Noir,adidas ultraboost light edition 71 42,adidas,chaussures,,42,noir,03700000000071,False,SKU-0071,SELLER-12,10536.95,25.0,,SRC_Marketplace_OFF-5071
-Marketplace_OFF-5072,OFF-5072,Marketplace,"Samsonite  Guardit 2.0 édition 72 15,6 pouces",Samsonite,Sac à dos,,,"15,6 pouces",Noir,samsonite guardit 2 0 edition 72 15 6 pouces,samsonite,sac a dos,,15 6 pouces,noir,,False,SKU-0072,SELLER-01,1775.04,1.0,,SRC_Marketplace_OFF-5072
-Marketplace_OFF-5073,OFF-5073,Marketplace,Samsung Galaxy S24 édition 73 128 Go,Samsung,Smartphone,3700000000073,,128 Go,Noir,samsung galaxy s24 edition 73 128 go,samsung,smartphone,,128 go,noir,03700000000073,False,SKU-0073,SELLER-02,1009.67,10.0,,SRC_Marketplace_OFF-5073
-Marketplace_OFF-5074,OFF-5074,Marketplace,Apple iPhone 15 édition 74 128 Go,Apple,Smartphone,3700000000074,,128 Go,Noir,apple iphone 15 edition 74 128 go,apple,smartphone,,128 go,noir,03700000000074,False,SKU-0074,SELLER-03,8083.24,1.0,,SRC_Marketplace_OFF-5074
-Marketplace_OFF-5075,OFF-5075,Marketplace,Apple iPhone 15 Pro édition 75 256 Go,Apple,Smartphone,3700000000075,,256 Go,Titane,apple iphone 15 pro edition 75 256 go,apple,smartphone,,256 go,titane,03700000000075,True,SKU-0075,SELLER-04,7774.98,50.0,03700000000075,GTIN_03700000000075
-Marketplace_OFF-7075,OFF-7075,Marketplace,Apple iPhone 15 Pro édition 75 256 Go - livraison rapide,Apple,Smartphone,3700000000075,,256 Go,Titane,apple iphone 15 pro edition 75 256 go livraison rapide,apple,smartphone,,256 go,titane,03700000000075,True,ALT-075,SELLER-09,3149.33,8.0,03700000000075,GTIN_03700000000075
-Marketplace_OFF-5076,OFF-5076,Marketplace,Xiaomi Redmi Note 13 édition 76 256 Go,Xiaomi,Smartphone,3700000000076,,256 Go,Noir,xiaomi redmi note 13 edition 76 256 go,xiaomi,smartphone,,256 go,noir,03700000000076,False,SKU-0076,SELLER-05,2752.12,1.0,,SRC_Marketplace_OFF-5076
-Marketplace_OFF-5077,OFF-5077,Marketplace,Google Pixel 8 édition 77 128 Go,,Smartphone,3700000000077,,128 Go,Noir,google pixel 8 edition 77 128 go,,smartphone,,128 go,noir,03700000000077,False,SKU-0077,SELLER-06,2079.12,10.0,,SRC_Marketplace_OFF-5077
-Marketplace_OFF-5078,OFF-5078,Marketplace,Sony  WH-1000XM5 édition 78,Sony,Casque audio,3700000000078,,,Noir,sony wh 1000xm5 edition 78,sony,casque audio,,,noir,03700000000078,False,SKU-0078,SELLER-07,11929.76,-2.0,,SRC_Marketplace_OFF-5078
-Marketplace_OFF-5079,OFF-5079,Marketplace,JBL Tune 760NC édition 79,JBL,Casque audio,3700000000079,,,Noir,jbl tune 760nc edition 79,jbl,casque audio,,,noir,03700000000079,False,SKU-0079,SELLER-08,4375.89,1.0,,SRC_Marketplace_OFF-5079
-Marketplace_OFF-5080,OFF-5080,Marketplace,APPLE AIRPODS PRO 2 ÉDITION 80,Apple,Écouteurs,3700000000080,,,Blanc,apple airpods pro 2 edition 80,apple,ecouteurs,,,blanc,03700000000080,False,SKU-0080,SELLER-09,6715.5,,,SRC_Marketplace_OFF-5080
-Marketplace_OFF-5081,OFF-5081,Marketplace,Dell XPS 13 édition 81 16 Go RAM / 512 Go SSD,Dell,Ordinateur portable,3700000000081,,16 Go RAM / 512 Go SSD,Argent,dell xps 13 edition 81 16 go ram 512 go ssd,dell,ordinateur portable,,16 go ram 512 go ssd,argent,03700000000081,False,SKU-0081,SELLER-10,6281.59,25.0,,SRC_Marketplace_OFF-5081
-Marketplace_OFF-5082,OFF-5082,Marketplace,HP Pavilion 15 édition 82 8 Go RAM / 512 Go SSD,HP,Ordinateur portable,3700000000082,,8 Go RAM / 512 Go SSD,Argent,hp pavilion 15 edition 82 8 go ram 512 go ssd,hp,ordinateur portable,,8 go ram 512 go ssd,argent,03700000000082,True,SKU-0082,SELLER-11,11034.8,10.0,03700000000082,GTIN_03700000000082
-Marketplace_OFF-5083,OFF-5083,Marketplace,Lenovo ThinkPad E14 édition 83 16 Go RAM / 512 Go SSD,Lenovo,Ordinateur portable,3700000000083,,16 Go RAM / 512 Go SSD,Noir,lenovo thinkpad e14 edition 83 16 go ram 512 go ssd,lenovo,ordinateur portable,,16 go ram 512 go ssd,noir,03700000000083,False,SKU-0083,SELLER-12,3372.26,5.0,,SRC_Marketplace_OFF-5083
-Marketplace_OFF-5084,OFF-5084,Marketplace,Apple  MacBook Air M3 édition 84 16 Go RAM / 512 Go SSD,Apple,Divers,3700000000084,,16 Go RAM / 512 Go SSD,Minuit,apple macbook air m3 edition 84 16 go ram 512 go ssd,apple,divers,,16 go ram 512 go ssd,minuit,03700000000084,False,SKU-0084,SELLER-01,9864.36,25.0,,SRC_Marketplace_OFF-5084
-Marketplace_OFF-5085,OFF-5085,Marketplace,Logitech MX Master 3S édition 85,Logitech,Souris,3700000000085,,,Graphite,logitech mx master 3s edition 85,logitech,souris,,,graphite,03700000000085,False,SKU-0085,SELLER-02,11042.18,,,SRC_Marketplace_OFF-5085
-Marketplace_OFF-5086,OFF-5086,Marketplace,Logitech K380 édition 86,Logitech,Clavier,3700000000086,,,Blanc,logitech k380 edition 86,logitech,clavier,,,blanc,03700000000086,False,SKU-0086,SELLER-03,831.69,5.0,,SRC_Marketplace_OFF-5086
-Marketplace_OFF-5087,OFF-5087,Marketplace,Samsung T7 Shield édition 87 1 To,Samsung,SSD externe,3700000000087,,1 To,Bleu,samsung t7 shield edition 87 1 to,samsung,ssd externe,,1 to,bleu,03700000000087,False,SKU-0087,SELLER-04,3336.74,0.0,,SRC_Marketplace_OFF-5087
-Marketplace_OFF-5088,OFF-5088,Marketplace,SanDisk Extreme Portable SSD édition 88 1 To,,SSD externe,3700000000088,,1 To,Noir,sandisk extreme portable ssd edition 88 1 to,,ssd externe,,1 to,noir,03700000000088,False,SKU-0088,SELLER-05,1142.35,10.0,,SRC_Marketplace_OFF-5088
-Marketplace_OFF-5089,OFF-5089,Marketplace,Canon EOS R50 édition 89,Canon,Appareil photo,3700000000089,,,Noir,canon eos r50 edition 89,canon,appareil photo,,,noir,03700000000089,False,SKU-0089,SELLER-06,1591.88,0.0,,SRC_Marketplace_OFF-5089
-Marketplace_OFF-5090,OFF-5090,Marketplace,LG  OLED C3 55 POUCES ÉDITION 90 55 POUCES,LG,Téléviseur,,,55 pouces,Noir,lg oled c3 55 pouces edition 90 55 pouces,lg,televiseur,,55 pouces,noir,,False,SKU-0090,SELLER-07,5100.46,25.0,,SRC_Marketplace_OFF-5090
-Marketplace_OFF-7090,OFF-7090,Marketplace,LG OLED C3 55 pouces édition 90 55 pouces - livraison rapide,LG,Téléviseur,3700000000090,,55 pouces,Noir,lg oled c3 55 pouces edition 90 55 pouces livraison rapide,lg,televiseur,,55 pouces,noir,03700000000090,False,ALT-090,SELLER-12,661.99,8.0,,SRC_Marketplace_OFF-7090
-Marketplace_OFF-5091,OFF-5091,Marketplace,Dyson V15 Detect édition 91,Dyson,Aspirateur,3700000000091,,,Jaune,dyson v15 detect edition 91,dyson,aspirateur,,,jaune,03700000000091,False,SKU-0091,SELLER-08,11635.17,25.0,,SRC_Marketplace_OFF-5091
-Marketplace_OFF-5092,OFF-5092,Marketplace,"Philips Airfryer XXL édition 92 7,3 L",Philips,Friteuse sans huile,3700000000092,,"7,3 L",Noir,philips airfryer xxl edition 92 7 3 l,philips,friteuse sans huile,,7 3 l,noir,03700000000092,False,SKU-0092,SELLER-09,11197.13,25.0,,SRC_Marketplace_OFF-5092
-Marketplace_OFF-5093,OFF-5093,Marketplace,Nespresso Vertuo Pop édition 93,Nespresso,Machine à café,3700000000093,,,Rouge,nespresso vertuo pop edition 93,nespresso,machine a cafe,,,rouge,03700000000093,False,SKU-0093,SELLER-10,6076.05,5.0,,SRC_Marketplace_OFF-5093
-Marketplace_OFF-5094,OFF-5094,Marketplace,Nike Air Max 90 édition 94 42,Nike,Chaussures,3700000000094,,42,Blanc,nike air max 90 edition 94 42,nike,chaussures,,42,blanc,03700000000094,False,SKU-0094,SELLER-11,365.23,25.0,,SRC_Marketplace_OFF-5094
-Marketplace_OFF-5095,OFF-5095,Marketplace,Adidas Ultraboost Light édition 95 42,Adidas,Chaussures,3700000000095,,42,Noir,adidas ultraboost light edition 95 42,adidas,chaussures,,42,noir,03700000000095,False,SKU-0095,SELLER-12,8837.0,10.0,,SRC_Marketplace_OFF-5095
-Marketplace_OFF-5096,OFF-5096,Marketplace,"Samsonite  Guardit 2.0 édition 96 15,6 pouces",Samsonite,Sac à dos,3700000000096,,"15,6 pouces",Noir,samsonite guardit 2 0 edition 96 15 6 pouces,samsonite,sac a dos,,15 6 pouces,noir,03700000000096,False,SKU-0096,SELLER-01,5447.61,-2.0,,SRC_Marketplace_OFF-5096
-Marketplace_OFF-5097,OFF-5097,Marketplace,Samsung Galaxy S24 édition 97 128 Go,Samsung,Smartphone,3700000000097,,128 Go,Noir,samsung galaxy s24 edition 97 128 go,samsung,smartphone,,128 go,noir,03700000000097,False,SKU-0097,SELLER-02,10681.4,25.0,,SRC_Marketplace_OFF-5097
-Marketplace_OFF-5098,OFF-5098,Marketplace,Apple iPhone 15 édition 98 128 Go,Apple,Divers,3700000000098,,128 Go,Noir,apple iphone 15 edition 98 128 go,apple,divers,,128 go,noir,03700000000098,False,SKU-0098,SELLER-03,4211.05,5.0,,SRC_Marketplace_OFF-5098
-Marketplace_OFF-5099,OFF-5099,Marketplace,Apple iPhone 15 Pro édition 99 256 Go,,Smartphone,3700000000099,,256 Go,Titane,apple iphone 15 pro edition 99 256 go,,smartphone,,256 go,titane,03700000000099,True,SKU-0099,SELLER-04,11785.3,5.0,03700000000099,GTIN_03700000000099
-Marketplace_OFF-5100,OFF-5100,Marketplace,XIAOMI REDMI NOTE 13 ÉDITION 100 256 GO,Xiaomi,Smartphone,3700000000100,,256 Go,Noir,xiaomi redmi note 13 edition 100 256 go,xiaomi,smartphone,,256 go,noir,03700000000100,False,SKU-0100,SELLER-05,8929.54,25.0,,SRC_Marketplace_OFF-5100
-Marketplace_OFF-ERR-01,OFF-ERR-01,Marketplace,???,Marque inconnue,Divers,ABC123,,,,,marque inconnue,divers,,,,,False,SKU-ERR,SELLER-99,-10.0,-5.0,,SRC_Marketplace_OFF-ERR-01
+﻿master_product_id,source_system,source_id
+SRC_PIM_P0001,PIM,P0001
+SRC_PIM_P0002,PIM,P0002
+SRC_PIM_P0003,PIM,P0003
+SRC_PIM_P0004,PIM,P0004
+SRC_PIM_P0005,PIM,P0005
+GTIN_03700000000006,PIM,P0006
+SRC_PIM_P0007,PIM,P0007
+SRC_PIM_P0008,PIM,P0008
+SRC_PIM_P0009,PIM,P0009
+SRC_PIM_P0010,PIM,P0010
+SRC_PIM_P0011,PIM,P0011
+SRC_PIM_P0012,PIM,P0012
+SRC_PIM_P0013,PIM,P0013
+SRC_PIM_P0014,PIM,P0014
+SRC_PIM_P0015,PIM,P0015
+SRC_PIM_P0016,PIM,P0016
+SRC_PIM_P0017,PIM,P0017
+SRC_PIM_P0018,PIM,P0018
+SRC_PIM_P0019,PIM,P0019
+GTIN_03700000000020,PIM,P0020
+SRC_PIM_P0021,PIM,P0021
+SRC_PIM_P0022,PIM,P0022
+SRC_PIM_P0023,PIM,P0023
+SRC_PIM_P0024,PIM,P0024
+SRC_PIM_P0025,PIM,P0025
+SRC_PIM_P0026,PIM,P0026
+SRC_PIM_P0027,PIM,P0027
+SRC_PIM_P0028,PIM,P0028
+SRC_PIM_P0029,PIM,P0029
+SRC_PIM_P0030,PIM,P0030
+SRC_PIM_P0031,PIM,P0031
+SRC_PIM_P0032,PIM,P0032
+SRC_PIM_P0033,PIM,P0033
+SRC_PIM_P0034,PIM,P0034
+SRC_PIM_P0035,PIM,P0035
+SRC_PIM_P0036,PIM,P0036
+GTIN_03700000000037,PIM,P0037
+SRC_PIM_P0038,PIM,P0038
+SRC_PIM_P0039,PIM,P0039
+SRC_PIM_P0040,PIM,P0040
+SRC_PIM_P0041,PIM,P0041
+SRC_PIM_P0042,PIM,P0042
+SRC_PIM_P0043,PIM,P0043
+GTIN_03700000000044,PIM,P0044
+SRC_PIM_P0045,PIM,P0045
+SRC_PIM_P0046,PIM,P0046
+SRC_PIM_P0047,PIM,P0047
+SRC_PIM_P0048,PIM,P0048
+SRC_PIM_P0049,PIM,P0049
+SRC_PIM_P0050,PIM,P0050
+GTIN_03700000000051,PIM,P0051
+SRC_PIM_P0052,PIM,P0052
+SRC_PIM_P0053,PIM,P0053
+SRC_PIM_P0054,PIM,P0054
+SRC_PIM_P0055,PIM,P0055
+SRC_PIM_P0056,PIM,P0056
+SRC_PIM_P0057,PIM,P0057
+SRC_PIM_P0058,PIM,P0058
+SRC_PIM_P0059,PIM,P0059
+SRC_PIM_P0060,PIM,P0060
+SRC_PIM_P0061,PIM,P0061
+SRC_PIM_P0062,PIM,P0062
+SRC_PIM_P0063,PIM,P0063
+SRC_PIM_P0064,PIM,P0064
+SRC_PIM_P0065,PIM,P0065
+SRC_PIM_P0066,PIM,P0066
+SRC_PIM_P0067,PIM,P0067
+GTIN_03700000000068,PIM,P0068
+SRC_PIM_P0069,PIM,P0069
+SRC_PIM_P0070,PIM,P0070
+SRC_PIM_P0071,PIM,P0071
+SRC_PIM_P0072,PIM,P0072
+SRC_PIM_P0073,PIM,P0073
+SRC_PIM_P0074,PIM,P0074
+GTIN_03700000000075,PIM,P0075
+SRC_PIM_P0076,PIM,P0076
+SRC_PIM_P0077,PIM,P0077
+SRC_PIM_P0078,PIM,P0078
+SRC_PIM_P0079,PIM,P0079
+SRC_PIM_P0080,PIM,P0080
+SRC_PIM_P0081,PIM,P0081
+GTIN_03700000000082,PIM,P0082
+SRC_PIM_P0083,PIM,P0083
+SRC_PIM_P0084,PIM,P0084
+SRC_PIM_P0085,PIM,P0085
+SRC_PIM_P0086,PIM,P0086
+SRC_PIM_P0087,PIM,P0087
+SRC_PIM_P0088,PIM,P0088
+SRC_PIM_P0089,PIM,P0089
+SRC_PIM_P0090,PIM,P0090
+SRC_PIM_P0091,PIM,P0091
+SRC_PIM_P0092,PIM,P0092
+SRC_PIM_P0093,PIM,P0093
+SRC_PIM_P0094,PIM,P0094
+SRC_PIM_P0095,PIM,P0095
+SRC_PIM_P0096,PIM,P0096
+SRC_PIM_P0097,PIM,P0097
+SRC_PIM_P0098,PIM,P0098
+GTIN_03700000000099,PIM,P0099
+SRC_PIM_P0100,PIM,P0100
+SRC_PIM_P-DUP-01,PIM,P-DUP-01
+SRC_PIM_P-ERR-01,PIM,P-ERR-01
+SRC_ERP_ART-1001,ERP,ART-1001
+SRC_ERP_ART-1002,ERP,ART-1002
+SRC_ERP_ART-1003,ERP,ART-1003
+SRC_ERP_ART-1004,ERP,ART-1004
+SRC_ERP_ART-1005,ERP,ART-1005
+GTIN_03700000000006,ERP,ART-1006
+SRC_ERP_ART-1007,ERP,ART-1007
+SRC_ERP_ART-1008,ERP,ART-1008
+SRC_ERP_ART-1009,ERP,ART-1009
+SRC_ERP_ART-1010,ERP,ART-1010
+SRC_ERP_ART-1011,ERP,ART-1011
+SRC_ERP_ART-1012,ERP,ART-1012
+GTIN_03700000000013,ERP,ART-1013
+SRC_ERP_ART-1014,ERP,ART-1014
+SRC_ERP_ART-1015,ERP,ART-1015
+SRC_ERP_ART-1016,ERP,ART-1016
+SRC_ERP_ART-1017,ERP,ART-1017
+SRC_ERP_ART-1018,ERP,ART-1018
+SRC_ERP_ART-1019,ERP,ART-1019
+GTIN_03700000000020,ERP,ART-1020
+SRC_ERP_ART-1021,ERP,ART-1021
+SRC_ERP_ART-1022,ERP,ART-1022
+SRC_ERP_ART-1023,ERP,ART-1023
+SRC_ERP_ART-1024,ERP,ART-1024
+SRC_ERP_ART-1025,ERP,ART-1025
+SRC_ERP_ART-1026,ERP,ART-1026
+SRC_ERP_ART-1027,ERP,ART-1027
+SRC_ERP_ART-1028,ERP,ART-1028
+SRC_ERP_ART-1029,ERP,ART-1029
+SRC_ERP_ART-1030,ERP,ART-1030
+SRC_ERP_ART-1031,ERP,ART-1031
+SRC_ERP_ART-1032,ERP,ART-1032
+SRC_ERP_ART-1033,ERP,ART-1033
+SRC_ERP_ART-1034,ERP,ART-1034
+SRC_ERP_ART-1035,ERP,ART-1035
+SRC_ERP_ART-1036,ERP,ART-1036
+GTIN_03700000000037,ERP,ART-1037
+SRC_ERP_ART-1038,ERP,ART-1038
+SRC_ERP_ART-1039,ERP,ART-1039
+SRC_ERP_ART-1040,ERP,ART-1040
+SRC_ERP_ART-1041,ERP,ART-1041
+SRC_ERP_ART-1042,ERP,ART-1042
+SRC_ERP_ART-1043,ERP,ART-1043
+GTIN_03700000000044,ERP,ART-1044
+SRC_ERP_ART-1045,ERP,ART-1045
+SRC_ERP_ART-1046,ERP,ART-1046
+SRC_ERP_ART-1047,ERP,ART-1047
+SRC_ERP_ART-1048,ERP,ART-1048
+SRC_ERP_ART-1049,ERP,ART-1049
+SRC_ERP_ART-1050,ERP,ART-1050
+GTIN_03700000000051,ERP,ART-1051
+SRC_ERP_ART-1052,ERP,ART-1052
+SRC_ERP_ART-1053,ERP,ART-1053
+SRC_ERP_ART-1054,ERP,ART-1054
+SRC_ERP_ART-1055,ERP,ART-1055
+SRC_ERP_ART-1056,ERP,ART-1056
+SRC_ERP_ART-1057,ERP,ART-1057
+SRC_ERP_ART-1058,ERP,ART-1058
+SRC_ERP_ART-1059,ERP,ART-1059
+SRC_ERP_ART-1060,ERP,ART-1060
+SRC_ERP_ART-1061,ERP,ART-1061
+SRC_ERP_ART-1062,ERP,ART-1062
+SRC_ERP_ART-1063,ERP,ART-1063
+SRC_ERP_ART-1064,ERP,ART-1064
+SRC_ERP_ART-1065,ERP,ART-1065
+SRC_ERP_ART-1066,ERP,ART-1066
+SRC_ERP_ART-1067,ERP,ART-1067
+GTIN_03700000000068,ERP,ART-1068
+SRC_ERP_ART-1069,ERP,ART-1069
+SRC_ERP_ART-1070,ERP,ART-1070
+SRC_ERP_ART-1071,ERP,ART-1071
+SRC_ERP_ART-1072,ERP,ART-1072
+SRC_ERP_ART-1073,ERP,ART-1073
+SRC_ERP_ART-1074,ERP,ART-1074
+SRC_ERP_ART-1075,ERP,ART-1075
+SRC_ERP_ART-1076,ERP,ART-1076
+SRC_ERP_ART-1077,ERP,ART-1077
+SRC_ERP_ART-1078,ERP,ART-1078
+SRC_ERP_ART-1079,ERP,ART-1079
+SRC_ERP_ART-1080,ERP,ART-1080
+SRC_ERP_ART-1081,ERP,ART-1081
+GTIN_03700000000082,ERP,ART-1082
+SRC_ERP_ART-1083,ERP,ART-1083
+SRC_ERP_ART-1084,ERP,ART-1084
+SRC_ERP_ART-1085,ERP,ART-1085
+SRC_ERP_ART-1086,ERP,ART-1086
+SRC_ERP_ART-1087,ERP,ART-1087
+SRC_ERP_ART-1088,ERP,ART-1088
+SRC_ERP_ART-1089,ERP,ART-1089
+SRC_ERP_ART-1090,ERP,ART-1090
+SRC_ERP_ART-1091,ERP,ART-1091
+SRC_ERP_ART-1092,ERP,ART-1092
+SRC_ERP_ART-1093,ERP,ART-1093
+SRC_ERP_ART-1094,ERP,ART-1094
+SRC_ERP_ART-1095,ERP,ART-1095
+SRC_ERP_ART-1096,ERP,ART-1096
+SRC_ERP_ART-1097,ERP,ART-1097
+SRC_ERP_ART-1098,ERP,ART-1098
+GTIN_03700000000099,ERP,ART-1099
+SRC_ERP_ART-1100,ERP,ART-1100
+SRC_ERP_ART-DUP-01,ERP,ART-DUP-01
+SRC_Marketplace_OFF-5001,Marketplace,OFF-5001
+SRC_Marketplace_OFF-5002,Marketplace,OFF-5002
+SRC_Marketplace_OFF-5003,Marketplace,OFF-5003
+SRC_Marketplace_OFF-7003,Marketplace,OFF-7003
+SRC_Marketplace_OFF-5004,Marketplace,OFF-5004
+SRC_Marketplace_OFF-5005,Marketplace,OFF-5005
+GTIN_03700000000006,Marketplace,OFF-5006
+SRC_Marketplace_OFF-5007,Marketplace,OFF-5007
+SRC_Marketplace_OFF-7007,Marketplace,OFF-7007
+SRC_Marketplace_OFF-5008,Marketplace,OFF-5008
+SRC_Marketplace_OFF-5009,Marketplace,OFF-5009
+SRC_Marketplace_OFF-5010,Marketplace,OFF-5010
+SRC_Marketplace_OFF-5011,Marketplace,OFF-5011
+SRC_Marketplace_OFF-5012,Marketplace,OFF-5012
+SRC_Marketplace_OFF-7012,Marketplace,OFF-7012
+GTIN_03700000000013,Marketplace,OFF-5013
+SRC_Marketplace_OFF-5014,Marketplace,OFF-5014
+SRC_Marketplace_OFF-5015,Marketplace,OFF-5015
+SRC_Marketplace_OFF-5016,Marketplace,OFF-5016
+SRC_Marketplace_OFF-5017,Marketplace,OFF-5017
+SRC_Marketplace_OFF-5018,Marketplace,OFF-5018
+SRC_Marketplace_OFF-5019,Marketplace,OFF-5019
+GTIN_03700000000020,Marketplace,OFF-5020
+GTIN_03700000000020,Marketplace,OFF-7020
+SRC_Marketplace_OFF-5021,Marketplace,OFF-5021
+SRC_Marketplace_OFF-5022,Marketplace,OFF-5022
+SRC_Marketplace_OFF-5023,Marketplace,OFF-5023
+SRC_Marketplace_OFF-5024,Marketplace,OFF-5024
+SRC_Marketplace_OFF-5025,Marketplace,OFF-5025
+SRC_Marketplace_OFF-5026,Marketplace,OFF-5026
+SRC_Marketplace_OFF-5027,Marketplace,OFF-5027
+SRC_Marketplace_OFF-5028,Marketplace,OFF-5028
+SRC_Marketplace_OFF-5029,Marketplace,OFF-5029
+SRC_Marketplace_OFF-5030,Marketplace,OFF-5030
+SRC_Marketplace_OFF-5031,Marketplace,OFF-5031
+SRC_Marketplace_OFF-5032,Marketplace,OFF-5032
+SRC_Marketplace_OFF-5033,Marketplace,OFF-5033
+SRC_Marketplace_OFF-7033,Marketplace,OFF-7033
+SRC_Marketplace_OFF-5034,Marketplace,OFF-5034
+SRC_Marketplace_OFF-5035,Marketplace,OFF-5035
+SRC_Marketplace_OFF-5036,Marketplace,OFF-5036
+GTIN_03700000000037,Marketplace,OFF-5037
+SRC_Marketplace_OFF-5038,Marketplace,OFF-5038
+SRC_Marketplace_OFF-5039,Marketplace,OFF-5039
+SRC_Marketplace_OFF-5040,Marketplace,OFF-5040
+SRC_Marketplace_OFF-5041,Marketplace,OFF-5041
+SRC_Marketplace_OFF-5042,Marketplace,OFF-5042
+SRC_Marketplace_OFF-5043,Marketplace,OFF-5043
+GTIN_03700000000044,Marketplace,OFF-5044
+SRC_Marketplace_OFF-5045,Marketplace,OFF-5045
+SRC_Marketplace_OFF-7045,Marketplace,OFF-7045
+SRC_Marketplace_OFF-5046,Marketplace,OFF-5046
+SRC_Marketplace_OFF-5047,Marketplace,OFF-5047
+SRC_Marketplace_OFF-5048,Marketplace,OFF-5048
+SRC_Marketplace_OFF-5049,Marketplace,OFF-5049
+SRC_Marketplace_OFF-5050,Marketplace,OFF-5050
+GTIN_03700000000051,Marketplace,OFF-5051
+SRC_Marketplace_OFF-5052,Marketplace,OFF-5052
+SRC_Marketplace_OFF-5053,Marketplace,OFF-5053
+SRC_Marketplace_OFF-5054,Marketplace,OFF-5054
+SRC_Marketplace_OFF-5055,Marketplace,OFF-5055
+SRC_Marketplace_OFF-5056,Marketplace,OFF-5056
+SRC_Marketplace_OFF-5057,Marketplace,OFF-5057
+SRC_Marketplace_OFF-5058,Marketplace,OFF-5058
+SRC_Marketplace_OFF-5059,Marketplace,OFF-5059
+SRC_Marketplace_OFF-5060,Marketplace,OFF-5060
+SRC_Marketplace_OFF-7060,Marketplace,OFF-7060
+SRC_Marketplace_OFF-5061,Marketplace,OFF-5061
+SRC_Marketplace_OFF-5062,Marketplace,OFF-5062
+SRC_Marketplace_OFF-5063,Marketplace,OFF-5063
+SRC_Marketplace_OFF-5064,Marketplace,OFF-5064
+SRC_Marketplace_OFF-5065,Marketplace,OFF-5065
+SRC_Marketplace_OFF-5066,Marketplace,OFF-5066
+SRC_Marketplace_OFF-5067,Marketplace,OFF-5067
+GTIN_03700000000068,Marketplace,OFF-5068
+SRC_Marketplace_OFF-5069,Marketplace,OFF-5069
+SRC_Marketplace_OFF-5070,Marketplace,OFF-5070
+SRC_Marketplace_OFF-5071,Marketplace,OFF-5071
+SRC_Marketplace_OFF-5072,Marketplace,OFF-5072
+SRC_Marketplace_OFF-5073,Marketplace,OFF-5073
+SRC_Marketplace_OFF-5074,Marketplace,OFF-5074
+GTIN_03700000000075,Marketplace,OFF-5075
+GTIN_03700000000075,Marketplace,OFF-7075
+SRC_Marketplace_OFF-5076,Marketplace,OFF-5076
+SRC_Marketplace_OFF-5077,Marketplace,OFF-5077
+SRC_Marketplace_OFF-5078,Marketplace,OFF-5078
+SRC_Marketplace_OFF-5079,Marketplace,OFF-5079
+SRC_Marketplace_OFF-5080,Marketplace,OFF-5080
+SRC_Marketplace_OFF-5081,Marketplace,OFF-5081
+GTIN_03700000000082,Marketplace,OFF-5082
+SRC_Marketplace_OFF-5083,Marketplace,OFF-5083
+SRC_Marketplace_OFF-5084,Marketplace,OFF-5084
+SRC_Marketplace_OFF-5085,Marketplace,OFF-5085
+SRC_Marketplace_OFF-5086,Marketplace,OFF-5086
+SRC_Marketplace_OFF-5087,Marketplace,OFF-5087
+SRC_Marketplace_OFF-5088,Marketplace,OFF-5088
+SRC_Marketplace_OFF-5089,Marketplace,OFF-5089
+SRC_Marketplace_OFF-5090,Marketplace,OFF-5090
+SRC_Marketplace_OFF-7090,Marketplace,OFF-7090
+SRC_Marketplace_OFF-5091,Marketplace,OFF-5091
+SRC_Marketplace_OFF-5092,Marketplace,OFF-5092
+SRC_Marketplace_OFF-5093,Marketplace,OFF-5093
+SRC_Marketplace_OFF-5094,Marketplace,OFF-5094
+SRC_Marketplace_OFF-5095,Marketplace,OFF-5095
+SRC_Marketplace_OFF-5096,Marketplace,OFF-5096
+SRC_Marketplace_OFF-5097,Marketplace,OFF-5097
+SRC_Marketplace_OFF-5098,Marketplace,OFF-5098
+GTIN_03700000000099,Marketplace,OFF-5099
+SRC_Marketplace_OFF-5100,Marketplace,OFF-5100
+SRC_Marketplace_OFF-ERR-01,Marketplace,OFF-ERR-01
